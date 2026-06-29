@@ -1,0 +1,1211 @@
+{
+  "cnpj": "14.213.077/0001-54",
+  "nome_curto": "GUEPARDO",
+  "nome": "GUEPARDO INSTITUCIONAL MASTER FUNDO DE INVESTIMENTO FINANCEIRO EM AÇÕES",
+  "historico": [
+    {
+      "mes_id": "2025-03",
+      "data_ref": "2025-03-31",
+      "data_ref_anterior": "2025-02-28",
+      "posicoes": [
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.169846,
+          "tamanho_anterior": 0.180552,
+          "variacao": -0.010707,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.168926,
+          "tamanho_anterior": 0.15626,
+          "variacao": 0.012666,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.160194,
+          "tamanho_anterior": 0.150247,
+          "variacao": 0.009947,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.100133,
+          "tamanho_anterior": 0.102419,
+          "variacao": -0.002286,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.089043,
+          "tamanho_anterior": 0.084251,
+          "variacao": 0.004792,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.07931,
+          "tamanho_anterior": 0.082589,
+          "variacao": -0.003279,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.068347,
+          "tamanho_anterior": 0.065748,
+          "variacao": 0.0026,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0.067385,
+          "tamanho_anterior": 0.067798,
+          "variacao": -0.000413,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.040041,
+          "tamanho_anterior": 0.041776,
+          "variacao": -0.001735,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.019219,
+          "tamanho_anterior": 0.025084,
+          "variacao": -0.005865,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.01574,
+          "tamanho_anterior": 0.015594,
+          "variacao": 0.000145,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.010137,
+          "tamanho_anterior": 0.010999,
+          "variacao": -0.000862,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.002608,
+          "tamanho_anterior": 0.003178,
+          "variacao": -0.00057,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.002514,
+          "tamanho_anterior": 0.00594,
+          "variacao": -0.003426,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-04",
+      "data_ref": "2025-04-30",
+      "data_ref_anterior": "2025-03-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.18696,
+          "tamanho_anterior": 0.168926,
+          "variacao": 0.018034,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.17708,
+          "tamanho_anterior": 0.169846,
+          "variacao": 0.007234,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.166256,
+          "tamanho_anterior": 0.160194,
+          "variacao": 0.006062,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.098382,
+          "tamanho_anterior": 0.100133,
+          "variacao": -0.001751,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.096867,
+          "tamanho_anterior": 0.089043,
+          "variacao": 0.007824,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.088677,
+          "tamanho_anterior": 0.07931,
+          "variacao": 0.009367,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.070949,
+          "tamanho_anterior": 0.068347,
+          "variacao": 0.002602,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.041309,
+          "tamanho_anterior": 0.040041,
+          "variacao": 0.001268,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0.016878,
+          "tamanho_anterior": 0.067385,
+          "variacao": -0.050506,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.014913,
+          "tamanho_anterior": 0.01574,
+          "variacao": -0.000826,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.008767,
+          "tamanho_anterior": 0.010137,
+          "variacao": -0.00137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.002517,
+          "tamanho_anterior": 0.002608,
+          "variacao": -0.000091,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.00072,
+          "tamanho_anterior": 0,
+          "variacao": 0.00072,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002514,
+          "variacao": -0.002514,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.019219,
+          "variacao": -0.019219,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-05",
+      "data_ref": "2025-05-31",
+      "data_ref_anterior": "2025-04-30",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.200761,
+          "tamanho_anterior": 0.18696,
+          "variacao": 0.0138,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.19373,
+          "tamanho_anterior": 0.17708,
+          "variacao": 0.016651,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.182757,
+          "tamanho_anterior": 0.166256,
+          "variacao": 0.016501,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.105556,
+          "tamanho_anterior": 0.098382,
+          "variacao": 0.007174,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.100964,
+          "tamanho_anterior": 0.096867,
+          "variacao": 0.004097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.08781,
+          "tamanho_anterior": 0.088677,
+          "variacao": -0.000868,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.073029,
+          "tamanho_anterior": 0.070949,
+          "variacao": 0.00208,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.043409,
+          "tamanho_anterior": 0.041309,
+          "variacao": 0.002099,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.006658,
+          "tamanho_anterior": 0.00072,
+          "variacao": 0.005938,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.002499,
+          "tamanho_anterior": 0.002517,
+          "variacao": -0.000018,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.014913,
+          "variacao": -0.014913,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.008767,
+          "variacao": -0.008767,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.016878,
+          "variacao": -0.016878,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-06",
+      "data_ref": "2025-06-30",
+      "data_ref_anterior": "2025-05-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.210545,
+          "tamanho_anterior": 0.200761,
+          "variacao": 0.009784,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.190469,
+          "tamanho_anterior": 0.19373,
+          "variacao": -0.003262,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.181407,
+          "tamanho_anterior": 0.182757,
+          "variacao": -0.00135,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.103473,
+          "tamanho_anterior": 0.105556,
+          "variacao": -0.002083,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.099426,
+          "tamanho_anterior": 0.100964,
+          "variacao": -0.001538,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.083896,
+          "tamanho_anterior": 0.08781,
+          "variacao": -0.003914,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.072259,
+          "tamanho_anterior": 0.073029,
+          "variacao": -0.00077,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.044213,
+          "tamanho_anterior": 0.043409,
+          "variacao": 0.000805,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.007633,
+          "tamanho_anterior": 0.006658,
+          "variacao": 0.000974,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.001782,
+          "tamanho_anterior": 0.002499,
+          "variacao": -0.000718,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-07",
+      "data_ref": "2025-07-31",
+      "data_ref_anterior": "2025-06-30",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.213515,
+          "tamanho_anterior": 0.210545,
+          "variacao": 0.00297,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.198622,
+          "tamanho_anterior": 0.190469,
+          "variacao": 0.008153,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.1758,
+          "tamanho_anterior": 0.181407,
+          "variacao": -0.005607,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.11292,
+          "tamanho_anterior": 0.099426,
+          "variacao": 0.013494,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.094926,
+          "tamanho_anterior": 0.103473,
+          "variacao": -0.008547,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.077161,
+          "tamanho_anterior": 0.083896,
+          "variacao": -0.006734,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.066623,
+          "tamanho_anterior": 0.072259,
+          "variacao": -0.005636,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.047603,
+          "tamanho_anterior": 0.044213,
+          "variacao": 0.003389,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.008355,
+          "tamanho_anterior": 0.007633,
+          "variacao": 0.000722,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.000963,
+          "tamanho_anterior": 0.001782,
+          "variacao": -0.000818,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-08",
+      "data_ref": "2025-08-31",
+      "data_ref_anterior": "2025-07-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.230554,
+          "tamanho_anterior": 0.213515,
+          "variacao": 0.017039,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.186466,
+          "tamanho_anterior": 0.198622,
+          "variacao": -0.012156,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.185124,
+          "tamanho_anterior": 0.1758,
+          "variacao": 0.009324,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.110365,
+          "tamanho_anterior": 0.11292,
+          "variacao": -0.002555,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.096306,
+          "tamanho_anterior": 0.094926,
+          "variacao": 0.001379,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.069609,
+          "tamanho_anterior": 0.077161,
+          "variacao": -0.007552,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.063268,
+          "tamanho_anterior": 0.066623,
+          "variacao": -0.003355,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.044209,
+          "tamanho_anterior": 0.047603,
+          "variacao": -0.003393,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.008078,
+          "tamanho_anterior": 0.008355,
+          "variacao": -0.000277,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.000324,
+          "tamanho_anterior": 0.000963,
+          "variacao": -0.00064,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-09",
+      "data_ref": "2025-09-30",
+      "data_ref_anterior": "2025-08-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.246081,
+          "tamanho_anterior": 0.230554,
+          "variacao": 0.015527,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.186079,
+          "tamanho_anterior": 0.185124,
+          "variacao": 0.000955,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.176676,
+          "tamanho_anterior": 0.186466,
+          "variacao": -0.00979,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.101159,
+          "tamanho_anterior": 0.069609,
+          "variacao": 0.03155,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.099333,
+          "tamanho_anterior": 0.110365,
+          "variacao": -0.011032,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.077502,
+          "tamanho_anterior": 0.096306,
+          "variacao": -0.018804,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.058344,
+          "tamanho_anterior": 0.063268,
+          "variacao": -0.004924,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.042027,
+          "tamanho_anterior": 0.044209,
+          "variacao": -0.002182,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.007752,
+          "tamanho_anterior": 0.008078,
+          "variacao": -0.000326,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.000243,
+          "tamanho_anterior": 0.000324,
+          "variacao": -0.000081,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-10",
+      "data_ref": "2025-10-31",
+      "data_ref_anterior": "2025-09-30",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.245121,
+          "tamanho_anterior": 0.246081,
+          "variacao": -0.00096,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.182757,
+          "tamanho_anterior": 0.186079,
+          "variacao": -0.003322,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.179831,
+          "tamanho_anterior": 0.176676,
+          "variacao": 0.003156,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.107983,
+          "tamanho_anterior": 0.101159,
+          "variacao": 0.006824,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.084229,
+          "tamanho_anterior": 0.099333,
+          "variacao": -0.015104,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.08168,
+          "tamanho_anterior": 0.077502,
+          "variacao": 0.004178,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.055693,
+          "tamanho_anterior": 0.058344,
+          "variacao": -0.002651,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.046066,
+          "tamanho_anterior": 0.042027,
+          "variacao": 0.004038,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.009093,
+          "tamanho_anterior": 0.007752,
+          "variacao": 0.001341,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.000511,
+          "tamanho_anterior": 0.000243,
+          "variacao": 0.000268,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-11",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.243211,
+          "tamanho_anterior": 0.245121,
+          "variacao": -0.001909,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.205552,
+          "tamanho_anterior": 0.182757,
+          "variacao": 0.022795,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.172073,
+          "tamanho_anterior": 0.179831,
+          "variacao": -0.007758,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.116132,
+          "tamanho_anterior": 0.107983,
+          "variacao": 0.008149,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.085371,
+          "tamanho_anterior": 0.084229,
+          "variacao": 0.001143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.055785,
+          "tamanho_anterior": 0.08168,
+          "variacao": -0.025895,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.053231,
+          "tamanho_anterior": 0.055693,
+          "variacao": -0.002462,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.043908,
+          "tamanho_anterior": 0.046066,
+          "variacao": -0.002158,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.008702,
+          "tamanho_anterior": 0.009093,
+          "variacao": -0.00039,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC1",
+          "tamanho": 0.002844,
+          "tamanho_anterior": 0,
+          "variacao": 0.002844,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.000958,
+          "tamanho_anterior": 0.000511,
+          "variacao": 0.000447,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 3e-06,
+          "tamanho_anterior": 0,
+          "variacao": 3e-06,
+          "novo": true,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-12",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.243211,
+          "tamanho_anterior": 0.245121,
+          "variacao": -0.001909,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.205552,
+          "tamanho_anterior": 0.182757,
+          "variacao": 0.022795,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.172073,
+          "tamanho_anterior": 0.179831,
+          "variacao": -0.007758,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.116132,
+          "tamanho_anterior": 0.107983,
+          "variacao": 0.008149,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.085371,
+          "tamanho_anterior": 0.084229,
+          "variacao": 0.001143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.055785,
+          "tamanho_anterior": 0.08168,
+          "variacao": -0.025895,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.053231,
+          "tamanho_anterior": 0.055693,
+          "variacao": -0.002462,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.043908,
+          "tamanho_anterior": 0.046066,
+          "variacao": -0.002158,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.008702,
+          "tamanho_anterior": 0.009093,
+          "variacao": -0.00039,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC1",
+          "tamanho": 0.002844,
+          "tamanho_anterior": 0,
+          "variacao": 0.002844,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.000958,
+          "tamanho_anterior": 0.000511,
+          "variacao": 0.000447,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 3e-06,
+          "tamanho_anterior": 0,
+          "variacao": 3e-06,
+          "novo": true,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-01",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.243211,
+          "tamanho_anterior": 0.245121,
+          "variacao": -0.001909,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.205552,
+          "tamanho_anterior": 0.182757,
+          "variacao": 0.022795,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.172073,
+          "tamanho_anterior": 0.179831,
+          "variacao": -0.007758,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.116132,
+          "tamanho_anterior": 0.107983,
+          "variacao": 0.008149,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.085371,
+          "tamanho_anterior": 0.084229,
+          "variacao": 0.001143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.055785,
+          "tamanho_anterior": 0.08168,
+          "variacao": -0.025895,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.053231,
+          "tamanho_anterior": 0.055693,
+          "variacao": -0.002462,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.043908,
+          "tamanho_anterior": 0.046066,
+          "variacao": -0.002158,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.008702,
+          "tamanho_anterior": 0.009093,
+          "variacao": -0.00039,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC1",
+          "tamanho": 0.002844,
+          "tamanho_anterior": 0,
+          "variacao": 0.002844,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.000958,
+          "tamanho_anterior": 0.000511,
+          "variacao": 0.000447,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 3e-06,
+          "tamanho_anterior": 0,
+          "variacao": 3e-06,
+          "novo": true,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.243211,
+          "tamanho_anterior": 0.245121,
+          "variacao": -0.001909,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.205552,
+          "tamanho_anterior": 0.182757,
+          "variacao": 0.022795,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.172073,
+          "tamanho_anterior": 0.179831,
+          "variacao": -0.007758,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.116132,
+          "tamanho_anterior": 0.107983,
+          "variacao": 0.008149,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.085371,
+          "tamanho_anterior": 0.084229,
+          "variacao": 0.001143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.055785,
+          "tamanho_anterior": 0.08168,
+          "variacao": -0.025895,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.053231,
+          "tamanho_anterior": 0.055693,
+          "variacao": -0.002462,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.043908,
+          "tamanho_anterior": 0.046066,
+          "variacao": -0.002158,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.008702,
+          "tamanho_anterior": 0.009093,
+          "variacao": -0.00039,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC1",
+          "tamanho": 0.002844,
+          "tamanho_anterior": 0,
+          "variacao": 0.002844,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.000958,
+          "tamanho_anterior": 0.000511,
+          "variacao": 0.000447,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 3e-06,
+          "tamanho_anterior": 0,
+          "variacao": 3e-06,
+          "novo": true,
+          "saiu": false
+        }
+      ]
+    }
+  ]
+}

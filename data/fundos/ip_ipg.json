@@ -1,0 +1,2483 @@
+{
+  "cnpj": "28.246.609/0001-64",
+  "nome_curto": "IP IPG",
+  "nome": "IP PARTICIPAÇÕES IPG MASTER FUNDO DE INVESTIMENTO FINANCEIRO EM AÇÕES",
+  "historico": [
+    {
+      "mes_id": "2025-03",
+      "data_ref": "2025-03-31",
+      "data_ref_anterior": "2025-02-28",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.143767,
+          "tamanho_anterior": 0.159357,
+          "variacao": -0.01559,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.093376,
+          "tamanho_anterior": 0.08521,
+          "variacao": 0.008166,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.067579,
+          "tamanho_anterior": 0.064659,
+          "variacao": 0.00292,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.062298,
+          "tamanho_anterior": 0.046438,
+          "variacao": 0.015861,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.049691,
+          "tamanho_anterior": 0.050764,
+          "variacao": -0.001073,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.047941,
+          "tamanho_anterior": 0.042667,
+          "variacao": 0.005274,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.047625,
+          "tamanho_anterior": 0.044918,
+          "variacao": 0.002706,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.043341,
+          "tamanho_anterior": 0.040814,
+          "variacao": 0.002527,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.03872,
+          "tamanho_anterior": 0.0391,
+          "variacao": -0.00038,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.038047,
+          "tamanho_anterior": 0.045067,
+          "variacao": -0.00702,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.037883,
+          "tamanho_anterior": 0.041259,
+          "variacao": -0.003375,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.03305,
+          "tamanho_anterior": 0.040908,
+          "variacao": -0.007858,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.030835,
+          "tamanho_anterior": 0.036407,
+          "variacao": -0.005572,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.024349,
+          "tamanho_anterior": 0.030963,
+          "variacao": -0.006614,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NFLX34",
+          "tamanho": 0.02388,
+          "tamanho_anterior": 0.026377,
+          "variacao": -0.002497,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AIRB34",
+          "tamanho": 0.023384,
+          "tamanho_anterior": 0.027773,
+          "variacao": -0.004389,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.022245,
+          "tamanho_anterior": 0.024036,
+          "variacao": -0.001791,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.014591,
+          "tamanho_anterior": 0.014833,
+          "variacao": -0.000242,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.012584,
+          "tamanho_anterior": 0.012708,
+          "variacao": -0.000124,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.008917,
+          "tamanho_anterior": 0.009634,
+          "variacao": -0.000718,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TMO - Investimento no Exterior",
+          "tamanho": 0.004962,
+          "tamanho_anterior": 0.005389,
+          "variacao": -0.000427,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABNB - Investimento no Exterior",
+          "tamanho": 0.001944,
+          "tamanho_anterior": 0.001205,
+          "variacao": 0.00074,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.000977,
+          "tamanho_anterior": 0.001743,
+          "variacao": -0.000767,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA2",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000278,
+          "variacao": -0.000278,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000098,
+          "variacao": -0.000098,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-04",
+      "data_ref": "2025-04-30",
+      "data_ref_anterior": "2025-03-31",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.139369,
+          "tamanho_anterior": 0.143767,
+          "variacao": -0.004398,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.088225,
+          "tamanho_anterior": 0.093376,
+          "variacao": -0.005151,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.085973,
+          "tamanho_anterior": 0.067579,
+          "variacao": 0.018394,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.076901,
+          "tamanho_anterior": 0.062298,
+          "variacao": 0.014603,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.053097,
+          "tamanho_anterior": 0.049691,
+          "variacao": 0.003406,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.051541,
+          "tamanho_anterior": 0.047941,
+          "variacao": 0.0036,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.049997,
+          "tamanho_anterior": 0.047625,
+          "variacao": 0.002373,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.049152,
+          "tamanho_anterior": 0.043341,
+          "variacao": 0.005811,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.036822,
+          "tamanho_anterior": 0.03872,
+          "variacao": -0.001898,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.035264,
+          "tamanho_anterior": 0.037883,
+          "variacao": -0.00262,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.033738,
+          "tamanho_anterior": 0.038047,
+          "variacao": -0.004309,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.030332,
+          "tamanho_anterior": 0.03305,
+          "variacao": -0.002718,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.029478,
+          "tamanho_anterior": 0.030835,
+          "variacao": -0.001357,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AIRB34",
+          "tamanho": 0.022217,
+          "tamanho_anterior": 0.023384,
+          "variacao": -0.001166,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.021805,
+          "tamanho_anterior": 0.022245,
+          "variacao": -0.00044,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NFLX34",
+          "tamanho": 0.015351,
+          "tamanho_anterior": 0.02388,
+          "variacao": -0.00853,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.01533,
+          "tamanho_anterior": 0.014591,
+          "variacao": 0.000739,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.010748,
+          "tamanho_anterior": 0.012584,
+          "variacao": -0.001835,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.00874,
+          "tamanho_anterior": 0.008917,
+          "variacao": -0.000176,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TMO - Investimento no Exterior",
+          "tamanho": 0.003983,
+          "tamanho_anterior": 0.004962,
+          "variacao": -0.00098,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.001951,
+          "tamanho_anterior": 0.000977,
+          "variacao": 0.000974,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABNB - Investimento no Exterior",
+          "tamanho": 0.001847,
+          "tamanho_anterior": 0.001944,
+          "variacao": -0.000097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0,
+          "tamanho_anterior": 0.024349,
+          "variacao": -0.024349,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-05",
+      "data_ref": "2025-05-31",
+      "data_ref_anterior": "2025-04-30",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.153467,
+          "tamanho_anterior": 0.139369,
+          "variacao": 0.014098,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.083395,
+          "tamanho_anterior": 0.085973,
+          "variacao": -0.002579,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.076408,
+          "tamanho_anterior": 0.088225,
+          "variacao": -0.011817,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.052791,
+          "tamanho_anterior": 0.076901,
+          "variacao": -0.02411,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.049581,
+          "tamanho_anterior": 0.053097,
+          "variacao": -0.003516,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.0486,
+          "tamanho_anterior": 0.049152,
+          "variacao": -0.000552,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.048091,
+          "tamanho_anterior": 0.051541,
+          "variacao": -0.00345,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.046307,
+          "tamanho_anterior": 0.049997,
+          "variacao": -0.00369,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.039051,
+          "tamanho_anterior": 0.029478,
+          "variacao": 0.009573,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.038305,
+          "tamanho_anterior": 0.033738,
+          "variacao": 0.004567,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.036837,
+          "tamanho_anterior": 0.036822,
+          "variacao": 0.000014,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.036273,
+          "tamanho_anterior": 0.035264,
+          "variacao": 0.001009,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.030864,
+          "tamanho_anterior": 0.030332,
+          "variacao": 0.000532,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.024449,
+          "tamanho_anterior": 0.021805,
+          "variacao": 0.002643,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AIRB34",
+          "tamanho": 0.02263,
+          "tamanho_anterior": 0.022217,
+          "variacao": 0.000413,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.015713,
+          "tamanho_anterior": 0.01533,
+          "variacao": 0.000383,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.010753,
+          "tamanho_anterior": 0.010748,
+          "variacao": 4e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NFLX34",
+          "tamanho": 0.010181,
+          "tamanho_anterior": 0.015351,
+          "variacao": -0.00517,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.0098,
+          "tamanho_anterior": 0.00874,
+          "variacao": 0.00106,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.004951,
+          "tamanho_anterior": 0,
+          "variacao": 0.004951,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "TMO - Investimento no Exterior",
+          "tamanho": 0.0036,
+          "tamanho_anterior": 0.003983,
+          "variacao": -0.000383,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.001883,
+          "tamanho_anterior": 0.001951,
+          "variacao": -0.000068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABNB - Investimento no Exterior",
+          "tamanho": 0.001882,
+          "tamanho_anterior": 0.001847,
+          "variacao": 0.000034,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.000026,
+          "tamanho_anterior": 0,
+          "variacao": 0.000026,
+          "novo": true,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-06",
+      "data_ref": "2025-06-30",
+      "data_ref_anterior": "2025-05-31",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.151478,
+          "tamanho_anterior": 0.153467,
+          "variacao": -0.001989,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.078203,
+          "tamanho_anterior": 0.076408,
+          "variacao": 0.001795,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.071524,
+          "tamanho_anterior": 0.083395,
+          "variacao": -0.011871,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.068829,
+          "tamanho_anterior": 0.049581,
+          "variacao": 0.019247,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.050152,
+          "tamanho_anterior": 0.048091,
+          "variacao": 0.002061,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.047227,
+          "tamanho_anterior": 0.046307,
+          "variacao": 0.00092,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.047187,
+          "tamanho_anterior": 0.0486,
+          "variacao": -0.001413,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.041082,
+          "tamanho_anterior": 0.038305,
+          "variacao": 0.002777,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.037701,
+          "tamanho_anterior": 0.039051,
+          "variacao": -0.00135,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.03589,
+          "tamanho_anterior": 0.036837,
+          "variacao": -0.000947,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.032748,
+          "tamanho_anterior": 0.036273,
+          "variacao": -0.003525,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.029921,
+          "tamanho_anterior": 0.024449,
+          "variacao": 0.005473,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.028232,
+          "tamanho_anterior": 0.030864,
+          "variacao": -0.002632,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.026914,
+          "tamanho_anterior": 0.052791,
+          "variacao": -0.025877,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AIRB34",
+          "tamanho": 0.021842,
+          "tamanho_anterior": 0.02263,
+          "variacao": -0.000788,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.019389,
+          "tamanho_anterior": 0.015713,
+          "variacao": 0.003676,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.014964,
+          "tamanho_anterior": 0.004951,
+          "variacao": 0.010013,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.009962,
+          "tamanho_anterior": 0.0098,
+          "variacao": 0.000162,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.008513,
+          "tamanho_anterior": 0.010753,
+          "variacao": -0.00224,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TMO - Investimento no Exterior",
+          "tamanho": 0.003409,
+          "tamanho_anterior": 0.0036,
+          "variacao": -0.000191,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002494,
+          "tamanho_anterior": 0,
+          "variacao": 0.002494,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ABNB - Investimento no Exterior",
+          "tamanho": 0.001816,
+          "tamanho_anterior": 0.001882,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.000797,
+          "tamanho_anterior": 0,
+          "variacao": 0.000797,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.000405,
+          "tamanho_anterior": 0.001883,
+          "variacao": -0.001478,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000026,
+          "variacao": -0.000026,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "NFLX34",
+          "tamanho": 0,
+          "tamanho_anterior": 0.010181,
+          "variacao": -0.010181,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-07",
+      "data_ref": "2025-07-31",
+      "data_ref_anterior": "2025-06-30",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.15658,
+          "tamanho_anterior": 0.151478,
+          "variacao": 0.005102,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.082859,
+          "tamanho_anterior": 0.068829,
+          "variacao": 0.014031,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.075833,
+          "tamanho_anterior": 0.078203,
+          "variacao": -0.00237,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.057518,
+          "tamanho_anterior": 0.071524,
+          "variacao": -0.014006,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.046032,
+          "tamanho_anterior": 0.050152,
+          "variacao": -0.00412,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.044375,
+          "tamanho_anterior": 0.041082,
+          "variacao": 0.003293,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.043847,
+          "tamanho_anterior": 0.047187,
+          "variacao": -0.00334,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.043712,
+          "tamanho_anterior": 0.047227,
+          "variacao": -0.003515,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.041101,
+          "tamanho_anterior": 0.037701,
+          "variacao": 0.0034,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.039131,
+          "tamanho_anterior": 0.03589,
+          "variacao": 0.003242,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.034028,
+          "tamanho_anterior": 0.032748,
+          "variacao": 0.00128,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.033081,
+          "tamanho_anterior": 0.029921,
+          "variacao": 0.003159,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.030394,
+          "tamanho_anterior": 0.026914,
+          "variacao": 0.00348,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.028316,
+          "tamanho_anterior": 0.028232,
+          "variacao": 0.000084,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AIRB34",
+          "tamanho": 0.022527,
+          "tamanho_anterior": 0.021842,
+          "variacao": 0.000684,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.018402,
+          "tamanho_anterior": 0.019389,
+          "variacao": -0.000987,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.01646,
+          "tamanho_anterior": 0.014964,
+          "variacao": 0.001496,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.011014,
+          "tamanho_anterior": 0.009962,
+          "variacao": 0.001052,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.009282,
+          "tamanho_anterior": 0.008513,
+          "variacao": 0.000769,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TMO - Investimento no Exterior",
+          "tamanho": 0.004053,
+          "tamanho_anterior": 0.003409,
+          "variacao": 0.000644,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002591,
+          "tamanho_anterior": 0.002494,
+          "variacao": 0.000097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABNB - Investimento no Exterior",
+          "tamanho": 0.001873,
+          "tamanho_anterior": 0.001816,
+          "variacao": 0.000057,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.0008,
+          "tamanho_anterior": 0.000797,
+          "variacao": 2e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.00042,
+          "tamanho_anterior": 0.000405,
+          "variacao": 0.000015,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-08",
+      "data_ref": "2025-08-31",
+      "data_ref_anterior": "2025-07-31",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.141244,
+          "tamanho_anterior": 0.15658,
+          "variacao": -0.015336,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.085984,
+          "tamanho_anterior": 0.082859,
+          "variacao": 0.003124,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.069336,
+          "tamanho_anterior": 0.075833,
+          "variacao": -0.006497,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.059803,
+          "tamanho_anterior": 0.057518,
+          "variacao": 0.002285,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.057227,
+          "tamanho_anterior": 0.033081,
+          "variacao": 0.024146,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.054458,
+          "tamanho_anterior": 0.046032,
+          "variacao": 0.008426,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.048036,
+          "tamanho_anterior": 0.044375,
+          "variacao": 0.003661,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.042753,
+          "tamanho_anterior": 0.043712,
+          "variacao": -0.00096,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.041229,
+          "tamanho_anterior": 0.041101,
+          "variacao": 0.000128,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.033828,
+          "tamanho_anterior": 0.01646,
+          "variacao": 0.017368,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.033382,
+          "tamanho_anterior": 0.034028,
+          "variacao": -0.000646,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.03177,
+          "tamanho_anterior": 0.039131,
+          "variacao": -0.007361,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.030523,
+          "tamanho_anterior": 0.030394,
+          "variacao": 0.000129,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.026916,
+          "tamanho_anterior": 0.028316,
+          "variacao": -0.001399,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AIRB34",
+          "tamanho": 0.020731,
+          "tamanho_anterior": 0.022527,
+          "variacao": -0.001796,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.020273,
+          "tamanho_anterior": 0.043847,
+          "variacao": -0.023575,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.019479,
+          "tamanho_anterior": 0.018402,
+          "variacao": 0.001077,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.016272,
+          "tamanho_anterior": 0.011014,
+          "variacao": 0.005258,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG - Investimento no Exterior",
+          "tamanho": 0.003741,
+          "tamanho_anterior": 0,
+          "variacao": 0.003741,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002542,
+          "tamanho_anterior": 0.002591,
+          "variacao": -0.000049,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.001753,
+          "tamanho_anterior": 0.009282,
+          "variacao": -0.007529,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABNB - Investimento no Exterior",
+          "tamanho": 0.001724,
+          "tamanho_anterior": 0.001873,
+          "variacao": -0.000149,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.00076,
+          "tamanho_anterior": 0.0008,
+          "variacao": -0.00004,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.000459,
+          "tamanho_anterior": 0.00042,
+          "variacao": 0.000038,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TMO - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.004053,
+          "variacao": -0.004053,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-09",
+      "data_ref": "2025-09-30",
+      "data_ref_anterior": "2025-08-31",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.145221,
+          "tamanho_anterior": 0.141244,
+          "variacao": 0.003977,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.083099,
+          "tamanho_anterior": 0.085984,
+          "variacao": -0.002885,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.056559,
+          "tamanho_anterior": 0.057227,
+          "variacao": -0.000668,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.054447,
+          "tamanho_anterior": 0.069336,
+          "variacao": -0.014889,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.052539,
+          "tamanho_anterior": 0.054458,
+          "variacao": -0.001919,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.05074,
+          "tamanho_anterior": 0.059803,
+          "variacao": -0.009063,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.050522,
+          "tamanho_anterior": 0.041229,
+          "variacao": 0.009293,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.046172,
+          "tamanho_anterior": 0.048036,
+          "variacao": -0.001864,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.04353,
+          "tamanho_anterior": 0.030523,
+          "variacao": 0.013007,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.036582,
+          "tamanho_anterior": 0.03177,
+          "variacao": 0.004812,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.035422,
+          "tamanho_anterior": 0.042753,
+          "variacao": -0.007331,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.03136,
+          "tamanho_anterior": 0.033828,
+          "variacao": -0.002468,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.03084,
+          "tamanho_anterior": 0.033382,
+          "variacao": -0.002542,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.025255,
+          "tamanho_anterior": 0.026916,
+          "variacao": -0.001662,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.019323,
+          "tamanho_anterior": 0.019479,
+          "variacao": -0.000155,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.017546,
+          "tamanho_anterior": 0.016272,
+          "variacao": 0.001274,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSMC34",
+          "tamanho": 0.015078,
+          "tamanho_anterior": 0,
+          "variacao": 0.015078,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "F2IC34",
+          "tamanho": 0.008277,
+          "tamanho_anterior": 0,
+          "variacao": 0.008277,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG - Investimento no Exterior",
+          "tamanho": 0.003488,
+          "tamanho_anterior": 0.003741,
+          "variacao": -0.000253,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002348,
+          "tamanho_anterior": 0.002542,
+          "variacao": -0.000194,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.001596,
+          "tamanho_anterior": 0.001753,
+          "variacao": -0.000156,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.000713,
+          "tamanho_anterior": 0.00076,
+          "variacao": -0.000047,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.000685,
+          "tamanho_anterior": 0.000459,
+          "variacao": 0.000227,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 4e-06,
+          "tamanho_anterior": 0,
+          "variacao": 4e-06,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.020273,
+          "variacao": -0.020273,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "AIRB34",
+          "tamanho": 0,
+          "tamanho_anterior": 0.020731,
+          "variacao": -0.020731,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ABNB - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.001724,
+          "variacao": -0.001724,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-10",
+      "data_ref": "2025-10-31",
+      "data_ref_anterior": "2025-09-30",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.139097,
+          "tamanho_anterior": 0.145221,
+          "variacao": -0.006124,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.080163,
+          "tamanho_anterior": 0.083099,
+          "variacao": -0.002936,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.059632,
+          "tamanho_anterior": 0.050522,
+          "variacao": 0.009111,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.057582,
+          "tamanho_anterior": 0.056559,
+          "variacao": 0.001023,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.05325,
+          "tamanho_anterior": 0.054447,
+          "variacao": -0.001197,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.04767,
+          "tamanho_anterior": 0.052539,
+          "variacao": -0.004868,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.044351,
+          "tamanho_anterior": 0.05074,
+          "variacao": -0.006389,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.043113,
+          "tamanho_anterior": 0.04353,
+          "variacao": -0.000417,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.041263,
+          "tamanho_anterior": 0.046172,
+          "variacao": -0.004909,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.040409,
+          "tamanho_anterior": 0.03136,
+          "variacao": 0.00905,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.036977,
+          "tamanho_anterior": 0.036582,
+          "variacao": 0.000395,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.030906,
+          "tamanho_anterior": 0.03084,
+          "variacao": 0.000066,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.025242,
+          "tamanho_anterior": 0.025255,
+          "variacao": -0.000012,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.023254,
+          "tamanho_anterior": 0.035422,
+          "variacao": -0.012168,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.019414,
+          "tamanho_anterior": 0.019323,
+          "variacao": 0.000091,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSMC34",
+          "tamanho": 0.016242,
+          "tamanho_anterior": 0.015078,
+          "variacao": 0.001164,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.015163,
+          "tamanho_anterior": 0.017546,
+          "variacao": -0.002383,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "F2IC34",
+          "tamanho": 0.009191,
+          "tamanho_anterior": 0.008277,
+          "variacao": 0.000914,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG - Investimento no Exterior",
+          "tamanho": 0.003285,
+          "tamanho_anterior": 0.003488,
+          "variacao": -0.000203,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.003192,
+          "tamanho_anterior": 0.000685,
+          "variacao": 0.002507,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002282,
+          "tamanho_anterior": 0.002348,
+          "variacao": -0.000066,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.001587,
+          "tamanho_anterior": 0.001596,
+          "variacao": -9e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.000713,
+          "tamanho_anterior": 0.000713,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG34",
+          "tamanho": 0.000675,
+          "tamanho_anterior": 0,
+          "variacao": 0.000675,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 4e-06,
+          "variacao": -4e-06,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-11",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.15765,
+          "tamanho_anterior": 0.139097,
+          "variacao": 0.018553,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.085111,
+          "tamanho_anterior": 0.080163,
+          "variacao": 0.004948,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.065812,
+          "tamanho_anterior": 0.059632,
+          "variacao": 0.00618,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.053734,
+          "tamanho_anterior": 0.043113,
+          "variacao": 0.010621,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.053689,
+          "tamanho_anterior": 0.041263,
+          "variacao": 0.012426,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.05303,
+          "tamanho_anterior": 0.057582,
+          "variacao": -0.004552,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.048804,
+          "tamanho_anterior": 0.04767,
+          "variacao": 0.001134,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.04236,
+          "tamanho_anterior": 0.05325,
+          "variacao": -0.01089,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.037402,
+          "tamanho_anterior": 0.040409,
+          "variacao": -0.003007,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.037255,
+          "tamanho_anterior": 0.036977,
+          "variacao": 0.000278,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.033079,
+          "tamanho_anterior": 0.030906,
+          "variacao": 0.002173,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.031812,
+          "tamanho_anterior": 0.044351,
+          "variacao": -0.012538,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.025169,
+          "tamanho_anterior": 0.023254,
+          "variacao": 0.001915,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.024014,
+          "tamanho_anterior": 0.025242,
+          "variacao": -0.001229,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.02064,
+          "tamanho_anterior": 0.019414,
+          "variacao": 0.001226,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSMC34",
+          "tamanho": 0.018622,
+          "tamanho_anterior": 0.016242,
+          "variacao": 0.002381,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.013289,
+          "tamanho_anterior": 0.015163,
+          "variacao": -0.001873,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "F2IC34",
+          "tamanho": 0.009694,
+          "tamanho_anterior": 0.009191,
+          "variacao": 0.000503,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSM - Investimento no Exterior",
+          "tamanho": 0.003427,
+          "tamanho_anterior": 0,
+          "variacao": 0.003427,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG - Investimento no Exterior",
+          "tamanho": 0.003082,
+          "tamanho_anterior": 0.003285,
+          "variacao": -0.000203,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002206,
+          "tamanho_anterior": 0.002282,
+          "variacao": -0.000076,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.001599,
+          "tamanho_anterior": 0.001587,
+          "variacao": 0.000012,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.000678,
+          "tamanho_anterior": 0.000713,
+          "variacao": -0.000035,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG34",
+          "tamanho": 0.000633,
+          "tamanho_anterior": 0.000675,
+          "variacao": -0.000042,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.000428,
+          "tamanho_anterior": 0.003192,
+          "variacao": -0.002764,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-12",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.15765,
+          "tamanho_anterior": 0.139097,
+          "variacao": 0.018553,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.085111,
+          "tamanho_anterior": 0.080163,
+          "variacao": 0.004948,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.065812,
+          "tamanho_anterior": 0.059632,
+          "variacao": 0.00618,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.053734,
+          "tamanho_anterior": 0.043113,
+          "variacao": 0.010621,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.053689,
+          "tamanho_anterior": 0.041263,
+          "variacao": 0.012426,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.05303,
+          "tamanho_anterior": 0.057582,
+          "variacao": -0.004552,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.048804,
+          "tamanho_anterior": 0.04767,
+          "variacao": 0.001134,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.04236,
+          "tamanho_anterior": 0.05325,
+          "variacao": -0.01089,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.037402,
+          "tamanho_anterior": 0.040409,
+          "variacao": -0.003007,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.037255,
+          "tamanho_anterior": 0.036977,
+          "variacao": 0.000278,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.033079,
+          "tamanho_anterior": 0.030906,
+          "variacao": 0.002173,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.031812,
+          "tamanho_anterior": 0.044351,
+          "variacao": -0.012538,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.025169,
+          "tamanho_anterior": 0.023254,
+          "variacao": 0.001915,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.024014,
+          "tamanho_anterior": 0.025242,
+          "variacao": -0.001229,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.02064,
+          "tamanho_anterior": 0.019414,
+          "variacao": 0.001226,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSMC34",
+          "tamanho": 0.018622,
+          "tamanho_anterior": 0.016242,
+          "variacao": 0.002381,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.013289,
+          "tamanho_anterior": 0.015163,
+          "variacao": -0.001873,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "F2IC34",
+          "tamanho": 0.009694,
+          "tamanho_anterior": 0.009191,
+          "variacao": 0.000503,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSM - Investimento no Exterior",
+          "tamanho": 0.003427,
+          "tamanho_anterior": 0,
+          "variacao": 0.003427,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG - Investimento no Exterior",
+          "tamanho": 0.003082,
+          "tamanho_anterior": 0.003285,
+          "variacao": -0.000203,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002206,
+          "tamanho_anterior": 0.002282,
+          "variacao": -0.000076,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.001599,
+          "tamanho_anterior": 0.001587,
+          "variacao": 0.000012,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.000678,
+          "tamanho_anterior": 0.000713,
+          "variacao": -0.000035,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG34",
+          "tamanho": 0.000633,
+          "tamanho_anterior": 0.000675,
+          "variacao": -0.000042,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.000428,
+          "tamanho_anterior": 0.003192,
+          "variacao": -0.002764,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-01",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.15765,
+          "tamanho_anterior": 0.139097,
+          "variacao": 0.018553,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.085111,
+          "tamanho_anterior": 0.080163,
+          "variacao": 0.004948,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.065812,
+          "tamanho_anterior": 0.059632,
+          "variacao": 0.00618,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.053734,
+          "tamanho_anterior": 0.043113,
+          "variacao": 0.010621,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.053689,
+          "tamanho_anterior": 0.041263,
+          "variacao": 0.012426,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.05303,
+          "tamanho_anterior": 0.057582,
+          "variacao": -0.004552,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.048804,
+          "tamanho_anterior": 0.04767,
+          "variacao": 0.001134,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.04236,
+          "tamanho_anterior": 0.05325,
+          "variacao": -0.01089,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.037402,
+          "tamanho_anterior": 0.040409,
+          "variacao": -0.003007,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.037255,
+          "tamanho_anterior": 0.036977,
+          "variacao": 0.000278,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.033079,
+          "tamanho_anterior": 0.030906,
+          "variacao": 0.002173,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.031812,
+          "tamanho_anterior": 0.044351,
+          "variacao": -0.012538,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.025169,
+          "tamanho_anterior": 0.023254,
+          "variacao": 0.001915,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.024014,
+          "tamanho_anterior": 0.025242,
+          "variacao": -0.001229,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.02064,
+          "tamanho_anterior": 0.019414,
+          "variacao": 0.001226,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSMC34",
+          "tamanho": 0.018622,
+          "tamanho_anterior": 0.016242,
+          "variacao": 0.002381,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.013289,
+          "tamanho_anterior": 0.015163,
+          "variacao": -0.001873,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "F2IC34",
+          "tamanho": 0.009694,
+          "tamanho_anterior": 0.009191,
+          "variacao": 0.000503,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSM - Investimento no Exterior",
+          "tamanho": 0.003427,
+          "tamanho_anterior": 0,
+          "variacao": 0.003427,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG - Investimento no Exterior",
+          "tamanho": 0.003082,
+          "tamanho_anterior": 0.003285,
+          "variacao": -0.000203,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002206,
+          "tamanho_anterior": 0.002282,
+          "variacao": -0.000076,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.001599,
+          "tamanho_anterior": 0.001587,
+          "variacao": 0.000012,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.000678,
+          "tamanho_anterior": 0.000713,
+          "variacao": -0.000035,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG34",
+          "tamanho": 0.000633,
+          "tamanho_anterior": 0.000675,
+          "variacao": -0.000042,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.000428,
+          "tamanho_anterior": 0.003192,
+          "variacao": -0.002764,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "IPIPGINT - Investimento no Exterior",
+          "tamanho": 0.15765,
+          "tamanho_anterior": 0.139097,
+          "variacao": 0.018553,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.085111,
+          "tamanho_anterior": 0.080163,
+          "variacao": 0.004948,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOGL34",
+          "tamanho": 0.065812,
+          "tamanho_anterior": 0.059632,
+          "variacao": 0.00618,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.053734,
+          "tamanho_anterior": 0.043113,
+          "variacao": 0.010621,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "M1TA34",
+          "tamanho": 0.053689,
+          "tamanho_anterior": 0.041263,
+          "variacao": 0.012426,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT34",
+          "tamanho": 0.05303,
+          "tamanho_anterior": 0.057582,
+          "variacao": -0.004552,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.048804,
+          "tamanho_anterior": 0.04767,
+          "variacao": 0.001134,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.04236,
+          "tamanho_anterior": 0.05325,
+          "variacao": -0.01089,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AMZO34",
+          "tamanho": 0.037402,
+          "tamanho_anterior": 0.040409,
+          "variacao": -0.003007,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "T1DG34",
+          "tamanho": 0.037255,
+          "tamanho_anterior": 0.036977,
+          "variacao": 0.000278,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSCD34",
+          "tamanho": 0.033079,
+          "tamanho_anterior": 0.030906,
+          "variacao": 0.002173,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.031812,
+          "tamanho_anterior": 0.044351,
+          "variacao": -0.012538,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.025169,
+          "tamanho_anterior": 0.023254,
+          "variacao": 0.001915,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VISA34",
+          "tamanho": 0.024014,
+          "tamanho_anterior": 0.025242,
+          "variacao": -0.001229,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB3",
+          "tamanho": 0.02064,
+          "tamanho_anterior": 0.019414,
+          "variacao": 0.001226,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSMC34",
+          "tamanho": 0.018622,
+          "tamanho_anterior": 0.016242,
+          "variacao": 0.002381,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.013289,
+          "tamanho_anterior": 0.015163,
+          "variacao": -0.001873,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "F2IC34",
+          "tamanho": 0.009694,
+          "tamanho_anterior": 0.009191,
+          "variacao": 0.000503,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TSM - Investimento no Exterior",
+          "tamanho": 0.003427,
+          "tamanho_anterior": 0,
+          "variacao": 0.003427,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG - Investimento no Exterior",
+          "tamanho": 0.003082,
+          "tamanho_anterior": 0.003285,
+          "variacao": -0.000203,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MA - Investimento no Exterior",
+          "tamanho": 0.002206,
+          "tamanho_anterior": 0.002282,
+          "variacao": -0.000076,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TDG - Investimento no Exterior",
+          "tamanho": 0.001599,
+          "tamanho_anterior": 0.001587,
+          "variacao": 0.000012,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "V - Investimento no Exterior",
+          "tamanho": 0.000678,
+          "tamanho_anterior": 0.000713,
+          "variacao": -0.000035,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BKNG34",
+          "tamanho": 0.000633,
+          "tamanho_anterior": 0.000675,
+          "variacao": -0.000042,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USTI - Investimento no Exterior",
+          "tamanho": 0.000428,
+          "tamanho_anterior": 0.003192,
+          "variacao": -0.002764,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    }
+  ]
+}

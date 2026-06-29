@@ -1,0 +1,5193 @@
+{
+  "mes_id": "2025-06",
+  "gerado_em": "2026-06-28",
+  "pares": [
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.758312
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.576465
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.546016
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.489832
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.464521
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.431783
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.430033
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.415328
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.414235
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.384976
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.375992
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.370147
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.369474
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.360756
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.357286
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.354735
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.348647
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "11.188.572/0001-62",
+      "nome_b": "ATMOS",
+      "overlap": 0.339434
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.33754
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.330884
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.327466
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.326103
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.321694
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.321109
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.32085
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.314337
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.312897
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.312219
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.308059
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.307302
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.306301
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.305854
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.301066
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.299242
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.293314
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "11.225.860/0001-40",
+      "nome_b": "CONSTELL",
+      "overlap": 0.292568
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "11.403.884/0001-41",
+      "nome_b": "AZ QUEST",
+      "overlap": 0.292367
+    },
+    {
+      "cnpj_a": "33.600.915/0001-97",
+      "nome_a": "TAVOLA",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.292062
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.285557
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.285381
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.284817
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.283239
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.282689
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.281441
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.278344
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.27777
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.275789
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.274941
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.274439
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "11.176.045/0001-38",
+      "nome_b": "BRASIL C",
+      "overlap": 0.271231
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.268915
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.267828
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.267561
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "11.188.572/0001-62",
+      "nome_b": "ATMOS",
+      "overlap": 0.261629
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.260342
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.259479
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.25874
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.257229
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.254378
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.252479
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.251326
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.242152
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.237041
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.235231
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.234733
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.233046
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.233042
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.232135
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.228241
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.226388
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.2239
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.223875
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.223289
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.223176
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.217271
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.217212
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.216752
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.215802
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.215043
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.212849
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.212419
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.212161
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.211498
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.210837
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.210082
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.20936
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.208661
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.208198
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.206441
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.204807
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.203787
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "11.403.884/0001-41",
+      "nome_b": "AZ QUEST",
+      "overlap": 0.203382
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.202859
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.202216
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.199206
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.199059
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.198332
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.198299
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.198027
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.198005
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.197333
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.196761
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.196683
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.196667
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.196501
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.195189
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.194975
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.193536
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.193092
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.191598
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.189899
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.189804
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0.189279
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.188747
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.188681
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.188567
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "11.403.884/0001-41",
+      "nome_b": "AZ QUEST",
+      "overlap": 0.187672
+    },
+    {
+      "cnpj_a": "37.487.612/0001-60",
+      "nome_a": "ENCORE",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.187397
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.186451
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.186268
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.184243
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.183564
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.183197
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.182815
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.182692
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.181732
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.181516
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.18007
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.179145
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "11.225.860/0001-40",
+      "nome_b": "CONSTELL",
+      "overlap": 0.178135
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.177823
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.177213
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.177058
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.176784
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.1758
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.1757
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.174989
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.17388
+    },
+    {
+      "cnpj_a": "33.600.915/0001-97",
+      "nome_a": "TAVOLA",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.173804
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.17293
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.172917
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.172298
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.170747
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.168236
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.16692
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.166866
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.166727
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.166701
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.166412
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.166197
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.164953
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.164837
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.164814
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.16416
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.163794
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.163429
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.163321
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.163315
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0.163195
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0.162843
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.162609
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.162535
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.161034
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.160825
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.160665
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.160592
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.160185
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.1596
+    },
+    {
+      "cnpj_a": "36.352.539/0001-57",
+      "nome_a": "REAL INV",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.156194
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "10.346.018/0001-01",
+      "nome_b": "LEBLON",
+      "overlap": 0.154027
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0.153658
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.153477
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "11.225.860/0001-40",
+      "nome_b": "CONSTELL",
+      "overlap": 0.152986
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.151277
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.150902
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "11.225.860/0001-40",
+      "nome_b": "CONSTELL",
+      "overlap": 0.150705
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.150622
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.150361
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.150231
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.149681
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.149449
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.148792
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.147512
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "11.176.045/0001-38",
+      "nome_b": "BRASIL C",
+      "overlap": 0.147423
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.146614
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.146563
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.145629
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.143401
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "11.176.045/0001-38",
+      "nome_b": "BRASIL C",
+      "overlap": 0.142363
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.142
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.141879
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "11.225.860/0001-40",
+      "nome_b": "CONSTELL",
+      "overlap": 0.141838
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.140835
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "11.403.884/0001-41",
+      "nome_b": "AZ QUEST",
+      "overlap": 0.14021
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.139588
+    },
+    {
+      "cnpj_a": "36.352.539/0001-57",
+      "nome_a": "REAL INV",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.139275
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.13801
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0.137654
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "11.403.884/0001-41",
+      "nome_b": "AZ QUEST",
+      "overlap": 0.135465
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.134525
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.133455
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.132608
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.132551
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "11.188.572/0001-62",
+      "nome_b": "ATMOS",
+      "overlap": 0.132152
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.131686
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.130234
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.12861
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.128162
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.127953
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.12791
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.125789
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.125656
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.125202
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.124997
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.12497
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.123562
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "11.403.884/0001-41",
+      "nome_b": "AZ QUEST",
+      "overlap": 0.123002
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.121861
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.119581
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.119074
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.118233
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.118222
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.117975
+    },
+    {
+      "cnpj_a": "33.600.915/0001-97",
+      "nome_a": "TAVOLA",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.116883
+    },
+    {
+      "cnpj_a": "33.600.915/0001-97",
+      "nome_a": "TAVOLA",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.116863
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.11641
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.115658
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.11559
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.11417
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.113163
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.113162
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.112134
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.111396
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.110857
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.109252
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.109164
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.10888
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.108514
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.108409
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.108072
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.107903
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.107893
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.107643
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.106389
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.105852
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.105795
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.105745
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.105689
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.105531
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.105465
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.105111
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.104213
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.104175
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.103473
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "10.346.018/0001-01",
+      "nome_b": "LEBLON",
+      "overlap": 0.103205
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.102789
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.102239
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.10223
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.101985
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.101742
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.101701
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.101246
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.100346
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.099727
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.09969
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.099537
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.099459
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.09932
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.099234
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.098294
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "10.346.018/0001-01",
+      "nome_b": "LEBLON",
+      "overlap": 0.09787
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "11.176.045/0001-38",
+      "nome_b": "BRASIL C",
+      "overlap": 0.097791
+    },
+    {
+      "cnpj_a": "37.487.612/0001-60",
+      "nome_a": "ENCORE",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.097676
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.097446
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.09633
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.095921
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.095743
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.095701
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.095454
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.095288
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.094641
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.094428
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.094362
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.094106
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.093973
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.093013
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.09291
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.092671
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.092287
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.092239
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.091262
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.090758
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.088035
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.087907
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.087848
+    },
+    {
+      "cnpj_a": "37.487.612/0001-60",
+      "nome_a": "ENCORE",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.085376
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.085252
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.084143
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.083848
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.08355
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.083103
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.082315
+    },
+    {
+      "cnpj_a": "38.251.507/0001-90",
+      "nome_a": "ORGANON",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.082099
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.08192
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.081003
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.080814
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.080051
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.079948
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.079551
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "11.188.572/0001-62",
+      "nome_b": "ATMOS",
+      "overlap": 0.079335
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.078657
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.078657
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.078614
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.077886
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "11.188.572/0001-62",
+      "nome_b": "ATMOS",
+      "overlap": 0.077846
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.077635
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.077461
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.077326
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.077322
+    },
+    {
+      "cnpj_a": "36.352.539/0001-57",
+      "nome_a": "REAL INV",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.075064
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.074731
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.074625
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.074601
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.07413
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.073633
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.073615
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.0732
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.073081
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.072941
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.072131
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.071707
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.071674
+    },
+    {
+      "cnpj_a": "36.352.539/0001-57",
+      "nome_a": "REAL INV",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.071617
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.071552
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.071335
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.071193
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.070843
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.070827
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.070651
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.069789
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.069685
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.069291
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "09.288.254/0001-21",
+      "nome_b": "SQUADRA",
+      "overlap": 0.068333
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.068257
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.067955
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.067579
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.067396
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.066966
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.066388
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.066188
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.065289
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "09.441.424/0001-66",
+      "nome_b": "FAMA",
+      "overlap": 0.064929
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.064928
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.064545
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.064026
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.063946
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.063946
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.063323
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "09.143.435/0001-60",
+      "nome_b": "GTI DIMONA",
+      "overlap": 0.062814
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.062653
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.062452
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.062014
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.061229
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.061172
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.061145
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.060973
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0.060897
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.059707
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.059592
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.059421
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.059334
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.059242
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.059023
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.058758
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.058715
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.05871
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.057751
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.057503
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.057416
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.057273
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.057221
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.057165
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "11.176.045/0001-38",
+      "nome_b": "BRASIL C",
+      "overlap": 0.056344
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.056101
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.055705
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.055388
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.055124
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "11.225.860/0001-40",
+      "nome_b": "CONSTELL",
+      "overlap": 0.055043
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.055043
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.054991
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.054803
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.054081
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.054058
+    },
+    {
+      "cnpj_a": "41.673.080/0001-23",
+      "nome_a": "SUNO",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.053654
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.052981
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.052981
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.05256
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.05217
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.051569
+    },
+    {
+      "cnpj_a": "36.352.539/0001-57",
+      "nome_a": "REAL INV",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.051132
+    },
+    {
+      "cnpj_a": "37.916.879/0001-26",
+      "nome_a": "DYNAMO",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.051127
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0.051013
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.050385
+    },
+    {
+      "cnpj_a": "37.916.879/0001-26",
+      "nome_a": "DYNAMO",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.049925
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.049875
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.049299
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.048953
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.048582
+    },
+    {
+      "cnpj_a": "33.600.915/0001-97",
+      "nome_a": "TAVOLA",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.048572
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.04847
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.048261
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.048172
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.047862
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.047762
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.047227
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.047202
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.046693
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.04648
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.04629
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.045861
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.045774
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.04574
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.045325
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.045143
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.045009
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.044865
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.044581
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.044581
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.044289
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.044213
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.044204
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.044027
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.044024
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.043856
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.043197
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.042614
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.042237
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.042042
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.041995
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.041979
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.041669
+    },
+    {
+      "cnpj_a": "37.487.612/0001-60",
+      "nome_a": "ENCORE",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.041437
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.041014
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.040944
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.040788
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.040644
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.040591
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.040591
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.038649
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.038507
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.038229
+    },
+    {
+      "cnpj_a": "41.673.080/0001-23",
+      "nome_a": "SUNO",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.038136
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.037763
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.036787
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.036381
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.036381
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.036214
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.035868
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.035789
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.035717
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.035505
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.035315
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.035299
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.03451
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.034402
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.034364
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.03434
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "11.403.884/0001-41",
+      "nome_b": "AZ QUEST",
+      "overlap": 0.032909
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.032616
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.032602
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.032531
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.032164
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "21.917.206/0001-50",
+      "nome_b": "FORPUS",
+      "overlap": 0.032091
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.031694
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.031633
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.031328
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.03108
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.030395
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.030179
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.029963
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "10.346.018/0001-01",
+      "nome_b": "LEBLON",
+      "overlap": 0.029761
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.029761
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.029701
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.02933
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "11.188.572/0001-62",
+      "nome_b": "ATMOS",
+      "overlap": 0.029214
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.029023
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.028902
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.028846
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.028846
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.028579
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.028547
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.028395
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.028217
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.027637
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.026945
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.026914
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.026914
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.026914
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.026914
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.026413
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.025753
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.025273
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0.025181
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.024874
+    },
+    {
+      "cnpj_a": "33.600.915/0001-97",
+      "nome_a": "TAVOLA",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.024517
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.023408
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "11.225.860/0001-40",
+      "nome_b": "CONSTELL",
+      "overlap": 0.023379
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.023203
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.022834
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.022831
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.022691
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.022132
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "09.441.424/0001-66",
+      "nome_b": "FAMA",
+      "overlap": 0.021982
+    },
+    {
+      "cnpj_a": "38.251.507/0001-90",
+      "nome_a": "ORGANON",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.021597
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.021233
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0.02122
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.020834
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.020709
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.020427
+    },
+    {
+      "cnpj_a": "33.600.915/0001-97",
+      "nome_a": "TAVOLA",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.020194
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.020108
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.019869
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "37.487.612/0001-60",
+      "nome_a": "ENCORE",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "37.916.879/0001-26",
+      "nome_a": "DYNAMO",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.019447
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.019389
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.019069
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.01897
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.018113
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.01781
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.017806
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.017584
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.017584
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.017584
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.017584
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.017325
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.017325
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.017259
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "15.559.384/0001-54",
+      "nome_b": "LOGOS TR",
+      "overlap": 0.016829
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.016689
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.016689
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.016291
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.016203
+    },
+    {
+      "cnpj_a": "36.352.539/0001-57",
+      "nome_a": "REAL INV",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.015766
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.015721
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.015418
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.015028
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.014729
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.014729
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.014625
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.01459
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.01459
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.01459
+    },
+    {
+      "cnpj_a": "37.916.879/0001-26",
+      "nome_a": "DYNAMO",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.014366
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.013904
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.013807
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0.013807
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.013359
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.012356
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.012022
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.011553
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.011553
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.011524
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.01143
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.011285
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.011062
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.010853
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.010706
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.009935
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.009908
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.009387
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.0088
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.008518
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.008518
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.008026
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "12.055.107/0001-16",
+      "nome_b": "ALASKA",
+      "overlap": 0.007683
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.007648
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.007007
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.006864
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.006496
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.006496
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.006496
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.006496
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.006496
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.006464
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.006241
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.005777
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.005641
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0.005074
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.003824
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.003541
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.003141
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "26.491.395/0001-66",
+      "nome_b": "MOAT",
+      "overlap": 0.003137
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.003137
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0.003107
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0.002685
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.002635
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "09.288.254/0001-21",
+      "nome_b": "SQUADRA",
+      "overlap": 0.002634
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "11.403.884/0001-41",
+      "nome_b": "AZ QUEST",
+      "overlap": 0.002268
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.00215
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0.002136
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.002136
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.002128
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.001944
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.001944
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0.001894
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.001788
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.001782
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0.001782
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "33.600.915/0001-97",
+      "nome_b": "TAVOLA",
+      "overlap": 0.001332
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0.001277
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.000974
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0.000808
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.000617
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.0006
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0.0006
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.000348
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "09.441.424/0001-66",
+      "nome_b": "FAMA",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "20.030.712/0001-60",
+      "nome_b": "PATRIA PIPE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "07.195.440/0001-90",
+      "nome_a": "E2M INT",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "11.980.010/0001-57",
+      "nome_b": "EQUITAS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.288.254/0001-21",
+      "nome_a": "SQUADRA",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "09.441.424/0001-66",
+      "nome_a": "FAMA",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "10.346.018/0001-01",
+      "nome_a": "LEBLON",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.176.045/0001-38",
+      "nome_a": "BRASIL C",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.188.572/0001-62",
+      "nome_a": "ATMOS",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.225.860/0001-40",
+      "nome_a": "CONSTELL",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.403.884/0001-41",
+      "nome_a": "AZ QUEST",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "11.980.010/0001-57",
+      "nome_a": "EQUITAS",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "12.055.107/0001-16",
+      "nome_a": "ALASKA",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "15.165.493/0001-97",
+      "nome_b": "BOGARI",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "18.961.491/0001-00",
+      "nome_b": "XP LB",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "24.325.422/0001-03",
+      "nome_b": "LIS VALUE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "15.165.493/0001-97",
+      "nome_a": "BOGARI",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "15.559.384/0001-54",
+      "nome_a": "LOGOS TR",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "18.961.491/0001-00",
+      "nome_a": "XP LB",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "20.030.712/0001-60",
+      "nome_a": "PATRIA PIPE",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "21.917.206/0001-50",
+      "nome_a": "FORPUS",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "24.325.422/0001-03",
+      "nome_a": "LIS VALUE",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "26.491.395/0001-66",
+      "nome_a": "MOAT",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "32.065.814/0001-09",
+      "nome_b": "AVANTGARDE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "29.574.952/0001-09",
+      "nome_b": "VERSA FIT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "31.635.364/0001-71",
+      "nome_b": "DAHLIA",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "37.487.612/0001-60",
+      "nome_b": "ENCORE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "37.916.879/0001-26",
+      "nome_b": "DYNAMO",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.574.952/0001-09",
+      "nome_a": "VERSA FIT",
+      "cnpj_b": "41.673.080/0001-23",
+      "nome_b": "SUNO",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "31.635.364/0001-71",
+      "nome_a": "DAHLIA",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "32.065.814/0001-09",
+      "nome_a": "AVANTGARDE",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "38.251.507/0001-90",
+      "nome_a": "ORGANON",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "42.190.558/0001-27",
+      "nome_a": "VERBIER",
+      "cnpj_b": "42.196.278/0001-26",
+      "nome_b": "JOULE",
+      "overlap": 0
+    }
+  ]
+}

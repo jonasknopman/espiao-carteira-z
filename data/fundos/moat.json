@@ -1,0 +1,3019 @@
+{
+  "cnpj": "26.491.395/0001-66",
+  "nome_curto": "MOAT",
+  "nome": "MOAT CAPITAL FUNDO DE INVESTIMENTO EM AÇÕES MASTER",
+  "historico": [
+    {
+      "mes_id": "2025-03",
+      "data_ref": "2025-03-31",
+      "data_ref_anterior": "2025-02-28",
+      "posicoes": [
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.091048,
+          "tamanho_anterior": 0.089942,
+          "variacao": 0.001106,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.081917,
+          "tamanho_anterior": 0.078106,
+          "variacao": 0.00381,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.07772,
+          "tamanho_anterior": 0.063687,
+          "variacao": 0.014032,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.065406,
+          "tamanho_anterior": 0.065369,
+          "variacao": 0.000038,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.065056,
+          "tamanho_anterior": 0.057832,
+          "variacao": 0.007224,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRFS3",
+          "tamanho": 0.062424,
+          "tamanho_anterior": 0.09239,
+          "variacao": -0.029965,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.050447,
+          "tamanho_anterior": 0.05208,
+          "variacao": -0.001634,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.047913,
+          "tamanho_anterior": 0,
+          "variacao": 0.047913,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0.044279,
+          "tamanho_anterior": 0.037188,
+          "variacao": 0.007091,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.042675,
+          "tamanho_anterior": 0,
+          "variacao": 0.042675,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "NTCO3",
+          "tamanho": 0.041102,
+          "tamanho_anterior": 0.032941,
+          "variacao": 0.00816,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.036667,
+          "tamanho_anterior": 0.035909,
+          "variacao": 0.000757,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.035312,
+          "tamanho_anterior": 0.057278,
+          "variacao": -0.021966,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.034109,
+          "tamanho_anterior": 0.053217,
+          "variacao": -0.019108,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0.033682,
+          "tamanho_anterior": 0.036002,
+          "variacao": -0.00232,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.030466,
+          "tamanho_anterior": 0.035543,
+          "variacao": -0.005077,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.030284,
+          "tamanho_anterior": 0.04461,
+          "variacao": -0.014326,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.024956,
+          "tamanho_anterior": 0.011585,
+          "variacao": 0.01337,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0.022085,
+          "tamanho_anterior": 0,
+          "variacao": 0.022085,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0.017948,
+          "tamanho_anterior": 0.044268,
+          "variacao": -0.02632,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.014869,
+          "tamanho_anterior": 0,
+          "variacao": 0.014869,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0.013777,
+          "tamanho_anterior": 0,
+          "variacao": 0.013777,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BRKM5",
+          "tamanho": 0.010526,
+          "tamanho_anterior": 0,
+          "variacao": 0.010526,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.007038,
+          "tamanho_anterior": 0.00588,
+          "variacao": 0.001158,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BBDC4",
+          "tamanho": 0.004735,
+          "tamanho_anterior": 0,
+          "variacao": 0.004735,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PRNR3",
+          "tamanho": 0.001646,
+          "tamanho_anterior": 0,
+          "variacao": 0.001646,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.060685,
+          "variacao": -0.060685,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.01249,
+          "variacao": -0.01249,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "AZUL4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.019762,
+          "variacao": -0.019762,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-04",
+      "data_ref": "2025-04-30",
+      "data_ref_anterior": "2025-03-31",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.088692,
+          "tamanho_anterior": 0.081917,
+          "variacao": 0.006776,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRFS3",
+          "tamanho": 0.076863,
+          "tamanho_anterior": 0.062424,
+          "variacao": 0.014439,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0.071581,
+          "tamanho_anterior": 0.013777,
+          "variacao": 0.057804,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.070976,
+          "tamanho_anterior": 0.042675,
+          "variacao": 0.028301,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.068745,
+          "tamanho_anterior": 0.07772,
+          "variacao": -0.008975,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.067022,
+          "tamanho_anterior": 0.050447,
+          "variacao": 0.016575,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.061834,
+          "tamanho_anterior": 0.065406,
+          "variacao": -0.003572,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.059361,
+          "tamanho_anterior": 0.065056,
+          "variacao": -0.005696,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0.051699,
+          "tamanho_anterior": 0.044279,
+          "variacao": 0.00742,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.049103,
+          "tamanho_anterior": 0.036667,
+          "variacao": 0.012437,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.048118,
+          "tamanho_anterior": 0.030284,
+          "variacao": 0.017834,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0.045428,
+          "tamanho_anterior": 0.022085,
+          "variacao": 0.023343,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.03649,
+          "tamanho_anterior": 0.091048,
+          "variacao": -0.054558,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.031237,
+          "tamanho_anterior": 0.014869,
+          "variacao": 0.016368,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.027027,
+          "tamanho_anterior": 0.035312,
+          "variacao": -0.008285,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.024904,
+          "tamanho_anterior": 0.034109,
+          "variacao": -0.009205,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SIMH3",
+          "tamanho": 0.022756,
+          "tamanho_anterior": 0,
+          "variacao": 0.022756,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.01431,
+          "tamanho_anterior": 0.047913,
+          "variacao": -0.033602,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.00667,
+          "tamanho_anterior": 0.007038,
+          "variacao": -0.000368,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BBDC4",
+          "tamanho": 0.006351,
+          "tamanho_anterior": 0.004735,
+          "variacao": 0.001616,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRNR3",
+          "tamanho": 0.001549,
+          "tamanho_anterior": 0.001646,
+          "variacao": -0.000097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.030466,
+          "variacao": -0.030466,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "NTCO3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.041102,
+          "variacao": -0.041102,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.017948,
+          "variacao": -0.017948,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.024956,
+          "variacao": -0.024956,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.033682,
+          "variacao": -0.033682,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "BRKM5",
+          "tamanho": 0,
+          "tamanho_anterior": 0.010526,
+          "variacao": -0.010526,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-05",
+      "data_ref": "2025-05-31",
+      "data_ref_anterior": "2025-04-30",
+      "posicoes": [
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.102662,
+          "tamanho_anterior": 0.068745,
+          "variacao": 0.033917,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.095278,
+          "tamanho_anterior": 0.088692,
+          "variacao": 0.006586,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.079237,
+          "tamanho_anterior": 0.061834,
+          "variacao": 0.017403,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.073498,
+          "tamanho_anterior": 0.067022,
+          "variacao": 0.006476,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.068928,
+          "tamanho_anterior": 0.048118,
+          "variacao": 0.02081,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0.068768,
+          "tamanho_anterior": 0.051699,
+          "variacao": 0.017068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.063949,
+          "tamanho_anterior": 0.070976,
+          "variacao": -0.007027,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.052417,
+          "tamanho_anterior": 0.01431,
+          "variacao": 0.038107,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.051455,
+          "tamanho_anterior": 0.049103,
+          "variacao": 0.002352,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.050403,
+          "tamanho_anterior": 0.03649,
+          "variacao": 0.013912,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0.049813,
+          "tamanho_anterior": 0.071581,
+          "variacao": -0.021768,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.037595,
+          "tamanho_anterior": 0.059361,
+          "variacao": -0.021766,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0.036727,
+          "tamanho_anterior": 0,
+          "variacao": 0.036727,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.034041,
+          "tamanho_anterior": 0.031237,
+          "variacao": 0.002804,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NEOE3",
+          "tamanho": 0.02883,
+          "tamanho_anterior": 0,
+          "variacao": 0.02883,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.022272,
+          "tamanho_anterior": 0.027027,
+          "variacao": -0.004755,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0.016817,
+          "tamanho_anterior": 0,
+          "variacao": 0.016817,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.015311,
+          "tamanho_anterior": 0.00667,
+          "variacao": 0.008641,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BBDC4",
+          "tamanho": 0.009525,
+          "tamanho_anterior": 0.006351,
+          "variacao": 0.003174,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0.004107,
+          "tamanho_anterior": 0,
+          "variacao": 0.004107,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0.004035,
+          "tamanho_anterior": 0,
+          "variacao": 0.004035,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PRNR3",
+          "tamanho": 0.001461,
+          "tamanho_anterior": 0.001549,
+          "variacao": -0.000089,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.000655,
+          "tamanho_anterior": 0.024904,
+          "variacao": -0.024249,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRFS3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.076863,
+          "variacao": -0.076863,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SIMH3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.022756,
+          "variacao": -0.022756,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.045428,
+          "variacao": -0.045428,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-06",
+      "data_ref": "2025-06-30",
+      "data_ref_anterior": "2025-05-31",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.108503,
+          "tamanho_anterior": 0.095278,
+          "variacao": 0.013225,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.082248,
+          "tamanho_anterior": 0.068928,
+          "variacao": 0.013321,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.078323,
+          "tamanho_anterior": 0.102662,
+          "variacao": -0.02434,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.073965,
+          "tamanho_anterior": 0.079237,
+          "variacao": -0.005272,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0.06674,
+          "tamanho_anterior": 0.068768,
+          "variacao": -0.002028,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.055388,
+          "tamanho_anterior": 0.063949,
+          "variacao": -0.008561,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.05287,
+          "tamanho_anterior": 0.051455,
+          "variacao": 0.001415,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0.050295,
+          "tamanho_anterior": 0.016817,
+          "variacao": 0.033478,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.049955,
+          "tamanho_anterior": 0.073498,
+          "variacao": -0.023543,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.041708,
+          "tamanho_anterior": 0.037595,
+          "variacao": 0.004112,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.038631,
+          "tamanho_anterior": 0.022272,
+          "variacao": 0.016359,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0.038453,
+          "tamanho_anterior": 0.036727,
+          "variacao": 0.001725,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NEOE3",
+          "tamanho": 0.036156,
+          "tamanho_anterior": 0.02883,
+          "variacao": 0.007326,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.03215,
+          "tamanho_anterior": 0.034041,
+          "variacao": -0.001891,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.031169,
+          "tamanho_anterior": 0.052417,
+          "variacao": -0.021248,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.030354,
+          "tamanho_anterior": 0.050403,
+          "variacao": -0.020049,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0.029319,
+          "tamanho_anterior": 0.004035,
+          "variacao": 0.025284,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0.023421,
+          "tamanho_anterior": 0.004107,
+          "variacao": 0.019314,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.021618,
+          "tamanho_anterior": 0.000655,
+          "variacao": 0.020963,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.015227,
+          "tamanho_anterior": 0.015311,
+          "variacao": -0.000084,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.013318,
+          "tamanho_anterior": 0,
+          "variacao": 0.013318,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0.009466,
+          "tamanho_anterior": 0,
+          "variacao": 0.009466,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.003137,
+          "tamanho_anterior": 0,
+          "variacao": 0.003137,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PRNR3",
+          "tamanho": 0.001429,
+          "tamanho_anterior": 0.001461,
+          "variacao": -0.000032,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BBDC4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.009525,
+          "variacao": -0.009525,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.049813,
+          "variacao": -0.049813,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-07",
+      "data_ref": "2025-07-31",
+      "data_ref_anterior": "2025-06-30",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.109174,
+          "tamanho_anterior": 0.108503,
+          "variacao": 0.000671,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0.069386,
+          "tamanho_anterior": 0.06674,
+          "variacao": 0.002647,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.068791,
+          "tamanho_anterior": 0.073965,
+          "variacao": -0.005173,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.064086,
+          "tamanho_anterior": 0.078323,
+          "variacao": -0.014237,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.055683,
+          "tamanho_anterior": 0,
+          "variacao": 0.055683,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.055629,
+          "tamanho_anterior": 0.031169,
+          "variacao": 0.02446,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.055187,
+          "tamanho_anterior": 0.055388,
+          "variacao": -0.000201,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BBDC4",
+          "tamanho": 0.051959,
+          "tamanho_anterior": 0,
+          "variacao": 0.051959,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0.049545,
+          "tamanho_anterior": 0,
+          "variacao": 0.049545,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.047304,
+          "tamanho_anterior": 0.05287,
+          "variacao": -0.005566,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.046798,
+          "tamanho_anterior": 0.049955,
+          "variacao": -0.003157,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.041722,
+          "tamanho_anterior": 0.030354,
+          "variacao": 0.011368,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.038633,
+          "tamanho_anterior": 0.082248,
+          "variacao": -0.043616,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.038595,
+          "tamanho_anterior": 0.03215,
+          "variacao": 0.006445,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0.035187,
+          "tamanho_anterior": 0.038453,
+          "variacao": -0.003266,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0.034845,
+          "tamanho_anterior": 0.023421,
+          "variacao": 0.011424,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0.029385,
+          "tamanho_anterior": 0.050295,
+          "variacao": -0.020909,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0.021533,
+          "tamanho_anterior": 0.009466,
+          "variacao": 0.012066,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.020478,
+          "tamanho_anterior": 0.021618,
+          "variacao": -0.001139,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.015666,
+          "tamanho_anterior": 0.015227,
+          "variacao": 0.000439,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PCAR3",
+          "tamanho": 0.011619,
+          "tamanho_anterior": 0,
+          "variacao": 0.011619,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.011392,
+          "tamanho_anterior": 0,
+          "variacao": 0.011392,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0.008511,
+          "tamanho_anterior": 0.029319,
+          "variacao": -0.020808,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRNR3",
+          "tamanho": 0.001606,
+          "tamanho_anterior": 0.001429,
+          "variacao": 0.000177,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.041708,
+          "variacao": -0.041708,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.013318,
+          "variacao": -0.013318,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "NEOE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.036156,
+          "variacao": -0.036156,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.038631,
+          "variacao": -0.038631,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.003137,
+          "variacao": -0.003137,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-08",
+      "data_ref": "2025-08-31",
+      "data_ref_anterior": "2025-07-31",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.112833,
+          "tamanho_anterior": 0.109174,
+          "variacao": 0.003659,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.080795,
+          "tamanho_anterior": 0.055683,
+          "variacao": 0.025112,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.079767,
+          "tamanho_anterior": 0.068791,
+          "variacao": 0.010975,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.061889,
+          "tamanho_anterior": 0,
+          "variacao": 0.061889,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0.054978,
+          "tamanho_anterior": 0.069386,
+          "variacao": -0.014408,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.051365,
+          "tamanho_anterior": 0.038633,
+          "variacao": 0.012733,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TEND3",
+          "tamanho": 0.051032,
+          "tamanho_anterior": 0,
+          "variacao": 0.051032,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0.041402,
+          "tamanho_anterior": 0.035187,
+          "variacao": 0.006215,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.038997,
+          "tamanho_anterior": 0.041722,
+          "variacao": -0.002725,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.03849,
+          "tamanho_anterior": 0.047304,
+          "variacao": -0.008814,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.037957,
+          "tamanho_anterior": 0.020478,
+          "variacao": 0.017479,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.03773,
+          "tamanho_anterior": 0.038595,
+          "variacao": -0.000866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.036054,
+          "tamanho_anterior": 0.055629,
+          "variacao": -0.019575,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.034418,
+          "tamanho_anterior": 0.064086,
+          "variacao": -0.029668,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.033207,
+          "tamanho_anterior": 0,
+          "variacao": 0.033207,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.030469,
+          "tamanho_anterior": 0.046798,
+          "variacao": -0.016329,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.029435,
+          "tamanho_anterior": 0.011392,
+          "variacao": 0.018043,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0.026116,
+          "tamanho_anterior": 0.029385,
+          "variacao": -0.003269,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSMG3",
+          "tamanho": 0.023792,
+          "tamanho_anterior": 0,
+          "variacao": 0.023792,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.022056,
+          "tamanho_anterior": 0,
+          "variacao": 0.022056,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0.019846,
+          "tamanho_anterior": 0.021533,
+          "variacao": -0.001686,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ELET6",
+          "tamanho": 0.01964,
+          "tamanho_anterior": 0,
+          "variacao": 0.01964,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.015465,
+          "tamanho_anterior": 0.015666,
+          "variacao": -0.000201,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRNR3",
+          "tamanho": 0.00149,
+          "tamanho_anterior": 0.001606,
+          "variacao": -0.000116,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.008511,
+          "variacao": -0.008511,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.034845,
+          "variacao": -0.034845,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.055187,
+          "variacao": -0.055187,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PCAR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.011619,
+          "variacao": -0.011619,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.049545,
+          "variacao": -0.049545,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "BBDC4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.051959,
+          "variacao": -0.051959,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-09",
+      "data_ref": "2025-09-30",
+      "data_ref_anterior": "2025-08-31",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.091937,
+          "tamanho_anterior": 0.112833,
+          "variacao": -0.020896,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.073185,
+          "tamanho_anterior": 0.033207,
+          "variacao": 0.039978,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.063253,
+          "tamanho_anterior": 0,
+          "variacao": 0.063253,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.054492,
+          "tamanho_anterior": 0.036054,
+          "variacao": 0.018437,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.053201,
+          "tamanho_anterior": 0.079767,
+          "variacao": -0.026566,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SAPR11",
+          "tamanho": 0.051813,
+          "tamanho_anterior": 0,
+          "variacao": 0.051813,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.048911,
+          "tamanho_anterior": 0.038997,
+          "variacao": 0.009914,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.047844,
+          "tamanho_anterior": 0.080795,
+          "variacao": -0.032951,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0.044502,
+          "tamanho_anterior": 0,
+          "variacao": 0.044502,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.044308,
+          "tamanho_anterior": 0,
+          "variacao": 0.044308,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.040777,
+          "tamanho_anterior": 0.03773,
+          "variacao": 0.003048,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.037458,
+          "tamanho_anterior": 0,
+          "variacao": 0.037458,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BBAS3",
+          "tamanho": 0.035844,
+          "tamanho_anterior": 0,
+          "variacao": 0.035844,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ELET3",
+          "tamanho": 0.033024,
+          "tamanho_anterior": 0,
+          "variacao": 0.033024,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "NATU3",
+          "tamanho": 0.032048,
+          "tamanho_anterior": 0,
+          "variacao": 0.032048,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "SBFG3",
+          "tamanho": 0.029498,
+          "tamanho_anterior": 0,
+          "variacao": 0.029498,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.029347,
+          "tamanho_anterior": 0.03849,
+          "variacao": -0.009143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0.026568,
+          "tamanho_anterior": 0.026116,
+          "variacao": 0.000452,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0.025911,
+          "tamanho_anterior": 0.054978,
+          "variacao": -0.029067,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.022132,
+          "tamanho_anterior": 0,
+          "variacao": 0.022132,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ELET6",
+          "tamanho": 0.022102,
+          "tamanho_anterior": 0.01964,
+          "variacao": 0.002463,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.020768,
+          "tamanho_anterior": 0.029435,
+          "variacao": -0.008668,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0.016617,
+          "tamanho_anterior": 0.019846,
+          "variacao": -0.00323,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.015967,
+          "tamanho_anterior": 0.051365,
+          "variacao": -0.035399,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.014417,
+          "tamanho_anterior": 0.015465,
+          "variacao": -0.001048,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DIRR3",
+          "tamanho": 0.008095,
+          "tamanho_anterior": 0,
+          "variacao": 0.008095,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0.005313,
+          "tamanho_anterior": 0,
+          "variacao": 0.005313,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.041402,
+          "variacao": -0.041402,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "TEND3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.051032,
+          "variacao": -0.051032,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.061889,
+          "variacao": -0.061889,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "CSMG3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.023792,
+          "variacao": -0.023792,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.022056,
+          "variacao": -0.022056,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PRNR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.00149,
+          "variacao": -0.00149,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.030469,
+          "variacao": -0.030469,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.034418,
+          "variacao": -0.034418,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.037957,
+          "variacao": -0.037957,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-10",
+      "data_ref": "2025-10-31",
+      "data_ref_anterior": "2025-09-30",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.088308,
+          "tamanho_anterior": 0.091937,
+          "variacao": -0.003629,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.082688,
+          "tamanho_anterior": 0.073185,
+          "variacao": 0.009503,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.081191,
+          "tamanho_anterior": 0.047844,
+          "variacao": 0.033346,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.080985,
+          "tamanho_anterior": 0.053201,
+          "variacao": 0.027784,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.074982,
+          "tamanho_anterior": 0.054492,
+          "variacao": 0.02049,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.060772,
+          "tamanho_anterior": 0.015967,
+          "variacao": 0.044805,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.060604,
+          "tamanho_anterior": 0,
+          "variacao": 0.060604,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "DIRR3",
+          "tamanho": 0.057165,
+          "tamanho_anterior": 0.008095,
+          "variacao": 0.04907,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.050034,
+          "tamanho_anterior": 0.040777,
+          "variacao": 0.009257,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.03547,
+          "tamanho_anterior": 0.048911,
+          "variacao": -0.013441,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBFG3",
+          "tamanho": 0.034443,
+          "tamanho_anterior": 0.029498,
+          "variacao": 0.004945,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.029849,
+          "tamanho_anterior": 0.022132,
+          "variacao": 0.007717,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0.029546,
+          "tamanho_anterior": 0,
+          "variacao": 0.029546,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.026767,
+          "tamanho_anterior": 0.029347,
+          "variacao": -0.002581,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.024698,
+          "tamanho_anterior": 0.044308,
+          "variacao": -0.01961,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.02431,
+          "tamanho_anterior": 0.020768,
+          "variacao": 0.003542,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TEND3",
+          "tamanho": 0.020421,
+          "tamanho_anterior": 0,
+          "variacao": 0.020421,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0.018964,
+          "tamanho_anterior": 0,
+          "variacao": 0.018964,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.018115,
+          "tamanho_anterior": 0,
+          "variacao": 0.018115,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ELET6",
+          "tamanho": 0.017824,
+          "tamanho_anterior": 0.022102,
+          "variacao": -0.004278,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0.013685,
+          "tamanho_anterior": 0.005313,
+          "variacao": 0.008372,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.013581,
+          "tamanho_anterior": 0.014417,
+          "variacao": -0.000836,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.013564,
+          "tamanho_anterior": 0,
+          "variacao": 0.013564,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "NATU3",
+          "tamanho": 0.010412,
+          "tamanho_anterior": 0.032048,
+          "variacao": -0.021636,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PCAR3",
+          "tamanho": 0.006745,
+          "tamanho_anterior": 0,
+          "variacao": 0.006745,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.005553,
+          "tamanho_anterior": 0.037458,
+          "variacao": -0.031905,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0.003548,
+          "tamanho_anterior": 0.026568,
+          "variacao": -0.02302,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.016617,
+          "variacao": -0.016617,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ELET3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.033024,
+          "variacao": -0.033024,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "BBAS3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.035844,
+          "variacao": -0.035844,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.025911,
+          "variacao": -0.025911,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.063253,
+          "variacao": -0.063253,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.044502,
+          "variacao": -0.044502,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SAPR11",
+          "tamanho": 0,
+          "tamanho_anterior": 0.051813,
+          "variacao": -0.051813,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-11",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.105233,
+          "tamanho_anterior": 0.088308,
+          "variacao": 0.016925,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.079391,
+          "tamanho_anterior": 0.080985,
+          "variacao": -0.001594,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.076781,
+          "tamanho_anterior": 0.082688,
+          "variacao": -0.005907,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.075354,
+          "tamanho_anterior": 0.081191,
+          "variacao": -0.005836,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.07307,
+          "tamanho_anterior": 0.060772,
+          "variacao": 0.012298,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.069951,
+          "tamanho_anterior": 0.074982,
+          "variacao": -0.005031,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.042375,
+          "tamanho_anterior": 0.060604,
+          "variacao": -0.01823,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AXIA6",
+          "tamanho": 0.040621,
+          "tamanho_anterior": 0,
+          "variacao": 0.040621,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.038986,
+          "tamanho_anterior": 0.029849,
+          "variacao": 0.009137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.034709,
+          "tamanho_anterior": 0.013564,
+          "variacao": 0.021146,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.034023,
+          "tamanho_anterior": 0.050034,
+          "variacao": -0.016011,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TEND3",
+          "tamanho": 0.033592,
+          "tamanho_anterior": 0.020421,
+          "variacao": 0.013171,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.033342,
+          "tamanho_anterior": 0.024698,
+          "variacao": 0.008643,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0.03232,
+          "tamanho_anterior": 0.018964,
+          "variacao": 0.013355,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.030745,
+          "tamanho_anterior": 0.03547,
+          "variacao": -0.004724,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.030472,
+          "tamanho_anterior": 0,
+          "variacao": 0.030472,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.027942,
+          "tamanho_anterior": 0.026767,
+          "variacao": 0.001175,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALPA4",
+          "tamanho": 0.026947,
+          "tamanho_anterior": 0,
+          "variacao": 0.026947,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PCAR3",
+          "tamanho": 0.023014,
+          "tamanho_anterior": 0.006745,
+          "variacao": 0.016269,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBFG3",
+          "tamanho": 0.022576,
+          "tamanho_anterior": 0.034443,
+          "variacao": -0.011866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.019727,
+          "tamanho_anterior": 0.02431,
+          "variacao": -0.004583,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.013861,
+          "tamanho_anterior": 0.013581,
+          "variacao": 0.00028,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.01223,
+          "tamanho_anterior": 0,
+          "variacao": 0.01223,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "CBAV3",
+          "tamanho": 0.005481,
+          "tamanho_anterior": 0,
+          "variacao": 0.005481,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.029546,
+          "variacao": -0.029546,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "NATU3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.010412,
+          "variacao": -0.010412,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.018115,
+          "variacao": -0.018115,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "DIRR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.057165,
+          "variacao": -0.057165,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.003548,
+          "variacao": -0.003548,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ELET6",
+          "tamanho": 0,
+          "tamanho_anterior": 0.017824,
+          "variacao": -0.017824,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.005553,
+          "variacao": -0.005553,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.013685,
+          "variacao": -0.013685,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-12",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.105233,
+          "tamanho_anterior": 0.088308,
+          "variacao": 0.016925,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.079391,
+          "tamanho_anterior": 0.080985,
+          "variacao": -0.001594,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.076781,
+          "tamanho_anterior": 0.082688,
+          "variacao": -0.005907,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.075354,
+          "tamanho_anterior": 0.081191,
+          "variacao": -0.005836,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.07307,
+          "tamanho_anterior": 0.060772,
+          "variacao": 0.012298,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.069951,
+          "tamanho_anterior": 0.074982,
+          "variacao": -0.005031,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.042375,
+          "tamanho_anterior": 0.060604,
+          "variacao": -0.01823,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AXIA6",
+          "tamanho": 0.040621,
+          "tamanho_anterior": 0,
+          "variacao": 0.040621,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.038986,
+          "tamanho_anterior": 0.029849,
+          "variacao": 0.009137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.034709,
+          "tamanho_anterior": 0.013564,
+          "variacao": 0.021146,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.034023,
+          "tamanho_anterior": 0.050034,
+          "variacao": -0.016011,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TEND3",
+          "tamanho": 0.033592,
+          "tamanho_anterior": 0.020421,
+          "variacao": 0.013171,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.033342,
+          "tamanho_anterior": 0.024698,
+          "variacao": 0.008643,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0.03232,
+          "tamanho_anterior": 0.018964,
+          "variacao": 0.013355,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.030745,
+          "tamanho_anterior": 0.03547,
+          "variacao": -0.004724,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.030472,
+          "tamanho_anterior": 0,
+          "variacao": 0.030472,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.027942,
+          "tamanho_anterior": 0.026767,
+          "variacao": 0.001175,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALPA4",
+          "tamanho": 0.026947,
+          "tamanho_anterior": 0,
+          "variacao": 0.026947,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PCAR3",
+          "tamanho": 0.023014,
+          "tamanho_anterior": 0.006745,
+          "variacao": 0.016269,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBFG3",
+          "tamanho": 0.022576,
+          "tamanho_anterior": 0.034443,
+          "variacao": -0.011866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.019727,
+          "tamanho_anterior": 0.02431,
+          "variacao": -0.004583,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.013861,
+          "tamanho_anterior": 0.013581,
+          "variacao": 0.00028,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.01223,
+          "tamanho_anterior": 0,
+          "variacao": 0.01223,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "CBAV3",
+          "tamanho": 0.005481,
+          "tamanho_anterior": 0,
+          "variacao": 0.005481,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.029546,
+          "variacao": -0.029546,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "NATU3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.010412,
+          "variacao": -0.010412,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.018115,
+          "variacao": -0.018115,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "DIRR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.057165,
+          "variacao": -0.057165,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.003548,
+          "variacao": -0.003548,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ELET6",
+          "tamanho": 0,
+          "tamanho_anterior": 0.017824,
+          "variacao": -0.017824,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.005553,
+          "variacao": -0.005553,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.013685,
+          "variacao": -0.013685,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-01",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.105233,
+          "tamanho_anterior": 0.088308,
+          "variacao": 0.016925,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.079391,
+          "tamanho_anterior": 0.080985,
+          "variacao": -0.001594,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.076781,
+          "tamanho_anterior": 0.082688,
+          "variacao": -0.005907,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.075354,
+          "tamanho_anterior": 0.081191,
+          "variacao": -0.005836,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.07307,
+          "tamanho_anterior": 0.060772,
+          "variacao": 0.012298,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.069951,
+          "tamanho_anterior": 0.074982,
+          "variacao": -0.005031,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.042375,
+          "tamanho_anterior": 0.060604,
+          "variacao": -0.01823,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AXIA6",
+          "tamanho": 0.040621,
+          "tamanho_anterior": 0,
+          "variacao": 0.040621,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.038986,
+          "tamanho_anterior": 0.029849,
+          "variacao": 0.009137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.034709,
+          "tamanho_anterior": 0.013564,
+          "variacao": 0.021146,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.034023,
+          "tamanho_anterior": 0.050034,
+          "variacao": -0.016011,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TEND3",
+          "tamanho": 0.033592,
+          "tamanho_anterior": 0.020421,
+          "variacao": 0.013171,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.033342,
+          "tamanho_anterior": 0.024698,
+          "variacao": 0.008643,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0.03232,
+          "tamanho_anterior": 0.018964,
+          "variacao": 0.013355,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.030745,
+          "tamanho_anterior": 0.03547,
+          "variacao": -0.004724,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.030472,
+          "tamanho_anterior": 0,
+          "variacao": 0.030472,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.027942,
+          "tamanho_anterior": 0.026767,
+          "variacao": 0.001175,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALPA4",
+          "tamanho": 0.026947,
+          "tamanho_anterior": 0,
+          "variacao": 0.026947,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PCAR3",
+          "tamanho": 0.023014,
+          "tamanho_anterior": 0.006745,
+          "variacao": 0.016269,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBFG3",
+          "tamanho": 0.022576,
+          "tamanho_anterior": 0.034443,
+          "variacao": -0.011866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.019727,
+          "tamanho_anterior": 0.02431,
+          "variacao": -0.004583,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.013861,
+          "tamanho_anterior": 0.013581,
+          "variacao": 0.00028,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.01223,
+          "tamanho_anterior": 0,
+          "variacao": 0.01223,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "CBAV3",
+          "tamanho": 0.005481,
+          "tamanho_anterior": 0,
+          "variacao": 0.005481,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.029546,
+          "variacao": -0.029546,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "NATU3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.010412,
+          "variacao": -0.010412,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.018115,
+          "variacao": -0.018115,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "DIRR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.057165,
+          "variacao": -0.057165,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.003548,
+          "variacao": -0.003548,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ELET6",
+          "tamanho": 0,
+          "tamanho_anterior": 0.017824,
+          "variacao": -0.017824,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.005553,
+          "variacao": -0.005553,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.013685,
+          "variacao": -0.013685,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "ECOR3",
+          "tamanho": 0.105233,
+          "tamanho_anterior": 0.088308,
+          "variacao": 0.016925,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.079391,
+          "tamanho_anterior": 0.080985,
+          "variacao": -0.001594,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.076781,
+          "tamanho_anterior": 0.082688,
+          "variacao": -0.005907,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.075354,
+          "tamanho_anterior": 0.081191,
+          "variacao": -0.005836,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGLU3",
+          "tamanho": 0.07307,
+          "tamanho_anterior": 0.060772,
+          "variacao": 0.012298,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRAV3",
+          "tamanho": 0.069951,
+          "tamanho_anterior": 0.074982,
+          "variacao": -0.005031,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LREN3",
+          "tamanho": 0.042375,
+          "tamanho_anterior": 0.060604,
+          "variacao": -0.01823,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AXIA6",
+          "tamanho": 0.040621,
+          "tamanho_anterior": 0,
+          "variacao": 0.040621,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.038986,
+          "tamanho_anterior": 0.029849,
+          "variacao": 0.009137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VIVA3",
+          "tamanho": 0.034709,
+          "tamanho_anterior": 0.013564,
+          "variacao": 0.021146,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.034023,
+          "tamanho_anterior": 0.050034,
+          "variacao": -0.016011,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TEND3",
+          "tamanho": 0.033592,
+          "tamanho_anterior": 0.020421,
+          "variacao": 0.013171,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.033342,
+          "tamanho_anterior": 0.024698,
+          "variacao": 0.008643,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOVI3",
+          "tamanho": 0.03232,
+          "tamanho_anterior": 0.018964,
+          "variacao": 0.013355,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.030745,
+          "tamanho_anterior": 0.03547,
+          "variacao": -0.004724,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.030472,
+          "tamanho_anterior": 0,
+          "variacao": 0.030472,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GUAR3",
+          "tamanho": 0.027942,
+          "tamanho_anterior": 0.026767,
+          "variacao": 0.001175,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALPA4",
+          "tamanho": 0.026947,
+          "tamanho_anterior": 0,
+          "variacao": 0.026947,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PCAR3",
+          "tamanho": 0.023014,
+          "tamanho_anterior": 0.006745,
+          "variacao": 0.016269,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBFG3",
+          "tamanho": 0.022576,
+          "tamanho_anterior": 0.034443,
+          "variacao": -0.011866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.019727,
+          "tamanho_anterior": 0.02431,
+          "variacao": -0.004583,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LJQQ3",
+          "tamanho": 0.013861,
+          "tamanho_anterior": 0.013581,
+          "variacao": 0.00028,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEAB3",
+          "tamanho": 0.01223,
+          "tamanho_anterior": 0,
+          "variacao": 0.01223,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "CBAV3",
+          "tamanho": 0.005481,
+          "tamanho_anterior": 0,
+          "variacao": 0.005481,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.029546,
+          "variacao": -0.029546,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "NATU3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.010412,
+          "variacao": -0.010412,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.018115,
+          "variacao": -0.018115,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "DIRR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.057165,
+          "variacao": -0.057165,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "COGN3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.003548,
+          "variacao": -0.003548,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ELET6",
+          "tamanho": 0,
+          "tamanho_anterior": 0.017824,
+          "variacao": -0.017824,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.005553,
+          "variacao": -0.005553,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.013685,
+          "variacao": -0.013685,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    }
+  ]
+}

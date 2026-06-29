@@ -1,0 +1,3747 @@
+{
+  "cnpj": "24.325.422/0001-03",
+  "nome_curto": "LIS VALUE",
+  "nome": "LIS VALUE FUNDO DE INVESTIMENTO EM AÇÕES",
+  "historico": [
+    {
+      "mes_id": "2025-03",
+      "data_ref": "2025-03-31",
+      "data_ref_anterior": "2025-02-28",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.208094,
+          "tamanho_anterior": 0.189609,
+          "variacao": 0.018485,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.174626,
+          "tamanho_anterior": 0.168526,
+          "variacao": 0.0061,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.174563,
+          "tamanho_anterior": 0.161493,
+          "variacao": 0.01307,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.098991,
+          "tamanho_anterior": 0.129733,
+          "variacao": -0.030742,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.04234,
+          "tamanho_anterior": 0.039053,
+          "variacao": 0.003286,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.038835,
+          "tamanho_anterior": 0.03611,
+          "variacao": 0.002725,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.019719,
+          "tamanho_anterior": 0.021339,
+          "variacao": -0.001621,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.018346,
+          "tamanho_anterior": 0.009785,
+          "variacao": 0.008561,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0.016742,
+          "tamanho_anterior": 0.023022,
+          "variacao": -0.00628,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SLCE3",
+          "tamanho": 0.015904,
+          "tamanho_anterior": 0.015025,
+          "variacao": 0.000879,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.013772,
+          "tamanho_anterior": 0.012807,
+          "variacao": 0.000964,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.010556,
+          "tamanho_anterior": 0.009505,
+          "variacao": 0.001051,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.008971,
+          "tamanho_anterior": 0.010021,
+          "variacao": -0.001051,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.008476,
+          "tamanho_anterior": 0.008049,
+          "variacao": 0.000427,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.00779,
+          "tamanho_anterior": 0.009564,
+          "variacao": -0.001773,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.007574,
+          "tamanho_anterior": 0.009141,
+          "variacao": -0.001568,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.006793,
+          "tamanho_anterior": 0.007427,
+          "variacao": -0.000634,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.006689,
+          "tamanho_anterior": 0.001932,
+          "variacao": 0.004757,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.006352,
+          "tamanho_anterior": 0.007372,
+          "variacao": -0.00102,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.005808,
+          "tamanho_anterior": 0.005996,
+          "variacao": -0.000188,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.005401,
+          "tamanho_anterior": 0.00534,
+          "variacao": 0.000061,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0.004872,
+          "tamanho_anterior": 0.004447,
+          "variacao": 0.000425,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.004566,
+          "tamanho_anterior": 0.004869,
+          "variacao": -0.000303,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.004326,
+          "tamanho_anterior": 0.004877,
+          "variacao": -0.000551,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PTBL3",
+          "tamanho": 0.004282,
+          "tamanho_anterior": 0.012401,
+          "variacao": -0.008118,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SWBI - Investimento no Exterior",
+          "tamanho": 0.004094,
+          "tamanho_anterior": 0.005031,
+          "variacao": -0.000936,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.003967,
+          "tamanho_anterior": 0.005011,
+          "variacao": -0.001044,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.002985,
+          "tamanho_anterior": 0.003095,
+          "variacao": -0.00011,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.002904,
+          "tamanho_anterior": 0.002667,
+          "variacao": 0.000237,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.002741,
+          "tamanho_anterior": 0.002994,
+          "variacao": -0.000253,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.002487,
+          "tamanho_anterior": 0.002902,
+          "variacao": -0.000414,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HCC - Investimento no Exterior",
+          "tamanho": 0.001661,
+          "tamanho_anterior": 0.001798,
+          "variacao": -0.000136,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.001495,
+          "tamanho_anterior": 0.001496,
+          "variacao": -2e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.00139,
+          "tamanho_anterior": 0,
+          "variacao": 0.00139,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MEDP - Investimento no Exterior",
+          "tamanho": 0.001373,
+          "tamanho_anterior": 0.0016,
+          "variacao": -0.000227,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SIMH3",
+          "tamanho": 0.001124,
+          "tamanho_anterior": 0.000841,
+          "variacao": 0.000283,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMHI - Investimento no Exterior",
+          "tamanho": 0.001112,
+          "tamanho_anterior": 0.001364,
+          "variacao": -0.000252,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSUD3",
+          "tamanho": 0.0005,
+          "tamanho_anterior": 0.000485,
+          "variacao": 0.000015,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "THO - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.007288,
+          "variacao": -0.007288,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-04",
+      "data_ref": "2025-04-30",
+      "data_ref_anterior": "2025-03-31",
+      "posicoes": [
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.189105,
+          "tamanho_anterior": 0.174563,
+          "variacao": 0.014542,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.18704,
+          "tamanho_anterior": 0.174626,
+          "variacao": 0.012414,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.144467,
+          "tamanho_anterior": 0.208094,
+          "variacao": -0.063628,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.059835,
+          "tamanho_anterior": 0.04234,
+          "variacao": 0.017495,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.044286,
+          "tamanho_anterior": 0.038835,
+          "variacao": 0.005451,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SLCE3",
+          "tamanho": 0.040658,
+          "tamanho_anterior": 0.015904,
+          "variacao": 0.024754,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DIRR3",
+          "tamanho": 0.032383,
+          "tamanho_anterior": 0,
+          "variacao": 0.032383,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.030004,
+          "tamanho_anterior": 0.010556,
+          "variacao": 0.019447,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.026184,
+          "tamanho_anterior": 0.001495,
+          "variacao": 0.02469,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.020237,
+          "tamanho_anterior": 0.002904,
+          "variacao": 0.017333,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.020228,
+          "tamanho_anterior": 0.098991,
+          "variacao": -0.078763,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.017908,
+          "tamanho_anterior": 0.006689,
+          "variacao": 0.011219,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0.016031,
+          "tamanho_anterior": 0.016742,
+          "variacao": -0.000711,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.015703,
+          "tamanho_anterior": 0.019719,
+          "variacao": -0.004016,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ODPV3",
+          "tamanho": 0.014485,
+          "tamanho_anterior": 0,
+          "variacao": 0.014485,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.006423,
+          "tamanho_anterior": 0.008476,
+          "variacao": -0.002053,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.006293,
+          "tamanho_anterior": 0.008971,
+          "variacao": -0.002677,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.005893,
+          "tamanho_anterior": 0.006352,
+          "variacao": -0.000459,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.005536,
+          "tamanho_anterior": 0.00779,
+          "variacao": -0.002255,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.005262,
+          "tamanho_anterior": 0.007574,
+          "variacao": -0.002312,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.005027,
+          "tamanho_anterior": 0,
+          "variacao": 0.005027,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.005019,
+          "tamanho_anterior": 0.006793,
+          "variacao": -0.001774,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.004777,
+          "tamanho_anterior": 0.005808,
+          "variacao": -0.001031,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.003339,
+          "tamanho_anterior": 0.004566,
+          "variacao": -0.001227,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.003322,
+          "tamanho_anterior": 0.005401,
+          "variacao": -0.002079,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SWBI - Investimento no Exterior",
+          "tamanho": 0.003022,
+          "tamanho_anterior": 0.004094,
+          "variacao": -0.001072,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.002988,
+          "tamanho_anterior": 0.004326,
+          "variacao": -0.001338,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.002945,
+          "tamanho_anterior": 0.002985,
+          "variacao": -0.00004,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.00289,
+          "tamanho_anterior": 0,
+          "variacao": 0.00289,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.002824,
+          "tamanho_anterior": 0.003967,
+          "variacao": -0.001143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.002078,
+          "tamanho_anterior": 0.002741,
+          "variacao": -0.000663,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.001707,
+          "tamanho_anterior": 0.002487,
+          "variacao": -0.00078,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SIMH3",
+          "tamanho": 0.001524,
+          "tamanho_anterior": 0.001124,
+          "variacao": 0.0004,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001116,
+          "tamanho_anterior": 0.00139,
+          "variacao": -0.000273,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TXN - Investimento no Exterior",
+          "tamanho": 0.000945,
+          "tamanho_anterior": 0,
+          "variacao": 0.000945,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "CSUD3",
+          "tamanho": 0.000524,
+          "tamanho_anterior": 0.0005,
+          "variacao": 0.000024,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.018346,
+          "variacao": -0.018346,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PTBL3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.004282,
+          "variacao": -0.004282,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.013772,
+          "variacao": -0.013772,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "BPAC11",
+          "tamanho": 0,
+          "tamanho_anterior": 0.004872,
+          "variacao": -0.004872,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SMHI - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.001112,
+          "variacao": -0.001112,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "MEDP - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.001373,
+          "variacao": -0.001373,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "HCC - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.001661,
+          "variacao": -0.001661,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-05",
+      "data_ref": "2025-05-31",
+      "data_ref_anterior": "2025-04-30",
+      "posicoes": [
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.208384,
+          "tamanho_anterior": 0.189105,
+          "variacao": 0.019279,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.201936,
+          "tamanho_anterior": 0.144467,
+          "variacao": 0.057469,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.199561,
+          "tamanho_anterior": 0.18704,
+          "variacao": 0.012521,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.052238,
+          "tamanho_anterior": 0,
+          "variacao": 0.052238,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.046246,
+          "tamanho_anterior": 0.059835,
+          "variacao": -0.013589,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.039797,
+          "tamanho_anterior": 0.044286,
+          "variacao": -0.004489,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.024877,
+          "tamanho_anterior": 0.020228,
+          "variacao": 0.00465,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.021653,
+          "tamanho_anterior": 0.020237,
+          "variacao": 0.001416,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.020559,
+          "tamanho_anterior": 0.026184,
+          "variacao": -0.005625,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SLCE3",
+          "tamanho": 0.018534,
+          "tamanho_anterior": 0.040658,
+          "variacao": -0.022124,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.013769,
+          "tamanho_anterior": 0.030004,
+          "variacao": -0.016235,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.012253,
+          "tamanho_anterior": 0.015703,
+          "variacao": -0.00345,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.007237,
+          "tamanho_anterior": 0.017908,
+          "variacao": -0.010671,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ODPV3",
+          "tamanho": 0.00576,
+          "tamanho_anterior": 0.014485,
+          "variacao": -0.008726,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.005461,
+          "tamanho_anterior": 0.006293,
+          "variacao": -0.000832,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.005256,
+          "tamanho_anterior": 0.005536,
+          "variacao": -0.000279,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.005156,
+          "tamanho_anterior": 0.005027,
+          "variacao": 0.000129,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.005148,
+          "tamanho_anterior": 0.005893,
+          "variacao": -0.000745,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.004955,
+          "tamanho_anterior": 0.006423,
+          "variacao": -0.001468,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.004509,
+          "tamanho_anterior": 0.005262,
+          "variacao": -0.000753,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.003536,
+          "tamanho_anterior": 0.004777,
+          "variacao": -0.00124,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.00325,
+          "tamanho_anterior": 0.005019,
+          "variacao": -0.001768,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.003083,
+          "tamanho_anterior": 0.00289,
+          "variacao": 0.000193,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.00284,
+          "tamanho_anterior": 0.003339,
+          "variacao": -0.000499,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.002669,
+          "tamanho_anterior": 0.003322,
+          "variacao": -0.000653,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.002453,
+          "tamanho_anterior": 0.002988,
+          "variacao": -0.000535,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SWBI - Investimento no Exterior",
+          "tamanho": 0.002443,
+          "tamanho_anterior": 0.003022,
+          "variacao": -0.000579,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.00243,
+          "tamanho_anterior": 0.002945,
+          "variacao": -0.000515,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.002375,
+          "tamanho_anterior": 0.002824,
+          "variacao": -0.00045,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.001722,
+          "tamanho_anterior": 0.002078,
+          "variacao": -0.000356,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SIMH3",
+          "tamanho": 0.00161,
+          "tamanho_anterior": 0.001524,
+          "variacao": 0.000086,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001555,
+          "tamanho_anterior": 0.001116,
+          "variacao": 0.000438,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.001546,
+          "tamanho_anterior": 0.001707,
+          "variacao": -0.000161,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSUD3",
+          "tamanho": 0.000587,
+          "tamanho_anterior": 0.000524,
+          "variacao": 0.000063,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.016031,
+          "variacao": -0.016031,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "DIRR3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.032383,
+          "variacao": -0.032383,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "TXN - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000945,
+          "variacao": -0.000945,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-06",
+      "data_ref": "2025-06-30",
+      "data_ref_anterior": "2025-05-31",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.221601,
+          "tamanho_anterior": 0.201936,
+          "variacao": 0.019665,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.21391,
+          "tamanho_anterior": 0.208384,
+          "variacao": 0.005526,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.211442,
+          "tamanho_anterior": 0.199561,
+          "variacao": 0.01188,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.059225,
+          "tamanho_anterior": 0.052238,
+          "variacao": 0.006987,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.036381,
+          "tamanho_anterior": 0.039797,
+          "variacao": -0.003416,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.033166,
+          "tamanho_anterior": 0.046246,
+          "variacao": -0.01308,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.027893,
+          "tamanho_anterior": 0.024877,
+          "variacao": 0.003015,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.019063,
+          "tamanho_anterior": 0.021653,
+          "variacao": -0.00259,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.018947,
+          "tamanho_anterior": 0.007237,
+          "variacao": 0.011709,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.018868,
+          "tamanho_anterior": 0.020559,
+          "variacao": -0.001691,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SLCE3",
+          "tamanho": 0.01781,
+          "tamanho_anterior": 0.018534,
+          "variacao": -0.000725,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.013807,
+          "tamanho_anterior": 0.013769,
+          "variacao": 0.000038,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.007347,
+          "tamanho_anterior": 0.012253,
+          "variacao": -0.004906,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.005598,
+          "tamanho_anterior": 0.005156,
+          "variacao": 0.000441,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ODPV3",
+          "tamanho": 0.004302,
+          "tamanho_anterior": 0.00576,
+          "variacao": -0.001458,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.003256,
+          "tamanho_anterior": 0.004955,
+          "variacao": -0.001698,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.003205,
+          "tamanho_anterior": 0.005461,
+          "variacao": -0.002256,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.003012,
+          "tamanho_anterior": 0.005148,
+          "variacao": -0.002136,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.002961,
+          "tamanho_anterior": 0.005256,
+          "variacao": -0.002296,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.002613,
+          "tamanho_anterior": 0.004509,
+          "variacao": -0.001896,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.002072,
+          "tamanho_anterior": 0.003083,
+          "variacao": -0.001011,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.002016,
+          "tamanho_anterior": 0.003536,
+          "variacao": -0.00152,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.001998,
+          "tamanho_anterior": 0.00325,
+          "variacao": -0.001252,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.001779,
+          "tamanho_anterior": 0.00284,
+          "variacao": -0.001061,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001618,
+          "tamanho_anterior": 0.001555,
+          "variacao": 0.000063,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.001506,
+          "tamanho_anterior": 0.00243,
+          "variacao": -0.000923,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.001428,
+          "tamanho_anterior": 0.002375,
+          "variacao": -0.000947,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001369,
+          "tamanho_anterior": 0.002453,
+          "variacao": -0.001084,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001302,
+          "tamanho_anterior": 0.002669,
+          "variacao": -0.001367,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SWBI - Investimento no Exterior",
+          "tamanho": 0.001268,
+          "tamanho_anterior": 0.002443,
+          "variacao": -0.001175,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.000978,
+          "tamanho_anterior": 0,
+          "variacao": 0.000978,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.000941,
+          "tamanho_anterior": 0.001722,
+          "variacao": -0.000781,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000937,
+          "tamanho_anterior": 0.001546,
+          "variacao": -0.000609,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSUD3",
+          "tamanho": 0.000626,
+          "tamanho_anterior": 0.000587,
+          "variacao": 0.000039,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SIMH3",
+          "tamanho": 0.0006,
+          "tamanho_anterior": 0.00161,
+          "variacao": -0.00101,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-07",
+      "data_ref": "2025-07-31",
+      "data_ref_anterior": "2025-06-30",
+      "posicoes": [
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.249215,
+          "tamanho_anterior": 0.21391,
+          "variacao": 0.035305,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.193761,
+          "tamanho_anterior": 0.221601,
+          "variacao": -0.02784,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.127606,
+          "tamanho_anterior": 0.211442,
+          "variacao": -0.083836,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.062401,
+          "tamanho_anterior": 0.059225,
+          "variacao": 0.003175,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.056537,
+          "tamanho_anterior": 0.027893,
+          "variacao": 0.028645,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.03464,
+          "tamanho_anterior": 0.036381,
+          "variacao": -0.001741,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.02807,
+          "tamanho_anterior": 0.033166,
+          "variacao": -0.005096,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.021057,
+          "tamanho_anterior": 0.018947,
+          "variacao": 0.002111,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.02037,
+          "tamanho_anterior": 0.018868,
+          "variacao": 0.001502,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.015113,
+          "tamanho_anterior": 0.019063,
+          "variacao": -0.00395,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.011492,
+          "tamanho_anterior": 0.013807,
+          "variacao": -0.002314,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.009044,
+          "tamanho_anterior": 0.007347,
+          "variacao": 0.001697,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.004355,
+          "tamanho_anterior": 0.003256,
+          "variacao": 0.001099,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.004346,
+          "tamanho_anterior": 0.003205,
+          "variacao": 0.001141,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.003682,
+          "tamanho_anterior": 0.002961,
+          "variacao": 0.000722,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.003654,
+          "tamanho_anterior": 0.003012,
+          "variacao": 0.000642,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.002834,
+          "tamanho_anterior": 0.002613,
+          "variacao": 0.000221,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.002419,
+          "tamanho_anterior": 0.005598,
+          "variacao": -0.003179,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.002418,
+          "tamanho_anterior": 0.002072,
+          "variacao": 0.000345,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.002301,
+          "tamanho_anterior": 0.001998,
+          "variacao": 0.000303,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ODPV3",
+          "tamanho": 0.002057,
+          "tamanho_anterior": 0.004302,
+          "variacao": -0.002245,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.001948,
+          "tamanho_anterior": 0.001506,
+          "variacao": 0.000442,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.001911,
+          "tamanho_anterior": 0.002016,
+          "variacao": -0.000105,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.001821,
+          "tamanho_anterior": 0.001779,
+          "variacao": 0.000042,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001696,
+          "tamanho_anterior": 0.001618,
+          "variacao": 0.000078,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001566,
+          "tamanho_anterior": 0.001302,
+          "variacao": 0.000264,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001532,
+          "tamanho_anterior": 0.001369,
+          "variacao": 0.000163,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.001474,
+          "tamanho_anterior": 0.001428,
+          "variacao": 0.000046,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.001089,
+          "tamanho_anterior": 0.000978,
+          "variacao": 0.000112,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.001089,
+          "tamanho_anterior": 0.000941,
+          "variacao": 0.000148,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000908,
+          "tamanho_anterior": 0.000937,
+          "variacao": -0.00003,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SLCE3",
+          "tamanho": 0.000637,
+          "tamanho_anterior": 0.01781,
+          "variacao": -0.017173,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.000577,
+          "tamanho_anterior": 0,
+          "variacao": 0.000577,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BRK/B - Investimento no Exterior",
+          "tamanho": 0.000545,
+          "tamanho_anterior": 0,
+          "variacao": 0.000545,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "CRM - Investimento no Exterior",
+          "tamanho": 0.00054,
+          "tamanho_anterior": 0,
+          "variacao": 0.00054,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "SIMH3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.0006,
+          "variacao": -0.0006,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "CSUD3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000626,
+          "variacao": -0.000626,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SWBI - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 0.001268,
+          "variacao": -0.001268,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-08",
+      "data_ref": "2025-08-31",
+      "data_ref_anterior": "2025-07-31",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.279735,
+          "tamanho_anterior": 0.193761,
+          "variacao": 0.085974,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.172066,
+          "tamanho_anterior": 0.249215,
+          "variacao": -0.077148,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.12256,
+          "tamanho_anterior": 0.127606,
+          "variacao": -0.005046,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.095944,
+          "tamanho_anterior": 0.056537,
+          "variacao": 0.039406,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.062868,
+          "tamanho_anterior": 0.062401,
+          "variacao": 0.000467,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.029734,
+          "tamanho_anterior": 0.03464,
+          "variacao": -0.004906,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.023704,
+          "tamanho_anterior": 0.02807,
+          "variacao": -0.004366,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.022838,
+          "tamanho_anterior": 0.02037,
+          "variacao": 0.002468,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.011556,
+          "tamanho_anterior": 0.002419,
+          "variacao": 0.009137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CYRE3",
+          "tamanho": 0.008279,
+          "tamanho_anterior": 0,
+          "variacao": 0.008279,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.008111,
+          "tamanho_anterior": 0.009044,
+          "variacao": -0.000933,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.007248,
+          "tamanho_anterior": 0.011492,
+          "variacao": -0.004244,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.004526,
+          "tamanho_anterior": 0.004355,
+          "variacao": 0.000171,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.003879,
+          "tamanho_anterior": 0.004346,
+          "variacao": -0.000467,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.00371,
+          "tamanho_anterior": 0.003654,
+          "variacao": 0.000055,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.003218,
+          "tamanho_anterior": 0.003682,
+          "variacao": -0.000464,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.00309,
+          "tamanho_anterior": 0.002834,
+          "variacao": 0.000257,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.002374,
+          "tamanho_anterior": 0.002301,
+          "variacao": 0.000073,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.002309,
+          "tamanho_anterior": 0.002418,
+          "variacao": -0.000108,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.001868,
+          "tamanho_anterior": 0.001911,
+          "variacao": -0.000044,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.001849,
+          "tamanho_anterior": 0.001948,
+          "variacao": -0.000099,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.001825,
+          "tamanho_anterior": 0.001821,
+          "variacao": 4e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001658,
+          "tamanho_anterior": 0.001696,
+          "variacao": -0.000038,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001618,
+          "tamanho_anterior": 0.001532,
+          "variacao": 0.000086,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001566,
+          "tamanho_anterior": 0.001566,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.001527,
+          "tamanho_anterior": 0.001474,
+          "variacao": 0.000053,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.001168,
+          "tamanho_anterior": 0.001089,
+          "variacao": 0.000078,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.001009,
+          "tamanho_anterior": 0.001089,
+          "variacao": -0.00008,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000699,
+          "tamanho_anterior": 0.000908,
+          "variacao": -0.000208,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRK/B - Investimento no Exterior",
+          "tamanho": 0.000531,
+          "tamanho_anterior": 0.000545,
+          "variacao": -0.000013,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.000502,
+          "tamanho_anterior": 0.000577,
+          "variacao": -0.000076,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRM - Investimento no Exterior",
+          "tamanho": 0.00049,
+          "tamanho_anterior": 0.00054,
+          "variacao": -0.00005,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.000035,
+          "tamanho_anterior": 0.021057,
+          "variacao": -0.021022,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDFCCAS - Investimento no Exterior",
+          "tamanho": 1e-05,
+          "tamanho_anterior": 0,
+          "variacao": 1e-05,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "SLCE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000637,
+          "variacao": -0.000637,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ODPV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002057,
+          "variacao": -0.002057,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0,
+          "tamanho_anterior": 0.015113,
+          "variacao": -0.015113,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-09",
+      "data_ref": "2025-09-30",
+      "data_ref_anterior": "2025-08-31",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.264692,
+          "tamanho_anterior": 0.279735,
+          "variacao": -0.015043,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.15091,
+          "tamanho_anterior": 0.172066,
+          "variacao": -0.021156,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.124065,
+          "tamanho_anterior": 0.12256,
+          "variacao": 0.001505,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.110354,
+          "tamanho_anterior": 0.095944,
+          "variacao": 0.01441,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.061552,
+          "tamanho_anterior": 0.062868,
+          "variacao": -0.001315,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.061025,
+          "tamanho_anterior": 0.029734,
+          "variacao": 0.031291,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.033441,
+          "tamanho_anterior": 0.011556,
+          "variacao": 0.021884,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.033271,
+          "tamanho_anterior": 0.023704,
+          "variacao": 0.009567,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.026077,
+          "tamanho_anterior": 0.022838,
+          "variacao": 0.003239,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.008518,
+          "tamanho_anterior": 0.008111,
+          "variacao": 0.000407,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CYRE3",
+          "tamanho": 0.006568,
+          "tamanho_anterior": 0.008279,
+          "variacao": -0.001711,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.003813,
+          "tamanho_anterior": 0.003879,
+          "variacao": -0.000066,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.003708,
+          "tamanho_anterior": 0.00371,
+          "variacao": -2e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.003025,
+          "tamanho_anterior": 0.003218,
+          "variacao": -0.000193,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.002943,
+          "tamanho_anterior": 0.004526,
+          "variacao": -0.001584,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.002875,
+          "tamanho_anterior": 0.00309,
+          "variacao": -0.000216,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.002588,
+          "tamanho_anterior": 0.007248,
+          "variacao": -0.004661,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.002514,
+          "tamanho_anterior": 0.002374,
+          "variacao": 0.000141,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.002092,
+          "tamanho_anterior": 0.002309,
+          "variacao": -0.000217,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.002034,
+          "tamanho_anterior": 0.001825,
+          "variacao": 0.00021,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.001845,
+          "tamanho_anterior": 0.001868,
+          "variacao": -0.000022,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001627,
+          "tamanho_anterior": 0.001658,
+          "variacao": -0.000032,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001472,
+          "tamanho_anterior": 0.001618,
+          "variacao": -0.000146,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001425,
+          "tamanho_anterior": 0.001566,
+          "variacao": -0.000141,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.001384,
+          "tamanho_anterior": 0.001527,
+          "variacao": -0.000143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRK/B - Investimento no Exterior",
+          "tamanho": 0.001294,
+          "tamanho_anterior": 0.000531,
+          "variacao": 0.000763,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.001058,
+          "tamanho_anterior": 0.001168,
+          "variacao": -0.00011,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.001004,
+          "tamanho_anterior": 0.001009,
+          "variacao": -5e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRM - Investimento no Exterior",
+          "tamanho": 0.000946,
+          "tamanho_anterior": 0.00049,
+          "variacao": 0.000455,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.000899,
+          "tamanho_anterior": 0.000035,
+          "variacao": 0.000863,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.000727,
+          "tamanho_anterior": 0.001849,
+          "variacao": -0.001122,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNPS - Investimento no Exterior",
+          "tamanho": 0.000635,
+          "tamanho_anterior": 0,
+          "variacao": 0.000635,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000507,
+          "tamanho_anterior": 0.000699,
+          "variacao": -0.000192,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.0005,
+          "tamanho_anterior": 0.000502,
+          "variacao": -2e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDFCCAS - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 1e-05,
+          "variacao": -1e-05,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-10",
+      "data_ref": "2025-10-31",
+      "data_ref_anterior": "2025-09-30",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.258746,
+          "tamanho_anterior": 0.264692,
+          "variacao": -0.005946,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.146414,
+          "tamanho_anterior": 0.15091,
+          "variacao": -0.004496,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.116834,
+          "tamanho_anterior": 0.110354,
+          "variacao": 0.00648,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.110778,
+          "tamanho_anterior": 0.124065,
+          "variacao": -0.013287,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.059781,
+          "tamanho_anterior": 0.061552,
+          "variacao": -0.001771,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.050644,
+          "tamanho_anterior": 0.026077,
+          "variacao": 0.024567,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.047397,
+          "tamanho_anterior": 0.061025,
+          "variacao": -0.013628,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.032504,
+          "tamanho_anterior": 0.033441,
+          "variacao": -0.000936,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.031452,
+          "tamanho_anterior": 0.033271,
+          "variacao": -0.001819,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0.017984,
+          "tamanho_anterior": 0,
+          "variacao": 0.017984,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "PLPL3",
+          "tamanho": 0.00922,
+          "tamanho_anterior": 0,
+          "variacao": 0.00922,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.007547,
+          "tamanho_anterior": 0.008518,
+          "variacao": -0.000971,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.003773,
+          "tamanho_anterior": 0.003708,
+          "variacao": 0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.003465,
+          "tamanho_anterior": 0.003813,
+          "variacao": -0.000348,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.002798,
+          "tamanho_anterior": 0.002943,
+          "variacao": -0.000145,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.002603,
+          "tamanho_anterior": 0.002875,
+          "variacao": -0.000272,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.002349,
+          "tamanho_anterior": 0.003025,
+          "variacao": -0.000676,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CYRE3",
+          "tamanho": 0.002019,
+          "tamanho_anterior": 0.006568,
+          "variacao": -0.004549,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.002,
+          "tamanho_anterior": 0.002092,
+          "variacao": -0.000093,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.001946,
+          "tamanho_anterior": 0.002034,
+          "variacao": -0.000088,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.001939,
+          "tamanho_anterior": 0.002514,
+          "variacao": -0.000576,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.001417,
+          "tamanho_anterior": 0.001845,
+          "variacao": -0.000428,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001409,
+          "tamanho_anterior": 0.001627,
+          "variacao": -0.000217,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001241,
+          "tamanho_anterior": 0.001425,
+          "variacao": -0.000184,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001227,
+          "tamanho_anterior": 0.001472,
+          "variacao": -0.000245,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.001169,
+          "tamanho_anterior": 0.001384,
+          "variacao": -0.000216,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRK/B - Investimento no Exterior",
+          "tamanho": 0.001081,
+          "tamanho_anterior": 0.001294,
+          "variacao": -0.000213,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRM - Investimento no Exterior",
+          "tamanho": 0.000914,
+          "tamanho_anterior": 0.000946,
+          "variacao": -0.000032,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.000855,
+          "tamanho_anterior": 0.001004,
+          "variacao": -0.000149,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.000827,
+          "tamanho_anterior": 0.001058,
+          "variacao": -0.000231,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.000591,
+          "tamanho_anterior": 0.000727,
+          "variacao": -0.000137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNPS - Investimento no Exterior",
+          "tamanho": 0.000514,
+          "tamanho_anterior": 0.000635,
+          "variacao": -0.000121,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.00044,
+          "tamanho_anterior": 0.0005,
+          "variacao": -0.00006,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000398,
+          "tamanho_anterior": 0.000507,
+          "variacao": -0.000109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.000049,
+          "tamanho_anterior": 0.000899,
+          "variacao": -0.000849,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.000033,
+          "tamanho_anterior": 0.002588,
+          "variacao": -0.002555,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDFCCAS - Investimento no Exterior",
+          "tamanho": 2e-06,
+          "tamanho_anterior": 0,
+          "variacao": 2e-06,
+          "novo": true,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-11",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.236594,
+          "tamanho_anterior": 0.258746,
+          "variacao": -0.022152,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.14503,
+          "tamanho_anterior": 0.146414,
+          "variacao": -0.001385,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.105511,
+          "tamanho_anterior": 0.110778,
+          "variacao": -0.005267,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.089702,
+          "tamanho_anterior": 0.116834,
+          "variacao": -0.027132,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.053279,
+          "tamanho_anterior": 0.059781,
+          "variacao": -0.006502,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.050505,
+          "tamanho_anterior": 0.050644,
+          "variacao": -0.000139,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.050336,
+          "tamanho_anterior": 0.047397,
+          "variacao": 0.002939,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.043993,
+          "tamanho_anterior": 0.031452,
+          "variacao": 0.012541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0.037803,
+          "tamanho_anterior": 0.017984,
+          "variacao": 0.019818,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PLPL3",
+          "tamanho": 0.02969,
+          "tamanho_anterior": 0.00922,
+          "variacao": 0.020469,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.02876,
+          "tamanho_anterior": 0.032504,
+          "variacao": -0.003744,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.016957,
+          "tamanho_anterior": 0,
+          "variacao": 0.016957,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "LWSA3",
+          "tamanho": 0.009955,
+          "tamanho_anterior": 0,
+          "variacao": 0.009955,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.006594,
+          "tamanho_anterior": 0.007547,
+          "variacao": -0.000953,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.003677,
+          "tamanho_anterior": 0.003773,
+          "variacao": -0.000095,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.003125,
+          "tamanho_anterior": 0.003465,
+          "variacao": -0.00034,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.00259,
+          "tamanho_anterior": 0.002603,
+          "variacao": -0.000013,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.002566,
+          "tamanho_anterior": 0.002798,
+          "variacao": -0.000233,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.00201,
+          "tamanho_anterior": 0.002349,
+          "variacao": -0.000339,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.001802,
+          "tamanho_anterior": 0.002,
+          "variacao": -0.000197,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.00174,
+          "tamanho_anterior": 0.001939,
+          "variacao": -0.000199,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.001548,
+          "tamanho_anterior": 0.001946,
+          "variacao": -0.000398,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.001318,
+          "tamanho_anterior": 0.001417,
+          "variacao": -0.000099,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001094,
+          "tamanho_anterior": 0.001409,
+          "variacao": -0.000315,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001069,
+          "tamanho_anterior": 0.001227,
+          "variacao": -0.000157,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001043,
+          "tamanho_anterior": 0.001241,
+          "variacao": -0.000198,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRK/B - Investimento no Exterior",
+          "tamanho": 0.000996,
+          "tamanho_anterior": 0.001081,
+          "variacao": -0.000085,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.000992,
+          "tamanho_anterior": 0.001169,
+          "variacao": -0.000177,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.000786,
+          "tamanho_anterior": 0.000827,
+          "variacao": -0.000041,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.000742,
+          "tamanho_anterior": 0.000855,
+          "variacao": -0.000113,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRM - Investimento no Exterior",
+          "tamanho": 0.000693,
+          "tamanho_anterior": 0.000914,
+          "variacao": -0.000221,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.000454,
+          "tamanho_anterior": 0.000591,
+          "variacao": -0.000137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNPS - Investimento no Exterior",
+          "tamanho": 0.000405,
+          "tamanho_anterior": 0.000514,
+          "variacao": -0.000109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.000358,
+          "tamanho_anterior": 0.00044,
+          "variacao": -0.000082,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000333,
+          "tamanho_anterior": 0.000398,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000049,
+          "variacao": 5e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.00003,
+          "tamanho_anterior": 0.000033,
+          "variacao": -3e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CYRE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002019,
+          "variacao": -0.002019,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "USDFCCAS - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 2e-06,
+          "variacao": -2e-06,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-12",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.236594,
+          "tamanho_anterior": 0.258746,
+          "variacao": -0.022152,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.14503,
+          "tamanho_anterior": 0.146414,
+          "variacao": -0.001385,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.105511,
+          "tamanho_anterior": 0.110778,
+          "variacao": -0.005267,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.089702,
+          "tamanho_anterior": 0.116834,
+          "variacao": -0.027132,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.053279,
+          "tamanho_anterior": 0.059781,
+          "variacao": -0.006502,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.050505,
+          "tamanho_anterior": 0.050644,
+          "variacao": -0.000139,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.050336,
+          "tamanho_anterior": 0.047397,
+          "variacao": 0.002939,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.043993,
+          "tamanho_anterior": 0.031452,
+          "variacao": 0.012541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0.037803,
+          "tamanho_anterior": 0.017984,
+          "variacao": 0.019818,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PLPL3",
+          "tamanho": 0.02969,
+          "tamanho_anterior": 0.00922,
+          "variacao": 0.020469,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.02876,
+          "tamanho_anterior": 0.032504,
+          "variacao": -0.003744,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.016957,
+          "tamanho_anterior": 0,
+          "variacao": 0.016957,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "LWSA3",
+          "tamanho": 0.009955,
+          "tamanho_anterior": 0,
+          "variacao": 0.009955,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.006594,
+          "tamanho_anterior": 0.007547,
+          "variacao": -0.000953,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.003677,
+          "tamanho_anterior": 0.003773,
+          "variacao": -0.000095,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.003125,
+          "tamanho_anterior": 0.003465,
+          "variacao": -0.00034,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.00259,
+          "tamanho_anterior": 0.002603,
+          "variacao": -0.000013,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.002566,
+          "tamanho_anterior": 0.002798,
+          "variacao": -0.000233,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.00201,
+          "tamanho_anterior": 0.002349,
+          "variacao": -0.000339,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.001802,
+          "tamanho_anterior": 0.002,
+          "variacao": -0.000197,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.00174,
+          "tamanho_anterior": 0.001939,
+          "variacao": -0.000199,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.001548,
+          "tamanho_anterior": 0.001946,
+          "variacao": -0.000398,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.001318,
+          "tamanho_anterior": 0.001417,
+          "variacao": -0.000099,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001094,
+          "tamanho_anterior": 0.001409,
+          "variacao": -0.000315,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001069,
+          "tamanho_anterior": 0.001227,
+          "variacao": -0.000157,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001043,
+          "tamanho_anterior": 0.001241,
+          "variacao": -0.000198,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRK/B - Investimento no Exterior",
+          "tamanho": 0.000996,
+          "tamanho_anterior": 0.001081,
+          "variacao": -0.000085,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.000992,
+          "tamanho_anterior": 0.001169,
+          "variacao": -0.000177,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.000786,
+          "tamanho_anterior": 0.000827,
+          "variacao": -0.000041,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.000742,
+          "tamanho_anterior": 0.000855,
+          "variacao": -0.000113,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRM - Investimento no Exterior",
+          "tamanho": 0.000693,
+          "tamanho_anterior": 0.000914,
+          "variacao": -0.000221,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.000454,
+          "tamanho_anterior": 0.000591,
+          "variacao": -0.000137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNPS - Investimento no Exterior",
+          "tamanho": 0.000405,
+          "tamanho_anterior": 0.000514,
+          "variacao": -0.000109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.000358,
+          "tamanho_anterior": 0.00044,
+          "variacao": -0.000082,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000333,
+          "tamanho_anterior": 0.000398,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000049,
+          "variacao": 5e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.00003,
+          "tamanho_anterior": 0.000033,
+          "variacao": -3e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CYRE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002019,
+          "variacao": -0.002019,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "USDFCCAS - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 2e-06,
+          "variacao": -2e-06,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-01",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.236594,
+          "tamanho_anterior": 0.258746,
+          "variacao": -0.022152,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.14503,
+          "tamanho_anterior": 0.146414,
+          "variacao": -0.001385,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.105511,
+          "tamanho_anterior": 0.110778,
+          "variacao": -0.005267,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.089702,
+          "tamanho_anterior": 0.116834,
+          "variacao": -0.027132,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.053279,
+          "tamanho_anterior": 0.059781,
+          "variacao": -0.006502,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.050505,
+          "tamanho_anterior": 0.050644,
+          "variacao": -0.000139,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.050336,
+          "tamanho_anterior": 0.047397,
+          "variacao": 0.002939,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.043993,
+          "tamanho_anterior": 0.031452,
+          "variacao": 0.012541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0.037803,
+          "tamanho_anterior": 0.017984,
+          "variacao": 0.019818,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PLPL3",
+          "tamanho": 0.02969,
+          "tamanho_anterior": 0.00922,
+          "variacao": 0.020469,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.02876,
+          "tamanho_anterior": 0.032504,
+          "variacao": -0.003744,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.016957,
+          "tamanho_anterior": 0,
+          "variacao": 0.016957,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "LWSA3",
+          "tamanho": 0.009955,
+          "tamanho_anterior": 0,
+          "variacao": 0.009955,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.006594,
+          "tamanho_anterior": 0.007547,
+          "variacao": -0.000953,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.003677,
+          "tamanho_anterior": 0.003773,
+          "variacao": -0.000095,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.003125,
+          "tamanho_anterior": 0.003465,
+          "variacao": -0.00034,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.00259,
+          "tamanho_anterior": 0.002603,
+          "variacao": -0.000013,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.002566,
+          "tamanho_anterior": 0.002798,
+          "variacao": -0.000233,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.00201,
+          "tamanho_anterior": 0.002349,
+          "variacao": -0.000339,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.001802,
+          "tamanho_anterior": 0.002,
+          "variacao": -0.000197,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.00174,
+          "tamanho_anterior": 0.001939,
+          "variacao": -0.000199,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.001548,
+          "tamanho_anterior": 0.001946,
+          "variacao": -0.000398,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.001318,
+          "tamanho_anterior": 0.001417,
+          "variacao": -0.000099,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001094,
+          "tamanho_anterior": 0.001409,
+          "variacao": -0.000315,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001069,
+          "tamanho_anterior": 0.001227,
+          "variacao": -0.000157,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001043,
+          "tamanho_anterior": 0.001241,
+          "variacao": -0.000198,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRK/B - Investimento no Exterior",
+          "tamanho": 0.000996,
+          "tamanho_anterior": 0.001081,
+          "variacao": -0.000085,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.000992,
+          "tamanho_anterior": 0.001169,
+          "variacao": -0.000177,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.000786,
+          "tamanho_anterior": 0.000827,
+          "variacao": -0.000041,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.000742,
+          "tamanho_anterior": 0.000855,
+          "variacao": -0.000113,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRM - Investimento no Exterior",
+          "tamanho": 0.000693,
+          "tamanho_anterior": 0.000914,
+          "variacao": -0.000221,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.000454,
+          "tamanho_anterior": 0.000591,
+          "variacao": -0.000137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNPS - Investimento no Exterior",
+          "tamanho": 0.000405,
+          "tamanho_anterior": 0.000514,
+          "variacao": -0.000109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.000358,
+          "tamanho_anterior": 0.00044,
+          "variacao": -0.000082,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000333,
+          "tamanho_anterior": 0.000398,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000049,
+          "variacao": 5e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.00003,
+          "tamanho_anterior": 0.000033,
+          "variacao": -3e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CYRE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002019,
+          "variacao": -0.002019,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "USDFCCAS - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 2e-06,
+          "variacao": -2e-06,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "PFRM3",
+          "tamanho": 0.236594,
+          "tamanho_anterior": 0.258746,
+          "variacao": -0.022152,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MTSA4",
+          "tamanho": 0.14503,
+          "tamanho_anterior": 0.146414,
+          "variacao": -0.001385,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAUH4",
+          "tamanho": 0.105511,
+          "tamanho_anterior": 0.110778,
+          "variacao": -0.005267,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SCAR3",
+          "tamanho": 0.089702,
+          "tamanho_anterior": 0.116834,
+          "variacao": -0.027132,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDNE3",
+          "tamanho": 0.053279,
+          "tamanho_anterior": 0.059781,
+          "variacao": -0.006502,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DMVF3",
+          "tamanho": 0.050505,
+          "tamanho_anterior": 0.050644,
+          "variacao": -0.000139,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.050336,
+          "tamanho_anterior": 0.047397,
+          "variacao": 0.002939,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAMO3",
+          "tamanho": 0.043993,
+          "tamanho_anterior": 0.031452,
+          "variacao": 0.012541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0.037803,
+          "tamanho_anterior": 0.017984,
+          "variacao": 0.019818,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PLPL3",
+          "tamanho": 0.02969,
+          "tamanho_anterior": 0.00922,
+          "variacao": 0.020469,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.02876,
+          "tamanho_anterior": 0.032504,
+          "variacao": -0.003744,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.016957,
+          "tamanho_anterior": 0,
+          "variacao": 0.016957,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "LWSA3",
+          "tamanho": 0.009955,
+          "tamanho_anterior": 0,
+          "variacao": 0.009955,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "BN - Investimento no Exterior",
+          "tamanho": 0.006594,
+          "tamanho_anterior": 0.007547,
+          "variacao": -0.000953,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOOGL - Investimento no Exterior",
+          "tamanho": 0.003677,
+          "tamanho_anterior": 0.003773,
+          "variacao": -0.000095,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MKL - Investimento no Exterior",
+          "tamanho": 0.003125,
+          "tamanho_anterior": 0.003465,
+          "variacao": -0.00034,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EXPE - Investimento no Exterior",
+          "tamanho": 0.00259,
+          "tamanho_anterior": 0.002603,
+          "variacao": -0.000013,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BLD - Investimento no Exterior",
+          "tamanho": 0.002566,
+          "tamanho_anterior": 0.002798,
+          "variacao": -0.000233,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "META - Investimento no Exterior",
+          "tamanho": 0.00201,
+          "tamanho_anterior": 0.002349,
+          "variacao": -0.000339,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DHR - Investimento no Exterior",
+          "tamanho": 0.001802,
+          "tamanho_anterior": 0.002,
+          "variacao": -0.000197,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GRBK - Investimento no Exterior",
+          "tamanho": 0.00174,
+          "tamanho_anterior": 0.001939,
+          "variacao": -0.000199,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "QCOM - Investimento no Exterior",
+          "tamanho": 0.001548,
+          "tamanho_anterior": 0.001946,
+          "variacao": -0.000398,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVR - Investimento no Exterior",
+          "tamanho": 0.001318,
+          "tamanho_anterior": 0.001417,
+          "variacao": -0.000099,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UBER - Investimento no Exterior",
+          "tamanho": 0.001094,
+          "tamanho_anterior": 0.001409,
+          "variacao": -0.000315,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOW - Investimento no Exterior",
+          "tamanho": 0.001069,
+          "tamanho_anterior": 0.001227,
+          "variacao": -0.000157,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "NXST - Investimento no Exterior",
+          "tamanho": 0.001043,
+          "tamanho_anterior": 0.001241,
+          "variacao": -0.000198,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRK/B - Investimento no Exterior",
+          "tamanho": 0.000996,
+          "tamanho_anterior": 0.001081,
+          "variacao": -0.000085,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABG - Investimento no Exterior",
+          "tamanho": 0.000992,
+          "tamanho_anterior": 0.001169,
+          "variacao": -0.000177,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "JBSS32",
+          "tamanho": 0.000786,
+          "tamanho_anterior": 0.000827,
+          "variacao": -0.000041,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNA - Investimento no Exterior",
+          "tamanho": 0.000742,
+          "tamanho_anterior": 0.000855,
+          "variacao": -0.000113,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRM - Investimento no Exterior",
+          "tamanho": 0.000693,
+          "tamanho_anterior": 0.000914,
+          "variacao": -0.000221,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APPF - Investimento no Exterior",
+          "tamanho": 0.000454,
+          "tamanho_anterior": 0.000591,
+          "variacao": -0.000137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SNPS - Investimento no Exterior",
+          "tamanho": 0.000405,
+          "tamanho_anterior": 0.000514,
+          "variacao": -0.000109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MSFT - Investimento no Exterior",
+          "tamanho": 0.000358,
+          "tamanho_anterior": 0.00044,
+          "variacao": -0.000082,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PAR - Investimento no Exterior",
+          "tamanho": 0.000333,
+          "tamanho_anterior": 0.000398,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DGCS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000049,
+          "variacao": 5e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.00003,
+          "tamanho_anterior": 0.000033,
+          "variacao": -3e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CYRE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002019,
+          "variacao": -0.002019,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "USDFCCAS - Investimento no Exterior",
+          "tamanho": 0,
+          "tamanho_anterior": 2e-06,
+          "variacao": -2e-06,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1363 @@
+{
+  "cnpj": "27.389.566/0001-03",
+  "nome_curto": "TARPON GT",
+  "nome": "TARPON GT MASTER FUNDO DE INVESTIMENTO EM AÇÕES",
+  "historico": [
+    {
+      "mes_id": "2025-03",
+      "data_ref": "2025-03-31",
+      "data_ref_anterior": "2025-02-28",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.387963,
+          "tamanho_anterior": 0.375267,
+          "variacao": 0.012697,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0.145707,
+          "tamanho_anterior": 0.187806,
+          "variacao": -0.042098,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.112449,
+          "tamanho_anterior": 0.111169,
+          "variacao": 0.00128,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.083166,
+          "tamanho_anterior": 0.079756,
+          "variacao": 0.00341,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.079161,
+          "tamanho_anterior": 0.080794,
+          "variacao": -0.001633,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.05834,
+          "tamanho_anterior": 0.048613,
+          "variacao": 0.009727,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.056124,
+          "tamanho_anterior": 0.052742,
+          "variacao": 0.003382,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.040533,
+          "tamanho_anterior": 0.039341,
+          "variacao": 0.001192,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0.006543,
+          "tamanho_anterior": 0.007521,
+          "variacao": -0.000978,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.005405,
+          "tamanho_anterior": 0.004098,
+          "variacao": 0.001307,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.003799,
+          "tamanho_anterior": 0.003772,
+          "variacao": 0.000027,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0.000018,
+          "tamanho_anterior": 0.004568,
+          "variacao": -0.00455,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "OPCT3",
+          "tamanho": 0,
+          "tamanho_anterior": 5e-06,
+          "variacao": -5e-06,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "TFCO4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002392,
+          "variacao": -0.002392,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-04",
+      "data_ref": "2025-04-30",
+      "data_ref_anterior": "2025-03-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.38186,
+          "tamanho_anterior": 0.387963,
+          "variacao": -0.006103,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0.107156,
+          "tamanho_anterior": 0.145707,
+          "variacao": -0.038552,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.103718,
+          "tamanho_anterior": 0.112449,
+          "variacao": -0.008731,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.084357,
+          "tamanho_anterior": 0.05834,
+          "variacao": 0.026016,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.084272,
+          "tamanho_anterior": 0.083166,
+          "variacao": 0.001105,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.079983,
+          "tamanho_anterior": 0.079161,
+          "variacao": 0.000822,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.055402,
+          "tamanho_anterior": 0.056124,
+          "variacao": -0.000722,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.04446,
+          "tamanho_anterior": 0.040533,
+          "variacao": 0.003927,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0.007805,
+          "tamanho_anterior": 0.006543,
+          "variacao": 0.001262,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.006118,
+          "tamanho_anterior": 0.005405,
+          "variacao": 0.000713,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.003937,
+          "tamanho_anterior": 0.003799,
+          "variacao": 0.000137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0.000282,
+          "tamanho_anterior": 0.000018,
+          "variacao": 0.000263,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "OPCT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TFCO4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-05",
+      "data_ref": "2025-05-31",
+      "data_ref_anterior": "2025-04-30",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.365993,
+          "tamanho_anterior": 0.38186,
+          "variacao": -0.015867,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.109199,
+          "tamanho_anterior": 0.103718,
+          "variacao": 0.005481,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.088909,
+          "tamanho_anterior": 0.084272,
+          "variacao": 0.004637,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.085789,
+          "tamanho_anterior": 0.079983,
+          "variacao": 0.005806,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.082879,
+          "tamanho_anterior": 0.084357,
+          "variacao": -0.001477,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0.068008,
+          "tamanho_anterior": 0.107156,
+          "variacao": -0.039148,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.062057,
+          "tamanho_anterior": 0.055402,
+          "variacao": 0.006655,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.058325,
+          "tamanho_anterior": 0.04446,
+          "variacao": 0.013865,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0.008553,
+          "tamanho_anterior": 0.007805,
+          "variacao": 0.000748,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.007537,
+          "tamanho_anterior": 0.006118,
+          "variacao": 0.001419,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.003614,
+          "tamanho_anterior": 0.003937,
+          "variacao": -0.000322,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.000948,
+          "tamanho_anterior": 0,
+          "variacao": 0.000948,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "VITT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000282,
+          "variacao": -0.000282,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-06",
+      "data_ref": "2025-06-30",
+      "data_ref_anterior": "2025-05-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.375427,
+          "tamanho_anterior": 0.365993,
+          "variacao": 0.009433,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.118459,
+          "tamanho_anterior": 0.109199,
+          "variacao": 0.009261,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.096484,
+          "tamanho_anterior": 0.085789,
+          "variacao": 0.010695,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.095743,
+          "tamanho_anterior": 0.088909,
+          "variacao": 0.006834,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.078365,
+          "tamanho_anterior": 0.082879,
+          "variacao": -0.004515,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0.064647,
+          "tamanho_anterior": 0.068008,
+          "variacao": -0.003361,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.063946,
+          "tamanho_anterior": 0.058325,
+          "variacao": 0.00562,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.055122,
+          "tamanho_anterior": 0.062057,
+          "variacao": -0.006935,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.0088,
+          "tamanho_anterior": 0.007537,
+          "variacao": 0.001263,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0.008518,
+          "tamanho_anterior": 0.008553,
+          "variacao": -0.000036,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.003243,
+          "tamanho_anterior": 0.003614,
+          "variacao": -0.000372,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.001494,
+          "tamanho_anterior": 0.000948,
+          "variacao": 0.000546,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VITT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-07",
+      "data_ref": "2025-07-31",
+      "data_ref_anterior": "2025-06-30",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.365365,
+          "tamanho_anterior": 0.375427,
+          "variacao": -0.010062,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.127617,
+          "tamanho_anterior": 0.118459,
+          "variacao": 0.009157,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.125949,
+          "tamanho_anterior": 0.096484,
+          "variacao": 0.029466,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.107963,
+          "tamanho_anterior": 0.095743,
+          "variacao": 0.01222,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.074806,
+          "tamanho_anterior": 0.063946,
+          "variacao": 0.01086,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.067939,
+          "tamanho_anterior": 0.078365,
+          "variacao": -0.010425,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.050959,
+          "tamanho_anterior": 0.055122,
+          "variacao": -0.004162,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0.04018,
+          "tamanho_anterior": 0.064647,
+          "variacao": -0.024467,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.010142,
+          "tamanho_anterior": 0.0088,
+          "variacao": 0.001342,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0.009277,
+          "tamanho_anterior": 0.008518,
+          "variacao": 0.000759,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.003171,
+          "tamanho_anterior": 0.003243,
+          "variacao": -0.000072,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.001527,
+          "tamanho_anterior": 0.001494,
+          "variacao": 0.000033,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-08",
+      "data_ref": "2025-08-31",
+      "data_ref_anterior": "2025-07-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.364186,
+          "tamanho_anterior": 0.365365,
+          "variacao": -0.001179,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.131347,
+          "tamanho_anterior": 0.125949,
+          "variacao": 0.005398,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.126222,
+          "tamanho_anterior": 0.127617,
+          "variacao": -0.001395,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.114342,
+          "tamanho_anterior": 0.107963,
+          "variacao": 0.00638,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.081312,
+          "tamanho_anterior": 0.074806,
+          "variacao": 0.006506,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.060029,
+          "tamanho_anterior": 0.067939,
+          "variacao": -0.00791,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.049606,
+          "tamanho_anterior": 0.050959,
+          "variacao": -0.001354,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0.019873,
+          "tamanho_anterior": 0.04018,
+          "variacao": -0.020307,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0.009202,
+          "tamanho_anterior": 0.009277,
+          "variacao": -0.000074,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.009059,
+          "tamanho_anterior": 0.010142,
+          "variacao": -0.001083,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.002777,
+          "tamanho_anterior": 0.003171,
+          "variacao": -0.000394,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.000869,
+          "tamanho_anterior": 0.001527,
+          "variacao": -0.000658,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-09",
+      "data_ref": "2025-09-30",
+      "data_ref_anterior": "2025-08-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.361466,
+          "tamanho_anterior": 0.364186,
+          "variacao": -0.00272,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.13571,
+          "tamanho_anterior": 0.126222,
+          "variacao": 0.009488,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.130368,
+          "tamanho_anterior": 0.131347,
+          "variacao": -0.000979,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.107286,
+          "tamanho_anterior": 0.114342,
+          "variacao": -0.007057,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.079809,
+          "tamanho_anterior": 0.081312,
+          "variacao": -0.001503,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.054541,
+          "tamanho_anterior": 0.060029,
+          "variacao": -0.005488,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.054408,
+          "tamanho_anterior": 0.049606,
+          "variacao": 0.004802,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0.019805,
+          "tamanho_anterior": 0.019873,
+          "variacao": -0.000068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.009944,
+          "tamanho_anterior": 0.009059,
+          "variacao": 0.000885,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0.009301,
+          "tamanho_anterior": 0.009202,
+          "variacao": 0.000099,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.002929,
+          "tamanho_anterior": 0.002777,
+          "variacao": 0.000152,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.00069,
+          "tamanho_anterior": 0.000869,
+          "variacao": -0.000179,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HBSA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-10",
+      "data_ref": "2025-10-31",
+      "data_ref_anterior": "2025-09-30",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.32457,
+          "tamanho_anterior": 0.361466,
+          "variacao": -0.036896,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.126289,
+          "tamanho_anterior": 0.13571,
+          "variacao": -0.009421,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.120753,
+          "tamanho_anterior": 0.130368,
+          "variacao": -0.009615,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.101261,
+          "tamanho_anterior": 0.107286,
+          "variacao": -0.006025,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.086494,
+          "tamanho_anterior": 0.079809,
+          "variacao": 0.006685,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.065034,
+          "tamanho_anterior": 0.054408,
+          "variacao": 0.010627,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.052087,
+          "tamanho_anterior": 0.054541,
+          "variacao": -0.002454,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.010674,
+          "tamanho_anterior": 0.009944,
+          "variacao": 0.00073,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0.009197,
+          "tamanho_anterior": 0.009301,
+          "variacao": -0.000104,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.00276,
+          "tamanho_anterior": 0.002929,
+          "variacao": -0.000169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ARCO_US - Investimento no Exterior",
+          "tamanho": 0.0022,
+          "tamanho_anterior": 0,
+          "variacao": 0.0022,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.000868,
+          "tamanho_anterior": 0.00069,
+          "variacao": 0.000179,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.019805,
+          "variacao": -0.019805,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-11",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.302029,
+          "tamanho_anterior": 0.32457,
+          "variacao": -0.022541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.120747,
+          "tamanho_anterior": 0.126289,
+          "variacao": -0.005542,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.1113,
+          "tamanho_anterior": 0.120753,
+          "variacao": -0.009453,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.098443,
+          "tamanho_anterior": 0.086494,
+          "variacao": 0.011949,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.095795,
+          "tamanho_anterior": 0.101261,
+          "variacao": -0.005466,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.069143,
+          "tamanho_anterior": 0.065034,
+          "variacao": 0.004109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.049792,
+          "tamanho_anterior": 0.052087,
+          "variacao": -0.002295,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.011843,
+          "tamanho_anterior": 0.010674,
+          "variacao": 0.001169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ARCO_US - Investimento no Exterior",
+          "tamanho": 0.00675,
+          "tamanho_anterior": 0.0022,
+          "variacao": 0.00455,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.00239,
+          "tamanho_anterior": 0.00276,
+          "variacao": -0.00037,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.000966,
+          "tamanho_anterior": 0.000868,
+          "variacao": 0.000097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.009197,
+          "variacao": -0.009197,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-12",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.302029,
+          "tamanho_anterior": 0.32457,
+          "variacao": -0.022541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.120747,
+          "tamanho_anterior": 0.126289,
+          "variacao": -0.005542,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.1113,
+          "tamanho_anterior": 0.120753,
+          "variacao": -0.009453,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.098443,
+          "tamanho_anterior": 0.086494,
+          "variacao": 0.011949,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.095795,
+          "tamanho_anterior": 0.101261,
+          "variacao": -0.005466,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.069143,
+          "tamanho_anterior": 0.065034,
+          "variacao": 0.004109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.049792,
+          "tamanho_anterior": 0.052087,
+          "variacao": -0.002295,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.011843,
+          "tamanho_anterior": 0.010674,
+          "variacao": 0.001169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ARCO_US - Investimento no Exterior",
+          "tamanho": 0.00675,
+          "tamanho_anterior": 0.0022,
+          "variacao": 0.00455,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.00239,
+          "tamanho_anterior": 0.00276,
+          "variacao": -0.00037,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.000966,
+          "tamanho_anterior": 0.000868,
+          "variacao": 0.000097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.009197,
+          "variacao": -0.009197,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-01",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.302029,
+          "tamanho_anterior": 0.32457,
+          "variacao": -0.022541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.120747,
+          "tamanho_anterior": 0.126289,
+          "variacao": -0.005542,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.1113,
+          "tamanho_anterior": 0.120753,
+          "variacao": -0.009453,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.098443,
+          "tamanho_anterior": 0.086494,
+          "variacao": 0.011949,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.095795,
+          "tamanho_anterior": 0.101261,
+          "variacao": -0.005466,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.069143,
+          "tamanho_anterior": 0.065034,
+          "variacao": 0.004109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.049792,
+          "tamanho_anterior": 0.052087,
+          "variacao": -0.002295,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.011843,
+          "tamanho_anterior": 0.010674,
+          "variacao": 0.001169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ARCO_US - Investimento no Exterior",
+          "tamanho": 0.00675,
+          "tamanho_anterior": 0.0022,
+          "variacao": 0.00455,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.00239,
+          "tamanho_anterior": 0.00276,
+          "variacao": -0.00037,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.000966,
+          "tamanho_anterior": 0.000868,
+          "variacao": 0.000097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.009197,
+          "variacao": -0.009197,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.302029,
+          "tamanho_anterior": 0.32457,
+          "variacao": -0.022541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.120747,
+          "tamanho_anterior": 0.126289,
+          "variacao": -0.005542,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.1113,
+          "tamanho_anterior": 0.120753,
+          "variacao": -0.009453,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.098443,
+          "tamanho_anterior": 0.086494,
+          "variacao": 0.011949,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.095795,
+          "tamanho_anterior": 0.101261,
+          "variacao": -0.005466,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.069143,
+          "tamanho_anterior": 0.065034,
+          "variacao": 0.004109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.049792,
+          "tamanho_anterior": 0.052087,
+          "variacao": -0.002295,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.011843,
+          "tamanho_anterior": 0.010674,
+          "variacao": 0.001169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ARCO_US - Investimento no Exterior",
+          "tamanho": 0.00675,
+          "tamanho_anterior": 0.0022,
+          "variacao": 0.00455,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RDNI3",
+          "tamanho": 0.00239,
+          "tamanho_anterior": 0.00276,
+          "variacao": -0.00037,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.000966,
+          "tamanho_anterior": 0.000868,
+          "variacao": 0.000097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SRNA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.009197,
+          "variacao": -0.009197,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "PORT3",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    }
+  ]
+}

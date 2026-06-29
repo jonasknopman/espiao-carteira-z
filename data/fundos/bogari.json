@@ -1,0 +1,2443 @@
+{
+  "cnpj": "15.165.493/0001-97",
+  "nome_curto": "BOGARI",
+  "nome": "BOGARI VALUE MASTER FUNDO DE INVESTIMENTO DE AÇÕES",
+  "historico": [
+    {
+      "mes_id": "2025-03",
+      "data_ref": "2025-03-31",
+      "data_ref_anterior": "2025-02-28",
+      "posicoes": [
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.106315,
+          "tamanho_anterior": 0.106448,
+          "variacao": -0.000133,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.099197,
+          "tamanho_anterior": 0.098705,
+          "variacao": 0.000492,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.078265,
+          "tamanho_anterior": 0.068475,
+          "variacao": 0.00979,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.071571,
+          "tamanho_anterior": 0.071186,
+          "variacao": 0.000386,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.067744,
+          "tamanho_anterior": 0.066284,
+          "variacao": 0.00146,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.048238,
+          "tamanho_anterior": 0.04998,
+          "variacao": -0.001742,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.047657,
+          "tamanho_anterior": 0.046364,
+          "variacao": 0.001293,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.046351,
+          "tamanho_anterior": 0.046288,
+          "variacao": 0.000063,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.046161,
+          "tamanho_anterior": 0.048078,
+          "variacao": -0.001917,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.045535,
+          "tamanho_anterior": 0.031611,
+          "variacao": 0.013924,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.041168,
+          "tamanho_anterior": 0.039622,
+          "variacao": 0.001546,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.039164,
+          "tamanho_anterior": 0.037179,
+          "variacao": 0.001985,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.032306,
+          "tamanho_anterior": 0.029889,
+          "variacao": 0.002416,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.022556,
+          "tamanho_anterior": 0.023729,
+          "variacao": -0.001173,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.022406,
+          "tamanho_anterior": 0.022481,
+          "variacao": -0.000076,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.02147,
+          "tamanho_anterior": 0.022012,
+          "variacao": -0.000541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.018726,
+          "tamanho_anterior": 0.016774,
+          "variacao": 0.001952,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.017768,
+          "tamanho_anterior": 0.019739,
+          "variacao": -0.001971,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.015012,
+          "tamanho_anterior": 0.014983,
+          "variacao": 0.00003,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.012682,
+          "tamanho_anterior": 0.011303,
+          "variacao": 0.001379,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.008531,
+          "tamanho_anterior": 0.007351,
+          "variacao": 0.00118,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.004637,
+          "tamanho_anterior": 0.000982,
+          "variacao": 0.003655,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.0008,
+          "tamanho_anterior": 0,
+          "variacao": 0.0008,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000063,
+          "tamanho_anterior": 0.000906,
+          "variacao": -0.000842,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RECV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.014027,
+          "variacao": -0.014027,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "STOC31",
+          "tamanho": 0,
+          "tamanho_anterior": 0.001052,
+          "variacao": -0.001052,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ITSA2",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000161,
+          "variacao": -0.000161,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-04",
+      "data_ref": "2025-04-30",
+      "data_ref_anterior": "2025-03-31",
+      "posicoes": [
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.101704,
+          "tamanho_anterior": 0.099197,
+          "variacao": 0.002507,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.100347,
+          "tamanho_anterior": 0.106315,
+          "variacao": -0.005968,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.089361,
+          "tamanho_anterior": 0.078265,
+          "variacao": 0.011096,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.071186,
+          "tamanho_anterior": 0.071571,
+          "variacao": -0.000385,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.069581,
+          "tamanho_anterior": 0.067744,
+          "variacao": 0.001837,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.051805,
+          "tamanho_anterior": 0.048238,
+          "variacao": 0.003567,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.047731,
+          "tamanho_anterior": 0.039164,
+          "variacao": 0.008567,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.047057,
+          "tamanho_anterior": 0.046161,
+          "variacao": 0.000897,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.043891,
+          "tamanho_anterior": 0.041168,
+          "variacao": 0.002723,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.043434,
+          "tamanho_anterior": 0.046351,
+          "variacao": -0.002916,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.039517,
+          "tamanho_anterior": 0.047657,
+          "variacao": -0.008141,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.038827,
+          "tamanho_anterior": 0.045535,
+          "variacao": -0.006708,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.035149,
+          "tamanho_anterior": 0.032306,
+          "variacao": 0.002843,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.024753,
+          "tamanho_anterior": 0.022556,
+          "variacao": 0.002197,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.021028,
+          "tamanho_anterior": 0.022406,
+          "variacao": -0.001377,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.019973,
+          "tamanho_anterior": 0.02147,
+          "variacao": -0.001498,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.019918,
+          "tamanho_anterior": 0.018726,
+          "variacao": 0.001193,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.015011,
+          "tamanho_anterior": 0.017768,
+          "variacao": -0.002757,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.01488,
+          "tamanho_anterior": 0.015012,
+          "variacao": -0.000132,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.013559,
+          "tamanho_anterior": 0.012682,
+          "variacao": 0.000878,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.01019,
+          "tamanho_anterior": 0.008531,
+          "variacao": 0.00166,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.001821,
+          "tamanho_anterior": 0.004637,
+          "variacao": -0.002817,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.000425,
+          "tamanho_anterior": 0.0008,
+          "variacao": -0.000376,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000056,
+          "tamanho_anterior": 0.000063,
+          "variacao": -7e-06,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-05",
+      "data_ref": "2025-05-31",
+      "data_ref_anterior": "2025-04-30",
+      "posicoes": [
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.102843,
+          "tamanho_anterior": 0.100347,
+          "variacao": 0.002495,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.100407,
+          "tamanho_anterior": 0.101704,
+          "variacao": -0.001297,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.08532,
+          "tamanho_anterior": 0.089361,
+          "variacao": -0.004042,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.075908,
+          "tamanho_anterior": 0.071186,
+          "variacao": 0.004722,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.06614,
+          "tamanho_anterior": 0.069581,
+          "variacao": -0.003441,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.056152,
+          "tamanho_anterior": 0.043891,
+          "variacao": 0.012261,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.051229,
+          "tamanho_anterior": 0.051805,
+          "variacao": -0.000576,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.051122,
+          "tamanho_anterior": 0.043434,
+          "variacao": 0.007687,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.04646,
+          "tamanho_anterior": 0.047057,
+          "variacao": -0.000597,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.04284,
+          "tamanho_anterior": 0.038827,
+          "variacao": 0.004013,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.04097,
+          "tamanho_anterior": 0.035149,
+          "variacao": 0.005821,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.036631,
+          "tamanho_anterior": 0.047731,
+          "variacao": -0.0111,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.029807,
+          "tamanho_anterior": 0.039517,
+          "variacao": -0.00971,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.02806,
+          "tamanho_anterior": 0.024753,
+          "variacao": 0.003307,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.025245,
+          "tamanho_anterior": 0.019918,
+          "variacao": 0.005327,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.019209,
+          "tamanho_anterior": 0.019973,
+          "variacao": -0.000763,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.019117,
+          "tamanho_anterior": 0.021028,
+          "variacao": -0.001912,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.014215,
+          "tamanho_anterior": 0.015011,
+          "variacao": -0.000796,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.012712,
+          "tamanho_anterior": 0.013559,
+          "variacao": -0.000847,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.012561,
+          "tamanho_anterior": 0.01019,
+          "variacao": 0.00237,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.00882,
+          "tamanho_anterior": 0.000425,
+          "variacao": 0.008395,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.000206,
+          "tamanho_anterior": 0.001821,
+          "variacao": -0.001614,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000059,
+          "tamanho_anterior": 0.000056,
+          "variacao": 3e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0,
+          "tamanho_anterior": 0.01488,
+          "variacao": -0.01488,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-06",
+      "data_ref": "2025-06-30",
+      "data_ref_anterior": "2025-05-31",
+      "posicoes": [
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.109805,
+          "tamanho_anterior": 0.102843,
+          "variacao": 0.006962,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.101594,
+          "tamanho_anterior": 0.100407,
+          "variacao": 0.001188,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.080051,
+          "tamanho_anterior": 0.08532,
+          "variacao": -0.005268,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.07551,
+          "tamanho_anterior": 0.075908,
+          "variacao": -0.000398,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.064551,
+          "tamanho_anterior": 0.06614,
+          "variacao": -0.00159,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.054991,
+          "tamanho_anterior": 0.056152,
+          "variacao": -0.001161,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.050458,
+          "tamanho_anterior": 0.051229,
+          "variacao": -0.000771,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.046396,
+          "tamanho_anterior": 0.04284,
+          "variacao": 0.003555,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.045158,
+          "tamanho_anterior": 0.04646,
+          "variacao": -0.001302,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.043681,
+          "tamanho_anterior": 0.051122,
+          "variacao": -0.00744,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.040903,
+          "tamanho_anterior": 0.04097,
+          "variacao": -0.000068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.040744,
+          "tamanho_anterior": 0.036631,
+          "variacao": 0.004112,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.027716,
+          "tamanho_anterior": 0.02806,
+          "variacao": -0.000344,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.020126,
+          "tamanho_anterior": 0.019209,
+          "variacao": 0.000917,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.017452,
+          "tamanho_anterior": 0.025245,
+          "variacao": -0.007793,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.015848,
+          "tamanho_anterior": 0.019117,
+          "variacao": -0.003268,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.01459,
+          "tamanho_anterior": 0.014215,
+          "variacao": 0.000374,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.013091,
+          "tamanho_anterior": 0.012712,
+          "variacao": 0.000379,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.012211,
+          "tamanho_anterior": 0.012561,
+          "variacao": -0.00035,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.010152,
+          "tamanho_anterior": 0.00882,
+          "variacao": 0.001332,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.009309,
+          "tamanho_anterior": 0.029807,
+          "variacao": -0.020498,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.007779,
+          "tamanho_anterior": 0.000206,
+          "variacao": 0.007572,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.000476,
+          "tamanho_anterior": 0,
+          "variacao": 0.000476,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000056,
+          "tamanho_anterior": 0.000059,
+          "variacao": -3e-06,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-07",
+      "data_ref": "2025-07-31",
+      "data_ref_anterior": "2025-06-30",
+      "posicoes": [
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.116327,
+          "tamanho_anterior": 0.109805,
+          "variacao": 0.006523,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.10388,
+          "tamanho_anterior": 0.101594,
+          "variacao": 0.002286,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.077347,
+          "tamanho_anterior": 0.07551,
+          "variacao": 0.001837,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.074029,
+          "tamanho_anterior": 0.080051,
+          "variacao": -0.006023,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.066176,
+          "tamanho_anterior": 0.064551,
+          "variacao": 0.001626,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.053113,
+          "tamanho_anterior": 0.054991,
+          "variacao": -0.001879,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.049958,
+          "tamanho_anterior": 0.046396,
+          "variacao": 0.003562,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.049775,
+          "tamanho_anterior": 0.050458,
+          "variacao": -0.000683,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.048142,
+          "tamanho_anterior": 0.045158,
+          "variacao": 0.002984,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.042417,
+          "tamanho_anterior": 0.043681,
+          "variacao": -0.001264,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.036981,
+          "tamanho_anterior": 0.040903,
+          "variacao": -0.003922,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.036364,
+          "tamanho_anterior": 0.040744,
+          "variacao": -0.00438,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.027328,
+          "tamanho_anterior": 0.027716,
+          "variacao": -0.000389,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.020195,
+          "tamanho_anterior": 0.000476,
+          "variacao": 0.019719,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.019412,
+          "tamanho_anterior": 0.020126,
+          "variacao": -0.000714,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.016094,
+          "tamanho_anterior": 0.01459,
+          "variacao": 0.001504,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.01562,
+          "tamanho_anterior": 0.017452,
+          "variacao": -0.001832,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.014824,
+          "tamanho_anterior": 0.015848,
+          "variacao": -0.001025,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.01467,
+          "tamanho_anterior": 0.013091,
+          "variacao": 0.001579,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.012981,
+          "tamanho_anterior": 0.012211,
+          "variacao": 0.000771,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.009,
+          "tamanho_anterior": 0.010152,
+          "variacao": -0.001152,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.007009,
+          "tamanho_anterior": 0.007779,
+          "variacao": -0.000769,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000063,
+          "tamanho_anterior": 0.000056,
+          "variacao": 7e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.009309,
+          "variacao": -0.009309,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-08",
+      "data_ref": "2025-08-31",
+      "data_ref_anterior": "2025-07-31",
+      "posicoes": [
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.116135,
+          "tamanho_anterior": 0.116327,
+          "variacao": -0.000193,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.102101,
+          "tamanho_anterior": 0.10388,
+          "variacao": -0.001779,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.075239,
+          "tamanho_anterior": 0.074029,
+          "variacao": 0.001211,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.072142,
+          "tamanho_anterior": 0.077347,
+          "variacao": -0.005205,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.06531,
+          "tamanho_anterior": 0.066176,
+          "variacao": -0.000866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.057366,
+          "tamanho_anterior": 0.049775,
+          "variacao": 0.00759,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.049724,
+          "tamanho_anterior": 0.048142,
+          "variacao": 0.001581,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.049193,
+          "tamanho_anterior": 0.042417,
+          "variacao": 0.006775,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.042955,
+          "tamanho_anterior": 0.053113,
+          "variacao": -0.010157,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.042234,
+          "tamanho_anterior": 0.036364,
+          "variacao": 0.00587,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.041232,
+          "tamanho_anterior": 0.049958,
+          "variacao": -0.008726,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.03801,
+          "tamanho_anterior": 0.036981,
+          "variacao": 0.001029,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.032348,
+          "tamanho_anterior": 0.027328,
+          "variacao": 0.005021,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.02179,
+          "tamanho_anterior": 0.020195,
+          "variacao": 0.001595,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.018186,
+          "tamanho_anterior": 0.019412,
+          "variacao": -0.001226,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.015893,
+          "tamanho_anterior": 0.01467,
+          "variacao": 0.001223,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.015821,
+          "tamanho_anterior": 0.01562,
+          "variacao": 0.000201,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.014892,
+          "tamanho_anterior": 0.016094,
+          "variacao": -0.001202,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.013445,
+          "tamanho_anterior": 0.014824,
+          "variacao": -0.001378,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.010947,
+          "tamanho_anterior": 0.012981,
+          "variacao": -0.002035,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.010092,
+          "tamanho_anterior": 0.009,
+          "variacao": 0.001093,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.006876,
+          "tamanho_anterior": 0.007009,
+          "variacao": -0.000134,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000056,
+          "tamanho_anterior": 0.000063,
+          "variacao": -6e-06,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-09",
+      "data_ref": "2025-09-30",
+      "data_ref_anterior": "2025-08-31",
+      "posicoes": [
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.114797,
+          "tamanho_anterior": 0.116135,
+          "variacao": -0.001338,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.102834,
+          "tamanho_anterior": 0.102101,
+          "variacao": 0.000733,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.080063,
+          "tamanho_anterior": 0.075239,
+          "variacao": 0.004824,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.075199,
+          "tamanho_anterior": 0.072142,
+          "variacao": 0.003057,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.06378,
+          "tamanho_anterior": 0.06531,
+          "variacao": -0.00153,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.059589,
+          "tamanho_anterior": 0.057366,
+          "variacao": 0.002223,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.052638,
+          "tamanho_anterior": 0.049724,
+          "variacao": 0.002914,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.05079,
+          "tamanho_anterior": 0.042955,
+          "variacao": 0.007835,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.045778,
+          "tamanho_anterior": 0.042234,
+          "variacao": 0.003544,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.040876,
+          "tamanho_anterior": 0.049193,
+          "variacao": -0.008316,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.040141,
+          "tamanho_anterior": 0.041232,
+          "variacao": -0.001091,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.035659,
+          "tamanho_anterior": 0.03801,
+          "variacao": -0.002351,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.032814,
+          "tamanho_anterior": 0.032348,
+          "variacao": 0.000465,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.021763,
+          "tamanho_anterior": 0.02179,
+          "variacao": -0.000027,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.01895,
+          "tamanho_anterior": 0.018186,
+          "variacao": 0.000764,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.016804,
+          "tamanho_anterior": 0.015893,
+          "variacao": 0.000911,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.015471,
+          "tamanho_anterior": 0.015821,
+          "variacao": -0.00035,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.013704,
+          "tamanho_anterior": 0.014892,
+          "variacao": -0.001188,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.011399,
+          "tamanho_anterior": 0.010092,
+          "variacao": 0.001307,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.011194,
+          "tamanho_anterior": 0.010947,
+          "variacao": 0.000248,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.007048,
+          "tamanho_anterior": 0.006876,
+          "variacao": 0.000172,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.004682,
+          "tamanho_anterior": 0.013445,
+          "variacao": -0.008764,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000053,
+          "tamanho_anterior": 0.000056,
+          "variacao": -3e-06,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-10",
+      "data_ref": "2025-10-31",
+      "data_ref_anterior": "2025-09-30",
+      "posicoes": [
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.105868,
+          "tamanho_anterior": 0.114797,
+          "variacao": -0.008929,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.104508,
+          "tamanho_anterior": 0.102834,
+          "variacao": 0.001674,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.079821,
+          "tamanho_anterior": 0.080063,
+          "variacao": -0.000242,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.068348,
+          "tamanho_anterior": 0.06378,
+          "variacao": 0.004569,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.058675,
+          "tamanho_anterior": 0.059589,
+          "variacao": -0.000914,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.058069,
+          "tamanho_anterior": 0.052638,
+          "variacao": 0.005431,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.054055,
+          "tamanho_anterior": 0.075199,
+          "variacao": -0.021143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.050485,
+          "tamanho_anterior": 0.05079,
+          "variacao": -0.000305,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.047721,
+          "tamanho_anterior": 0.045778,
+          "variacao": 0.001943,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.037833,
+          "tamanho_anterior": 0.040141,
+          "variacao": -0.002309,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.03557,
+          "tamanho_anterior": 0.040876,
+          "variacao": -0.005307,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.033769,
+          "tamanho_anterior": 0.032814,
+          "variacao": 0.000955,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.032154,
+          "tamanho_anterior": 0.035659,
+          "variacao": -0.003504,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.023163,
+          "tamanho_anterior": 0.021763,
+          "variacao": 0.0014,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.019432,
+          "tamanho_anterior": 0.01895,
+          "variacao": 0.000482,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.015822,
+          "tamanho_anterior": 0.016804,
+          "variacao": -0.000982,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.015556,
+          "tamanho_anterior": 0.015471,
+          "variacao": 0.000085,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.013403,
+          "tamanho_anterior": 0.013704,
+          "variacao": -0.000301,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.013228,
+          "tamanho_anterior": 0.011194,
+          "variacao": 0.002033,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.010477,
+          "tamanho_anterior": 0.011399,
+          "variacao": -0.000922,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.006441,
+          "tamanho_anterior": 0.007048,
+          "variacao": -0.000606,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MELI34",
+          "tamanho": 0.005739,
+          "tamanho_anterior": 0,
+          "variacao": 0.005739,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.002567,
+          "tamanho_anterior": 0.004682,
+          "variacao": -0.002115,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COCE5",
+          "tamanho": 0.002223,
+          "tamanho_anterior": 0,
+          "variacao": 0.002223,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000053,
+          "variacao": 2e-06,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-11",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.10665,
+          "tamanho_anterior": 0.104508,
+          "variacao": 0.002143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.102984,
+          "tamanho_anterior": 0.105868,
+          "variacao": -0.002883,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.089286,
+          "tamanho_anterior": 0.079821,
+          "variacao": 0.009465,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.072287,
+          "tamanho_anterior": 0.068348,
+          "variacao": 0.003939,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.061429,
+          "tamanho_anterior": 0.058069,
+          "variacao": 0.00336,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.056538,
+          "tamanho_anterior": 0.058675,
+          "variacao": -0.002137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.054753,
+          "tamanho_anterior": 0.054055,
+          "variacao": 0.000697,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.05209,
+          "tamanho_anterior": 0.050485,
+          "variacao": 0.001605,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.045012,
+          "tamanho_anterior": 0.047721,
+          "variacao": -0.002709,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.038097,
+          "tamanho_anterior": 0.037833,
+          "variacao": 0.000264,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.034447,
+          "tamanho_anterior": 0.032154,
+          "variacao": 0.002293,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.032105,
+          "tamanho_anterior": 0.033769,
+          "variacao": -0.001664,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.028504,
+          "tamanho_anterior": 0.013403,
+          "variacao": 0.015101,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.022711,
+          "tamanho_anterior": 0.023163,
+          "variacao": -0.000452,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.022136,
+          "tamanho_anterior": 0.019432,
+          "variacao": 0.002704,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.021942,
+          "tamanho_anterior": 0.03557,
+          "variacao": -0.013627,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.018552,
+          "tamanho_anterior": 0.002567,
+          "variacao": 0.015985,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.016123,
+          "tamanho_anterior": 0.015556,
+          "variacao": 0.000566,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.016081,
+          "tamanho_anterior": 0.015822,
+          "variacao": 0.000259,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.013803,
+          "tamanho_anterior": 0.013228,
+          "variacao": 0.000575,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MELI34",
+          "tamanho": 0.009848,
+          "tamanho_anterior": 0.005739,
+          "variacao": 0.004109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.009308,
+          "tamanho_anterior": 0.010477,
+          "variacao": -0.001169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COCE5",
+          "tamanho": 0.007298,
+          "tamanho_anterior": 0.002223,
+          "variacao": 0.005075,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.006927,
+          "tamanho_anterior": 0.006441,
+          "variacao": 0.000486,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000055,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-12",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.10665,
+          "tamanho_anterior": 0.104508,
+          "variacao": 0.002143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.102984,
+          "tamanho_anterior": 0.105868,
+          "variacao": -0.002883,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.089286,
+          "tamanho_anterior": 0.079821,
+          "variacao": 0.009465,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.072287,
+          "tamanho_anterior": 0.068348,
+          "variacao": 0.003939,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.061429,
+          "tamanho_anterior": 0.058069,
+          "variacao": 0.00336,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.056538,
+          "tamanho_anterior": 0.058675,
+          "variacao": -0.002137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.054753,
+          "tamanho_anterior": 0.054055,
+          "variacao": 0.000697,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.05209,
+          "tamanho_anterior": 0.050485,
+          "variacao": 0.001605,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.045012,
+          "tamanho_anterior": 0.047721,
+          "variacao": -0.002709,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.038097,
+          "tamanho_anterior": 0.037833,
+          "variacao": 0.000264,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.034447,
+          "tamanho_anterior": 0.032154,
+          "variacao": 0.002293,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.032105,
+          "tamanho_anterior": 0.033769,
+          "variacao": -0.001664,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.028504,
+          "tamanho_anterior": 0.013403,
+          "variacao": 0.015101,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.022711,
+          "tamanho_anterior": 0.023163,
+          "variacao": -0.000452,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.022136,
+          "tamanho_anterior": 0.019432,
+          "variacao": 0.002704,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.021942,
+          "tamanho_anterior": 0.03557,
+          "variacao": -0.013627,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.018552,
+          "tamanho_anterior": 0.002567,
+          "variacao": 0.015985,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.016123,
+          "tamanho_anterior": 0.015556,
+          "variacao": 0.000566,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.016081,
+          "tamanho_anterior": 0.015822,
+          "variacao": 0.000259,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.013803,
+          "tamanho_anterior": 0.013228,
+          "variacao": 0.000575,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MELI34",
+          "tamanho": 0.009848,
+          "tamanho_anterior": 0.005739,
+          "variacao": 0.004109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.009308,
+          "tamanho_anterior": 0.010477,
+          "variacao": -0.001169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COCE5",
+          "tamanho": 0.007298,
+          "tamanho_anterior": 0.002223,
+          "variacao": 0.005075,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.006927,
+          "tamanho_anterior": 0.006441,
+          "variacao": 0.000486,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000055,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-01",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.10665,
+          "tamanho_anterior": 0.104508,
+          "variacao": 0.002143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.102984,
+          "tamanho_anterior": 0.105868,
+          "variacao": -0.002883,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.089286,
+          "tamanho_anterior": 0.079821,
+          "variacao": 0.009465,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.072287,
+          "tamanho_anterior": 0.068348,
+          "variacao": 0.003939,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.061429,
+          "tamanho_anterior": 0.058069,
+          "variacao": 0.00336,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.056538,
+          "tamanho_anterior": 0.058675,
+          "variacao": -0.002137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.054753,
+          "tamanho_anterior": 0.054055,
+          "variacao": 0.000697,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.05209,
+          "tamanho_anterior": 0.050485,
+          "variacao": 0.001605,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.045012,
+          "tamanho_anterior": 0.047721,
+          "variacao": -0.002709,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.038097,
+          "tamanho_anterior": 0.037833,
+          "variacao": 0.000264,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.034447,
+          "tamanho_anterior": 0.032154,
+          "variacao": 0.002293,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.032105,
+          "tamanho_anterior": 0.033769,
+          "variacao": -0.001664,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.028504,
+          "tamanho_anterior": 0.013403,
+          "variacao": 0.015101,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.022711,
+          "tamanho_anterior": 0.023163,
+          "variacao": -0.000452,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.022136,
+          "tamanho_anterior": 0.019432,
+          "variacao": 0.002704,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.021942,
+          "tamanho_anterior": 0.03557,
+          "variacao": -0.013627,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.018552,
+          "tamanho_anterior": 0.002567,
+          "variacao": 0.015985,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.016123,
+          "tamanho_anterior": 0.015556,
+          "variacao": 0.000566,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.016081,
+          "tamanho_anterior": 0.015822,
+          "variacao": 0.000259,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.013803,
+          "tamanho_anterior": 0.013228,
+          "variacao": 0.000575,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MELI34",
+          "tamanho": 0.009848,
+          "tamanho_anterior": 0.005739,
+          "variacao": 0.004109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.009308,
+          "tamanho_anterior": 0.010477,
+          "variacao": -0.001169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COCE5",
+          "tamanho": 0.007298,
+          "tamanho_anterior": 0.002223,
+          "variacao": 0.005075,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.006927,
+          "tamanho_anterior": 0.006441,
+          "variacao": 0.000486,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000055,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.10665,
+          "tamanho_anterior": 0.104508,
+          "variacao": 0.002143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VBBR3",
+          "tamanho": 0.102984,
+          "tamanho_anterior": 0.105868,
+          "variacao": -0.002883,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RENT3",
+          "tamanho": 0.089286,
+          "tamanho_anterior": 0.079821,
+          "variacao": 0.009465,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.072287,
+          "tamanho_anterior": 0.068348,
+          "variacao": 0.003939,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.061429,
+          "tamanho_anterior": 0.058069,
+          "variacao": 0.00336,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.056538,
+          "tamanho_anterior": 0.058675,
+          "variacao": -0.002137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.054753,
+          "tamanho_anterior": 0.054055,
+          "variacao": 0.000697,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.05209,
+          "tamanho_anterior": 0.050485,
+          "variacao": 0.001605,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STNE - Investimento no Exterior",
+          "tamanho": 0.045012,
+          "tamanho_anterior": 0.047721,
+          "variacao": -0.002709,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.038097,
+          "tamanho_anterior": 0.037833,
+          "variacao": 0.000264,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ASAI3",
+          "tamanho": 0.034447,
+          "tamanho_anterior": 0.032154,
+          "variacao": 0.002293,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTR - Investimento no Exterior",
+          "tamanho": 0.032105,
+          "tamanho_anterior": 0.033769,
+          "variacao": -0.001664,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.028504,
+          "tamanho_anterior": 0.013403,
+          "variacao": 0.015101,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MOTV3",
+          "tamanho": 0.022711,
+          "tamanho_anterior": 0.023163,
+          "variacao": -0.000452,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BRST3",
+          "tamanho": 0.022136,
+          "tamanho_anterior": 0.019432,
+          "variacao": 0.002704,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.021942,
+          "tamanho_anterior": 0.03557,
+          "variacao": -0.013627,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSAN3",
+          "tamanho": 0.018552,
+          "tamanho_anterior": 0.002567,
+          "variacao": 0.015985,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XP - Investimento no Exterior",
+          "tamanho": 0.016123,
+          "tamanho_anterior": 0.015556,
+          "variacao": 0.000566,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMFT3",
+          "tamanho": 0.016081,
+          "tamanho_anterior": 0.015822,
+          "variacao": 0.000259,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSED3",
+          "tamanho": 0.013803,
+          "tamanho_anterior": 0.013228,
+          "variacao": 0.000575,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MELI34",
+          "tamanho": 0.009848,
+          "tamanho_anterior": 0.005739,
+          "variacao": 0.004109,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.009308,
+          "tamanho_anterior": 0.010477,
+          "variacao": -0.001169,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "COCE5",
+          "tamanho": 0.007298,
+          "tamanho_anterior": 0.002223,
+          "variacao": 0.005075,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.006927,
+          "tamanho_anterior": 0.006441,
+          "variacao": 0.000486,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USDXPCAS - Investimento no Exterior",
+          "tamanho": 0.000055,
+          "tamanho_anterior": 0.000055,
+          "variacao": -0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    }
+  ]
+}

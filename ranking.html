@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Ranking — Espião CZ</title>
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    .rk-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .rk-title {
+      font-size: 1.3em;
+      font-weight: 700;
+      color: var(--navy);
+      flex: 1;
+      min-width: 140px;
+    }
+    #busca-ativo { max-width: 220px; }
+
+    /* ── Treemap ── */
+    .section-title {
+      font-size: 0.82em;
+      font-weight: 600;
+      color: var(--text2);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 8px;
+    }
+    .treemap-wrap {
+      background: var(--bg2);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      margin-bottom: 20px;
+      box-shadow: var(--shadow);
+    }
+
+    @media (max-width: 600px) {
+      #busca-ativo { max-width: 100%; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="nav"></div>
+
+<div class="page-wrap">
+<div class="container">
+
+  <div class="rk-header">
+    <div class="rk-title">Ranking de Convicção</div>
+    <div id="mes-container">
+      <select class="mes-select" disabled><option>Carregando…</option></select>
+    </div>
+    <input id="busca-ativo" class="cz-input" type="search"
+           placeholder="Filtrar ativo…" aria-label="Filtrar por código de ativo">
+  </div>
+
+  <div id="main-content">
+    <div class="ui-loading">Carregando ranking…</div>
+  </div>
+
+</div>
+</div>
+
+<!-- Vega via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/vega@5/build/vega.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5/build/vega-lite.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6/build/vega-embed.min.js"></script>
+
+<script src="js/util.js"></script>
+<script src="js/ranking.js"></script>
+</body>
+</html>

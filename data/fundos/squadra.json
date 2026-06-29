@@ -1,0 +1,1875 @@
+{
+  "cnpj": "09.288.254/0001-21",
+  "nome_curto": "SQUADRA",
+  "nome": "SQUADRA MASTER LONG-ONLY FUNDO DE INVESTIMENTO EM AÇÕES",
+  "historico": [
+    {
+      "mes_id": "2025-03",
+      "data_ref": "2025-03-31",
+      "data_ref_anterior": "2025-02-28",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.147063,
+          "tamanho_anterior": 0.142851,
+          "variacao": 0.004212,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.130188,
+          "tamanho_anterior": 0.115619,
+          "variacao": 0.014569,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.112279,
+          "tamanho_anterior": 0.111631,
+          "variacao": 0.000648,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.09635,
+          "tamanho_anterior": 0.099657,
+          "variacao": -0.003307,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.094003,
+          "tamanho_anterior": 0.094203,
+          "variacao": -0.0002,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.061051,
+          "tamanho_anterior": 0.061109,
+          "variacao": -0.000058,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.059552,
+          "tamanho_anterior": 0.050089,
+          "variacao": 0.009463,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.054752,
+          "tamanho_anterior": 0.058893,
+          "variacao": -0.004141,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.043201,
+          "tamanho_anterior": 0.042477,
+          "variacao": 0.000724,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0.041878,
+          "tamanho_anterior": 0.035751,
+          "variacao": 0.006127,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.038457,
+          "tamanho_anterior": 0.041415,
+          "variacao": -0.002958,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.036236,
+          "tamanho_anterior": 0.045552,
+          "variacao": -0.009317,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.029366,
+          "tamanho_anterior": 0.031311,
+          "variacao": -0.001945,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0.014264,
+          "tamanho_anterior": 0.014173,
+          "variacao": 0.000091,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.010273,
+          "tamanho_anterior": 0.009409,
+          "variacao": 0.000865,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006541,
+          "tamanho_anterior": 0.00654,
+          "variacao": 1e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE6",
+          "tamanho": 0.00278,
+          "tamanho_anterior": 0.002755,
+          "variacao": 0.000025,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.00043,
+          "tamanho_anterior": 0.000431,
+          "variacao": -1e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL9",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000502,
+          "variacao": -0.000502,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-04",
+      "data_ref": "2025-04-30",
+      "data_ref_anterior": "2025-03-31",
+      "posicoes": [
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.174325,
+          "tamanho_anterior": 0.130188,
+          "variacao": 0.044137,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.146611,
+          "tamanho_anterior": 0.147063,
+          "variacao": -0.000452,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.115618,
+          "tamanho_anterior": 0.112279,
+          "variacao": 0.00334,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.081064,
+          "tamanho_anterior": 0.09635,
+          "variacao": -0.015286,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.069533,
+          "tamanho_anterior": 0.094003,
+          "variacao": -0.02447,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.063739,
+          "tamanho_anterior": 0.054752,
+          "variacao": 0.008986,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.061874,
+          "tamanho_anterior": 0.059552,
+          "variacao": 0.002322,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.058574,
+          "tamanho_anterior": 0.061051,
+          "variacao": -0.002477,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.04464,
+          "tamanho_anterior": 0.038457,
+          "variacao": 0.006183,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.04399,
+          "tamanho_anterior": 0.043201,
+          "variacao": 0.000789,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.038858,
+          "tamanho_anterior": 0.036236,
+          "variacao": 0.002622,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.017618,
+          "tamanho_anterior": 0.029366,
+          "variacao": -0.011748,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.009789,
+          "tamanho_anterior": 0.010273,
+          "variacao": -0.000484,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.0074,
+          "tamanho_anterior": 0.006541,
+          "variacao": 0.00086,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000402,
+          "tamanho_anterior": 0.00043,
+          "variacao": -0.000027,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CPLE3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.014264,
+          "variacao": -0.014264,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SBSP3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.041878,
+          "variacao": -0.041878,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "CPLE6",
+          "tamanho": 0,
+          "tamanho_anterior": 0.00278,
+          "variacao": -0.00278,
+          "novo": false,
+          "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-05",
+      "data_ref": "2025-05-31",
+      "data_ref_anterior": "2025-04-30",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.139132,
+          "tamanho_anterior": 0.146611,
+          "variacao": -0.007479,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.117514,
+          "tamanho_anterior": 0.115618,
+          "variacao": 0.001895,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.107045,
+          "tamanho_anterior": 0.069533,
+          "variacao": 0.037512,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.101302,
+          "tamanho_anterior": 0.174325,
+          "variacao": -0.073023,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.081186,
+          "tamanho_anterior": 0.061874,
+          "variacao": 0.019312,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.066295,
+          "tamanho_anterior": 0.081064,
+          "variacao": -0.014769,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.064473,
+          "tamanho_anterior": 0.063739,
+          "variacao": 0.000734,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.05549,
+          "tamanho_anterior": 0.058574,
+          "variacao": -0.003084,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.050028,
+          "tamanho_anterior": 0.017618,
+          "variacao": 0.03241,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.04518,
+          "tamanho_anterior": 0.04464,
+          "variacao": 0.000541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.043446,
+          "tamanho_anterior": 0.04399,
+          "variacao": -0.000544,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.031626,
+          "tamanho_anterior": 0.038858,
+          "variacao": -0.007232,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.013469,
+          "tamanho_anterior": 0,
+          "variacao": 0.013469,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.008768,
+          "tamanho_anterior": 0.009789,
+          "variacao": -0.001021,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.00697,
+          "tamanho_anterior": 0.0074,
+          "variacao": -0.00043,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000474,
+          "tamanho_anterior": 0.000402,
+          "variacao": 0.000072,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-06",
+      "data_ref": "2025-06-30",
+      "data_ref_anterior": "2025-05-31",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.135289,
+          "tamanho_anterior": 0.139132,
+          "variacao": -0.003843,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.130408,
+          "tamanho_anterior": 0.101302,
+          "variacao": 0.029106,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.118362,
+          "tamanho_anterior": 0.117514,
+          "variacao": 0.000848,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.093808,
+          "tamanho_anterior": 0.107045,
+          "variacao": -0.013237,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.070743,
+          "tamanho_anterior": 0.066295,
+          "variacao": 0.004447,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.069111,
+          "tamanho_anterior": 0.081186,
+          "variacao": -0.012075,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.065168,
+          "tamanho_anterior": 0.064473,
+          "variacao": 0.000696,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.055667,
+          "tamanho_anterior": 0.05549,
+          "variacao": 0.000177,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.048943,
+          "tamanho_anterior": 0.050028,
+          "variacao": -0.001085,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.047193,
+          "tamanho_anterior": 0.04518,
+          "variacao": 0.002013,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.044027,
+          "tamanho_anterior": 0.043446,
+          "variacao": 0.000581,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.03086,
+          "tamanho_anterior": 0.031626,
+          "variacao": -0.000766,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.021982,
+          "tamanho_anterior": 0.013469,
+          "variacao": 0.008514,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.008571,
+          "tamanho_anterior": 0.008768,
+          "variacao": -0.000197,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006864,
+          "tamanho_anterior": 0.00697,
+          "variacao": -0.000106,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000518,
+          "tamanho_anterior": 0.000474,
+          "variacao": 0.000044,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-07",
+      "data_ref": "2025-07-31",
+      "data_ref_anterior": "2025-06-30",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.137464,
+          "tamanho_anterior": 0.135289,
+          "variacao": 0.002175,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.120953,
+          "tamanho_anterior": 0.118362,
+          "variacao": 0.002591,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.1186,
+          "tamanho_anterior": 0.130408,
+          "variacao": -0.011808,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.107118,
+          "tamanho_anterior": 0.093808,
+          "variacao": 0.01331,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.073845,
+          "tamanho_anterior": 0.069111,
+          "variacao": 0.004734,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.071509,
+          "tamanho_anterior": 0.070743,
+          "variacao": 0.000766,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.066691,
+          "tamanho_anterior": 0.065168,
+          "variacao": 0.001522,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.055509,
+          "tamanho_anterior": 0.055667,
+          "variacao": -0.000159,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.053123,
+          "tamanho_anterior": 0.048943,
+          "variacao": 0.00418,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.047149,
+          "tamanho_anterior": 0.047193,
+          "variacao": -0.000044,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.042361,
+          "tamanho_anterior": 0.044027,
+          "variacao": -0.001665,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.029541,
+          "tamanho_anterior": 0.03086,
+          "variacao": -0.001319,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.023298,
+          "tamanho_anterior": 0.021982,
+          "variacao": 0.001316,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.009755,
+          "tamanho_anterior": 0.008571,
+          "variacao": 0.001184,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006736,
+          "tamanho_anterior": 0.006864,
+          "variacao": -0.000128,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000654,
+          "tamanho_anterior": 0.000518,
+          "variacao": 0.000136,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-08",
+      "data_ref": "2025-08-31",
+      "data_ref_anterior": "2025-07-31",
+      "posicoes": [
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.157205,
+          "tamanho_anterior": 0.1186,
+          "variacao": 0.038605,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.140677,
+          "tamanho_anterior": 0.137464,
+          "variacao": 0.003213,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.12067,
+          "tamanho_anterior": 0.120953,
+          "variacao": -0.000284,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.094002,
+          "tamanho_anterior": 0.073845,
+          "variacao": 0.020157,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.087547,
+          "tamanho_anterior": 0.107118,
+          "variacao": -0.01957,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.074554,
+          "tamanho_anterior": 0.071509,
+          "variacao": 0.003045,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.055637,
+          "tamanho_anterior": 0.055509,
+          "variacao": 0.000128,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.05239,
+          "tamanho_anterior": 0.047149,
+          "variacao": 0.005241,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.050415,
+          "tamanho_anterior": 0.066691,
+          "variacao": -0.016276,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.041476,
+          "tamanho_anterior": 0.042361,
+          "variacao": -0.000885,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.038873,
+          "tamanho_anterior": 0.053123,
+          "variacao": -0.01425,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.024231,
+          "tamanho_anterior": 0.023298,
+          "variacao": 0.000933,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.017714,
+          "tamanho_anterior": 0.029541,
+          "variacao": -0.011826,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.00864,
+          "tamanho_anterior": 0.009755,
+          "variacao": -0.001114,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006403,
+          "tamanho_anterior": 0.006736,
+          "variacao": -0.000332,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000936,
+          "tamanho_anterior": 0.000654,
+          "variacao": 0.000282,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-09",
+      "data_ref": "2025-09-30",
+      "data_ref_anterior": "2025-08-31",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.14922,
+          "tamanho_anterior": 0.140677,
+          "variacao": 0.008543,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.133024,
+          "tamanho_anterior": 0.157205,
+          "variacao": -0.024181,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.126075,
+          "tamanho_anterior": 0.12067,
+          "variacao": 0.005406,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.088148,
+          "tamanho_anterior": 0.087547,
+          "variacao": 0.0006,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.080327,
+          "tamanho_anterior": 0.074554,
+          "variacao": 0.005773,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.079498,
+          "tamanho_anterior": 0.094002,
+          "variacao": -0.014504,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.057161,
+          "tamanho_anterior": 0.055637,
+          "variacao": 0.001525,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.056382,
+          "tamanho_anterior": 0.05239,
+          "variacao": 0.003992,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.051443,
+          "tamanho_anterior": 0.050415,
+          "variacao": 0.001028,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.046756,
+          "tamanho_anterior": 0.041476,
+          "variacao": 0.00528,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.033685,
+          "tamanho_anterior": 0.017714,
+          "variacao": 0.01597,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.024847,
+          "tamanho_anterior": 0.024231,
+          "variacao": 0.000616,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.008965,
+          "tamanho_anterior": 0.00864,
+          "variacao": 0.000324,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.008904,
+          "tamanho_anterior": 0.038873,
+          "variacao": -0.029969,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006427,
+          "tamanho_anterior": 0.006403,
+          "variacao": 0.000023,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000938,
+          "tamanho_anterior": 0.000936,
+          "variacao": 2e-06,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-10",
+      "data_ref": "2025-10-31",
+      "data_ref_anterior": "2025-09-30",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.150869,
+          "tamanho_anterior": 0.14922,
+          "variacao": 0.001649,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.133072,
+          "tamanho_anterior": 0.126075,
+          "variacao": 0.006997,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.125976,
+          "tamanho_anterior": 0.133024,
+          "variacao": -0.007048,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.093235,
+          "tamanho_anterior": 0.088148,
+          "variacao": 0.005087,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.081078,
+          "tamanho_anterior": 0.080327,
+          "variacao": 0.000751,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.076555,
+          "tamanho_anterior": 0.079498,
+          "variacao": -0.002943,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.054546,
+          "tamanho_anterior": 0.056382,
+          "variacao": -0.001836,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.053918,
+          "tamanho_anterior": 0.057161,
+          "variacao": -0.003244,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.047199,
+          "tamanho_anterior": 0.051443,
+          "variacao": -0.004243,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.045569,
+          "tamanho_anterior": 0.046756,
+          "variacao": -0.001187,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.042359,
+          "tamanho_anterior": 0.033685,
+          "variacao": 0.008675,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.025725,
+          "tamanho_anterior": 0.024847,
+          "variacao": 0.000878,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.020261,
+          "tamanho_anterior": 0.008904,
+          "variacao": 0.011357,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.008918,
+          "tamanho_anterior": 0.008965,
+          "variacao": -0.000047,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "WEGE3",
+          "tamanho": 0.007285,
+          "tamanho_anterior": 0,
+          "variacao": 0.007285,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006178,
+          "tamanho_anterior": 0.006427,
+          "variacao": -0.000249,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.002047,
+          "tamanho_anterior": 0,
+          "variacao": 0.002047,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000744,
+          "tamanho_anterior": 0.000938,
+          "variacao": -0.000194,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-11",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.169624,
+          "tamanho_anterior": 0.150869,
+          "variacao": 0.018755,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.157362,
+          "tamanho_anterior": 0.125976,
+          "variacao": 0.031386,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.131217,
+          "tamanho_anterior": 0.133072,
+          "variacao": -0.001856,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.08537,
+          "tamanho_anterior": 0.093235,
+          "variacao": -0.007866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.071378,
+          "tamanho_anterior": 0.081078,
+          "variacao": -0.0097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.053397,
+          "tamanho_anterior": 0.054546,
+          "variacao": -0.001148,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.052748,
+          "tamanho_anterior": 0.053918,
+          "variacao": -0.00117,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.044931,
+          "tamanho_anterior": 0.042359,
+          "variacao": 0.002572,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.035957,
+          "tamanho_anterior": 0.047199,
+          "variacao": -0.011243,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.029684,
+          "tamanho_anterior": 0.045569,
+          "variacao": -0.015885,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.02566,
+          "tamanho_anterior": 0.025725,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.025582,
+          "tamanho_anterior": 0.076555,
+          "variacao": -0.050974,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.022772,
+          "tamanho_anterior": 0.020261,
+          "variacao": 0.002512,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "WEGE3",
+          "tamanho": 0.021272,
+          "tamanho_anterior": 0.007285,
+          "variacao": 0.013986,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.010802,
+          "tamanho_anterior": 0.002047,
+          "variacao": 0.008756,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.009788,
+          "tamanho_anterior": 0.008918,
+          "variacao": 0.000871,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006976,
+          "tamanho_anterior": 0.006178,
+          "variacao": 0.000798,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000676,
+          "tamanho_anterior": 0.000744,
+          "variacao": -0.000068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 4e-06,
+          "tamanho_anterior": 0,
+          "variacao": 4e-06,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2025-12",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.169624,
+          "tamanho_anterior": 0.150869,
+          "variacao": 0.018755,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.157362,
+          "tamanho_anterior": 0.125976,
+          "variacao": 0.031386,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.131217,
+          "tamanho_anterior": 0.133072,
+          "variacao": -0.001856,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.08537,
+          "tamanho_anterior": 0.093235,
+          "variacao": -0.007866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.071378,
+          "tamanho_anterior": 0.081078,
+          "variacao": -0.0097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.053397,
+          "tamanho_anterior": 0.054546,
+          "variacao": -0.001148,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.052748,
+          "tamanho_anterior": 0.053918,
+          "variacao": -0.00117,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.044931,
+          "tamanho_anterior": 0.042359,
+          "variacao": 0.002572,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.035957,
+          "tamanho_anterior": 0.047199,
+          "variacao": -0.011243,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.029684,
+          "tamanho_anterior": 0.045569,
+          "variacao": -0.015885,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.02566,
+          "tamanho_anterior": 0.025725,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.025582,
+          "tamanho_anterior": 0.076555,
+          "variacao": -0.050974,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.022772,
+          "tamanho_anterior": 0.020261,
+          "variacao": 0.002512,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "WEGE3",
+          "tamanho": 0.021272,
+          "tamanho_anterior": 0.007285,
+          "variacao": 0.013986,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.010802,
+          "tamanho_anterior": 0.002047,
+          "variacao": 0.008756,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.009788,
+          "tamanho_anterior": 0.008918,
+          "variacao": 0.000871,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006976,
+          "tamanho_anterior": 0.006178,
+          "variacao": 0.000798,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000676,
+          "tamanho_anterior": 0.000744,
+          "variacao": -0.000068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 4e-06,
+          "tamanho_anterior": 0,
+          "variacao": 4e-06,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-01",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.169624,
+          "tamanho_anterior": 0.150869,
+          "variacao": 0.018755,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.157362,
+          "tamanho_anterior": 0.125976,
+          "variacao": 0.031386,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.131217,
+          "tamanho_anterior": 0.133072,
+          "variacao": -0.001856,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.08537,
+          "tamanho_anterior": 0.093235,
+          "variacao": -0.007866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.071378,
+          "tamanho_anterior": 0.081078,
+          "variacao": -0.0097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.053397,
+          "tamanho_anterior": 0.054546,
+          "variacao": -0.001148,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.052748,
+          "tamanho_anterior": 0.053918,
+          "variacao": -0.00117,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.044931,
+          "tamanho_anterior": 0.042359,
+          "variacao": 0.002572,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.035957,
+          "tamanho_anterior": 0.047199,
+          "variacao": -0.011243,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.029684,
+          "tamanho_anterior": 0.045569,
+          "variacao": -0.015885,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.02566,
+          "tamanho_anterior": 0.025725,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.025582,
+          "tamanho_anterior": 0.076555,
+          "variacao": -0.050974,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.022772,
+          "tamanho_anterior": 0.020261,
+          "variacao": 0.002512,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "WEGE3",
+          "tamanho": 0.021272,
+          "tamanho_anterior": 0.007285,
+          "variacao": 0.013986,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.010802,
+          "tamanho_anterior": 0.002047,
+          "variacao": 0.008756,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.009788,
+          "tamanho_anterior": 0.008918,
+          "variacao": 0.000871,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006976,
+          "tamanho_anterior": 0.006178,
+          "variacao": 0.000798,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000676,
+          "tamanho_anterior": 0.000744,
+          "variacao": -0.000068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 4e-06,
+          "tamanho_anterior": 0,
+          "variacao": 4e-06,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2025-11-30",
+      "data_ref_anterior": "2025-10-31",
+      "posicoes": [
+        {
+          "codigo": "EQTL3",
+          "tamanho": 0.169624,
+          "tamanho_anterior": 0.150869,
+          "variacao": 0.018755,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.157362,
+          "tamanho_anterior": 0.125976,
+          "variacao": 0.031386,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI11",
+          "tamanho": 0.131217,
+          "tamanho_anterior": 0.133072,
+          "variacao": -0.001856,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.08537,
+          "tamanho_anterior": 0.093235,
+          "variacao": -0.007866,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.071378,
+          "tamanho_anterior": 0.081078,
+          "variacao": -0.0097,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.053397,
+          "tamanho_anterior": 0.054546,
+          "variacao": -0.001148,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MULT3",
+          "tamanho": 0.052748,
+          "tamanho_anterior": 0.053918,
+          "variacao": -0.00117,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.044931,
+          "tamanho_anterior": 0.042359,
+          "variacao": 0.002572,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.035957,
+          "tamanho_anterior": 0.047199,
+          "variacao": -0.011243,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.029684,
+          "tamanho_anterior": 0.045569,
+          "variacao": -0.015885,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.02566,
+          "tamanho_anterior": 0.025725,
+          "variacao": -0.000065,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0.025582,
+          "tamanho_anterior": 0.076555,
+          "variacao": -0.050974,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.022772,
+          "tamanho_anterior": 0.020261,
+          "variacao": 0.002512,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "WEGE3",
+          "tamanho": 0.021272,
+          "tamanho_anterior": 0.007285,
+          "variacao": 0.013986,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SANB11",
+          "tamanho": 0.010802,
+          "tamanho_anterior": 0.002047,
+          "variacao": 0.008756,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EQPA3",
+          "tamanho": 0.009788,
+          "tamanho_anterior": 0.008918,
+          "variacao": 0.000871,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.006976,
+          "tamanho_anterior": 0.006178,
+          "variacao": 0.000798,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FIEI3",
+          "tamanho": 0.000676,
+          "tamanho_anterior": 0.000744,
+          "variacao": -0.000068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 4e-06,
+          "tamanho_anterior": 0,
+          "variacao": 4e-06,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ENGI4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": -0,
+          "novo": false,
+          "saiu": false
+        }
+      ]
+    }
+  ]
+}

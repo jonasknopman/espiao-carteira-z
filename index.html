@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Espião Carteira Z</title>
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    /* Estilos específicos da index */
+    .hero-stats {
+      display: flex;
+      gap: 20px;
+      margin-top: 10px;
+      flex-wrap: wrap;
+    }
+    .hero-stat {
+      display: flex;
+      flex-direction: column;
+    }
+    .hero-stat-value {
+      font-size: 1.6em;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .hero-stat-label {
+      font-size: 0.75em;
+      opacity: .65;
+      margin-top: 2px;
+    }
+    .cards-section-label {
+      font-size: 0.78em;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .7px;
+      color: var(--text2);
+      margin-bottom: 12px;
+    }
+    .footer {
+      margin-top: 48px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+      font-size: 0.78em;
+      color: var(--text2);
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="nav"></div>
+
+<div class="page-wrap">
+<div class="container">
+
+  <!-- ── Hero ── -->
+  <div class="hero">
+    <div class="hero-text">
+      <h1>Espião Carteira Z</h1>
+      <p>Monitoramento mensal das carteiras dos principais fundos acompanhados</p>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <span class="hero-stat-value" id="stat-fundos">—</span>
+          <span class="hero-stat-label">fundos</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-value" id="stat-ativos">—</span>
+          <span class="hero-stat-label">ativos únicos</span>
+        </div>
+        <div class="hero-stat">
+          <span class="hero-stat-value" id="stat-meses">—</span>
+          <span class="hero-stat-label">meses de histórico</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-controls">
+      <label for="mes-select">Mês de referência</label>
+      <div id="mes-container"><select class="mes-select" disabled><option>Carregando…</option></select></div>
+    </div>
+  </div>
+
+  <!-- ── Cards ── -->
+  <div class="cards-section-label">Visões disponíveis</div>
+  <div class="card-grid" id="card-grid">
+
+    <a class="card" id="card-raio-x" href="raio_x.html" data-page="raio_x">
+      <div class="card-icon">📊</div>
+      <div>
+        <div class="card-title">Raio-X por Fundo</div>
+        <div class="card-desc">
+          Maiores posições de cada fundo no mês de referência, comparadas ao mês anterior.
+          Destaca entradas, saídas e variações de peso acima do limiar configurado.
+        </div>
+      </div>
+      <div class="card-link">Ver raio-X →</div>
+    </a>
+
+    <a class="card" id="card-ranking" href="ranking.html" data-page="ranking">
+      <div class="card-icon">🏆</div>
+      <div>
+        <div class="card-title">Ranking de Convicção</div>
+        <div class="card-desc">
+          Quais ativos aparecem em mais carteiras e com maior peso agregado.
+          Ordene por nº de fundos, peso total ou variação mês a mês.
+        </div>
+      </div>
+      <div class="card-link">Ver ranking →</div>
+    </a>
+
+    <a class="card" id="card-overlap" href="overlap.html" data-page="overlap">
+      <div class="card-icon">🔀</div>
+      <div>
+        <div class="card-title">Mapa de Overlap</div>
+        <div class="card-desc">
+          Sobreposição de carteiras entre todos os pares de fundos.
+          Quanto dois fundos "apostam" nos mesmos ativos?
+        </div>
+      </div>
+      <div class="card-link">Ver overlap →</div>
+    </a>
+
+    <a class="card" id="card-turnover" href="turnover.html" data-page="turnover">
+      <div class="card-icon">🔄</div>
+      <div>
+        <div class="card-title">Turnover</div>
+        <div class="card-desc">
+          Giro mensal de carteira de cada fundo ao longo do tempo.
+          Identifica meses de reposicionamento relevante.
+        </div>
+      </div>
+      <div class="card-link">Ver turnover →</div>
+    </a>
+
+  </div>
+
+  <!-- ── Footer ── -->
+  <div class="footer">
+    <span>Fonte: CVM — Informe CDA. Dados defasados por sigilo de até 6 meses por fundo.</span>
+    <span id="footer-atualizado"></span>
+  </div>
+
+</div>
+</div>
+
+<script src="js/util.js"></script>
+<script>
+'use strict';
+
+document.getElementById('nav').innerHTML = czRenderNav('');
+
+async function init() {
+  let idx;
+  try {
+    idx = await czLoadIndex();
+  } catch (err) {
+    document.getElementById('card-grid').innerHTML =
+      `<div class="ui-error" style="grid-column:1/-1">Não foi possível carregar os dados.<br><small>${err.message}</small></div>`;
+    return;
+  }
+
+  const meses = idx.meses;
+
+  // Seletor de mês
+  document.getElementById('mes-container').innerHTML = czRenderMonthSelect(meses, czResolveMes(meses));
+  const sel = document.getElementById('mes-select');
+  sel.addEventListener('change', () => {
+    czPushParams({ mes: sel.value });
+    aplicarMes(sel.value);
+  });
+
+  // Stats globais (não mudam com o mês)
+  document.getElementById('stat-meses').textContent = meses.length;
+
+  // Footer
+  if (idx.atualizado_em) {
+    document.getElementById('footer-atualizado').textContent = `Atualizado em ${idx.atualizado_em}`;
+  }
+
+  aplicarMes(sel.value);
+}
+
+function aplicarMes(mesId) {
+  const idx_promise = czLoadIndex();
+  idx_promise.then(idx => {
+    const m = idx.meses.find(x => x.id === mesId);
+    if (!m) return;
+
+    // Stats do mês
+    document.getElementById('stat-fundos').textContent = m.n_fundos;
+    document.getElementById('stat-ativos').textContent = m.n_ativos;
+
+    // Atualizar links dos cards com o mês selecionado
+    document.querySelectorAll('.card[data-page]').forEach(card => {
+      const page = card.dataset.page;
+      card.href = `${page}.html?mes=${mesId}`;
+    });
+  });
+}
+
+init();
+</script>
+</body>
+</html>

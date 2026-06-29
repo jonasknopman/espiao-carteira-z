@@ -1,0 +1,89 @@
+{
+  "atualizado_em": "2026-06-29",
+  "meses": [
+    {
+      "id": "2025-03",
+      "label": "Março 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 333
+    },
+    {
+      "id": "2025-04",
+      "label": "Abril 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 329
+    },
+    {
+      "id": "2025-05",
+      "label": "Maio 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 327
+    },
+    {
+      "id": "2025-06",
+      "label": "Junho 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 326
+    },
+    {
+      "id": "2025-07",
+      "label": "Julho 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 327
+    },
+    {
+      "id": "2025-08",
+      "label": "Agosto 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 321
+    },
+    {
+      "id": "2025-09",
+      "label": "Setembro 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 316
+    },
+    {
+      "id": "2025-10",
+      "label": "Outubro 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 320
+    },
+    {
+      "id": "2025-11",
+      "label": "Novembro 2025",
+      "gerado_em": "2026-06-28",
+      "n_fundos": 39,
+      "n_ativos": 326
+    },
+    {
+      "id": "2025-12",
+      "label": "Dezembro 2025",
+      "gerado_em": "2026-06-29",
+      "n_fundos": 39,
+      "n_ativos": 329
+    },
+    {
+      "id": "2026-01",
+      "label": "Janeiro 2026",
+      "gerado_em": "2026-06-29",
+      "n_fundos": 39,
+      "n_ativos": 328
+    },
+    {
+      "id": "2026-02",
+      "label": "Fevereiro 2026",
+      "gerado_em": "2026-06-29",
+      "n_fundos": 39,
+      "n_ativos": 331
+    }
+  ]
+}
