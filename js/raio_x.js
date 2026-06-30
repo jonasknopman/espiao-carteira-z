@@ -4,6 +4,10 @@ const RX_TOP_N    = 20;
 const RX_LIMIAR   = 0.04; // 4 p.p.
 
 let _mesId, _fundoNome, _raioXData;
+let _tabelaSortCol = 'tamanho';
+let _tabelaSortDir = 'desc';
+let _destSortCol   = 'variacao';
+let _destSortDir   = 'desc';
 
 // ── Bootstrap ─────────────────────────────────────────────────────────────────
 
@@ -101,6 +105,10 @@ function renderFundo(nomeCurto) {
     <div id="tabela-posicoes"></div>
   `;
 
+  _tabelaSortCol = 'tamanho';
+  _tabelaSortDir = 'desc';
+  _destSortCol   = 'variacao';
+  _destSortDir   = 'desc';
   renderStats(fundo);
   const posicoes = fundo.posicoes || [];
   renderChart(posicoes, fundo.data_ref, fundo.data_ref_anterior);
@@ -274,10 +282,37 @@ function renderEntradasSaidas(posicoes) {
 
 // ── Variações notáveis ────────────────────────────────────────────────────────
 
+const RX_DEST_COLS = [
+  { key: 'codigo',           label: 'Ativo',    num: false },
+  { key: 'tamanho',          label: 'Atual',    num: true  },
+  { key: 'tamanho_anterior', label: 'Anterior', num: true  },
+  { key: 'variacao',         label: 'Variação', num: true  },
+];
+
+function _sortDestRows(rows, col, dir) {
+  const factor = dir === 'desc' ? -1 : 1;
+  return [...rows].sort((a, b) => {
+    if (col === 'variacao') return factor * (Math.abs(b.variacao) - Math.abs(a.variacao));
+    const va = a[col] ?? (dir === 'desc' ? -Infinity : Infinity);
+    const vb = b[col] ?? (dir === 'desc' ? -Infinity : Infinity);
+    if (typeof va === 'string') return factor * va.localeCompare(vb, 'pt-BR');
+    return factor * (va - vb);
+  });
+}
+
+function _renderDestBody(lista) {
+  return _sortDestRows(lista, _destSortCol, _destSortDir).map(p => `
+    <tr>
+      <td class="mono">${p.codigo}</td>
+      <td class="num">${czFmtPct(p.tamanho)}</td>
+      <td class="num">${czFmtPct(p.tamanho_anterior)}</td>
+      <td class="num ${p.variacao > 0 ? 'pos' : 'neg'}">${czFmtDiff(p.variacao)}</td>
+    </tr>`).join('');
+}
+
 function renderDestaques(posicoes) {
   const dest = posicoes
-    .filter(p => p.variacao != null && Math.abs(p.variacao) >= RX_LIMIAR && !p.novo && !p.saiu && p.tamanho > 0)
-    .sort((a, b) => Math.abs(b.variacao) - Math.abs(a.variacao));
+    .filter(p => p.variacao != null && Math.abs(p.variacao) >= RX_LIMIAR && !p.novo && !p.saiu && p.tamanho > 0);
 
   const el = document.getElementById('destaques');
 
@@ -287,33 +322,57 @@ function renderDestaques(posicoes) {
     return;
   }
 
-  const rows = dest.map(p => `
-    <tr>
-      <td class="mono">${p.codigo}</td>
-      <td class="num">${czFmtPct(p.tamanho)}</td>
-      <td class="num">${czFmtPct(p.tamanho_anterior)}</td>
-      <td class="num ${p.variacao > 0 ? 'pos' : 'neg'}">${czFmtDiff(p.variacao)}</td>
-    </tr>`).join('');
+  const theadHtml = RX_DEST_COLS.map(c => {
+    const cls = [c.num ? 'num' : '', c.key === _destSortCol ? `sorted-${_destSortDir}` : '']
+      .filter(Boolean).join(' ');
+    return `<th data-col="${c.key}"${cls ? ` class="${cls}"` : ''}>${c.label}</th>`;
+  }).join('');
 
   el.innerHTML = `
     <div class="section-title">Variações notáveis (|Δ| ≥ ${RX_LIMIAR * 100}p.p.) — ${dest.length} ativo(s)</div>
     <div class="cz-table-wrap">
       <table class="cz-table">
-        <thead><tr><th>Ativo</th><th class="num">Atual</th><th class="num">Anterior</th><th class="num">Variação</th></tr></thead>
-        <tbody>${rows}</tbody>
+        <thead><tr id="rx-dest-thead">${theadHtml}</tr></thead>
+        <tbody id="rx-dest-tbody">${_renderDestBody(dest)}</tbody>
       </table>
     </div>`;
+
+  document.getElementById('rx-dest-thead').addEventListener('click', e => {
+    const th = e.target.closest('th[data-col]');
+    if (!th) return;
+    const col = th.dataset.col;
+    _destSortDir = (_destSortCol === col && _destSortDir === 'desc') ? 'asc' : 'desc';
+    _destSortCol = col;
+
+    document.querySelectorAll('#rx-dest-thead th[data-col]').forEach(t => {
+      t.classList.remove('sorted-asc', 'sorted-desc');
+      if (t.dataset.col === _destSortCol) t.classList.add('sorted-' + _destSortDir);
+    });
+    document.getElementById('rx-dest-tbody').innerHTML = _renderDestBody(dest);
+  });
 }
 
 // ── Tabela completa ───────────────────────────────────────────────────────────
 
-function renderTabelaCompleta(posicoes) {
-  // Mostra ativas + saídas (tamanho=0 mas tamanho_anterior>0)
-  const lista = [...posicoes]
-    .filter(p => p.tamanho > 0 || p.saiu)
-    .sort((a, b) => (b.tamanho || 0) - (a.tamanho || 0));
+const RX_TABELA_COLS = [
+  { key: 'codigo',           label: 'Ativo',    num: false },
+  { key: 'tamanho',          label: 'Atual',    num: true  },
+  { key: 'tamanho_anterior', label: 'Anterior', num: true  },
+  { key: 'variacao',         label: 'Variação', num: true  },
+];
 
-  const rows = lista.map(p => {
+function _sortTabelaRows(rows, col, dir) {
+  const factor = dir === 'desc' ? -1 : 1;
+  return [...rows].sort((a, b) => {
+    const va = a[col] ?? (dir === 'desc' ? -Infinity : Infinity);
+    const vb = b[col] ?? (dir === 'desc' ? -Infinity : Infinity);
+    if (typeof va === 'string') return factor * va.localeCompare(vb, 'pt-BR');
+    return factor * (va - vb);
+  });
+}
+
+function _renderTabelaBody(lista) {
+  return _sortTabelaRows(lista, _tabelaSortCol, _tabelaSortDir).map(p => {
     const badge    = p.novo  ? '<span class="badge-novo">NOVA</span> '
                    : p.saiu ? '<span class="badge-saiu">SAIU</span> '
                    : '';
@@ -329,22 +388,39 @@ function renderTabelaCompleta(posicoes) {
         <td class="num ${varClass}">${czFmtDiff(p.variacao)}</td>
       </tr>`;
   }).join('');
+}
+
+function renderTabelaCompleta(posicoes) {
+  const lista = [...posicoes].filter(p => p.tamanho > 0 || p.saiu);
+
+  const theadHtml = RX_TABELA_COLS.map(c => {
+    const cls = [c.num ? 'num' : '', c.key === _tabelaSortCol ? `sorted-${_tabelaSortDir}` : '']
+      .filter(Boolean).join(' ');
+    return `<th data-col="${c.key}"${cls ? ` class="${cls}"` : ''}>${c.label}</th>`;
+  }).join('');
 
   document.getElementById('tabela-posicoes').innerHTML = `
     <div class="section-title">Todas as posições (${lista.length})</div>
     <div class="cz-table-wrap">
       <table class="cz-table">
-        <thead>
-          <tr>
-            <th>Ativo</th>
-            <th class="num">Atual</th>
-            <th class="num">Anterior</th>
-            <th class="num">Variação</th>
-          </tr>
-        </thead>
-        <tbody>${rows}</tbody>
+        <thead><tr id="rx-tabela-thead">${theadHtml}</tr></thead>
+        <tbody id="rx-tabela-tbody">${_renderTabelaBody(lista)}</tbody>
       </table>
     </div>`;
+
+  document.getElementById('rx-tabela-thead').addEventListener('click', e => {
+    const th = e.target.closest('th[data-col]');
+    if (!th) return;
+    const col = th.dataset.col;
+    _tabelaSortDir = (_tabelaSortCol === col && _tabelaSortDir === 'desc') ? 'asc' : 'desc';
+    _tabelaSortCol = col;
+
+    document.querySelectorAll('#rx-tabela-thead th[data-col]').forEach(t => {
+      t.classList.remove('sorted-asc', 'sorted-desc');
+      if (t.dataset.col === _tabelaSortCol) t.classList.add('sorted-' + _tabelaSortDir);
+    });
+    document.getElementById('rx-tabela-tbody').innerHTML = _renderTabelaBody(lista);
+  });
 }
 
 // ── Start ─────────────────────────────────────────────────────────────────────
