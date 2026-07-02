@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Turnover — Espião CZ</title>
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    /* ── Cabeçalho ── */
+    .tv-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+    .tv-title {
+      font-size: 1.3em;
+      font-weight: 700;
+      color: var(--navy);
+      flex: 1;
+      min-width: 140px;
+    }
+
+    /* ── Linha de controles do gráfico ── */
+    .tv-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+    .tv-controls .cz-input {
+      min-width: 0;
+      flex: 1;
+      max-width: 180px;
+    }
+    .cz-btn-sm {
+      font-family: var(--font);
+      font-size: 0.78em;
+      font-weight: 600;
+      padding: 5px 11px;
+      border-radius: var(--radius-sm);
+      border: 1.5px solid var(--border);
+      background: var(--bg2);
+      color: var(--text2);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: border-color .15s, color .15s;
+    }
+    .cz-btn-sm:hover { border-color: var(--navy); color: var(--navy); }
+
+    /* Toggle de escala — estilo próximo ao stat-pill mas clicável */
+    .scale-btn {
+      font-family: var(--font);
+      font-size: 0.8em;
+      font-weight: 600;
+      color: var(--text2);
+      background: var(--bg2);
+      border: 1.5px solid var(--border);
+      border-radius: 20px;
+      padding: 5px 14px;
+      cursor: pointer;
+      margin-left: auto;
+      transition: border-color .15s, color .15s;
+    }
+    .scale-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+    .scale-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    /* ── Nota de bloqueio do log ── */
+    .tv-log-nota {
+      font-size: 0.76em;
+      color: var(--red);
+      min-height: 1em;
+      margin-bottom: 6px;
+    }
+
+    /* ── Chips de seleção de fundos ── */
+    .tv-chips-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      max-height: 152px;
+      overflow-y: auto;
+      padding: 6px 2px;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 16px;
+    }
+    .tv-chip {
+      font-family: var(--font);
+      font-size: 0.74em;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 14px;
+      border: 1.5px solid var(--border);
+      background: var(--bg2);
+      color: var(--text2);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all .12s;
+    }
+    .tv-chip:hover { border-color: var(--accent); color: var(--accent); }
+    .tv-chip.selected {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* ── Container do gráfico ── */
+    .chart-wrap {
+      background: var(--bg2);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 12px 12px;
+      box-shadow: var(--shadow);
+      overflow-x: auto;
+      width: 100%;
+      box-sizing: border-box;
+    }
+    .chart-nota {
+      font-size: 0.76em;
+      color: var(--text2);
+      margin-top: 6px;
+      padding-left: 2px;
+      min-height: 1em;
+      margin-bottom: 4px;
+    }
+
+    /* ── Destaque turnover > 100% na tabela ── */
+    .alto { color: var(--red); font-weight: 700; }
+
+    /* ── Nota explicativa do indicador ── */
+    .tv-nota-indicador {
+      font-size: 0.78em;
+      color: var(--text2);
+      margin-top: 10px;
+      margin-bottom: 24px;
+      padding: 10px 14px;
+      background: #f0f4ff;
+      border-left: 3px solid var(--accent);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    }
+
+    @media (max-width: 600px) {
+      .tv-controls .cz-input { max-width: 100%; }
+      .scale-btn { margin-left: 0; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="nav"></div>
+
+<div class="page-wrap">
+<div class="container">
+
+  <!-- ── Cabeçalho ── -->
+  <div class="tv-header">
+    <div class="tv-title">Turnover</div>
+  </div>
+
+  <div id="main-content">
+
+    <!-- ── Filtro de fundos + toggle de escala ── -->
+    <div class="tv-controls">
+      <input id="chips-filter" class="cz-input" type="search"
+             placeholder="Filtrar fundos…" aria-label="Filtrar lista de fundos">
+      <button id="chips-todos"  class="cz-btn-sm">Todos</button>
+      <button id="chips-nenhum" class="cz-btn-sm">Nenhum</button>
+      <button id="scale-toggle" class="scale-btn">Escala: Log</button>
+    </div>
+
+    <div id="log-nota" class="tv-log-nota"></div>
+
+    <div id="chips-wrap" class="tv-chips-wrap">
+      <div class="ui-loading" style="padding:4px 0;font-size:.85em">Carregando…</div>
+    </div>
+
+    <!-- ── Gráfico histórico ── -->
+    <div class="section-title" id="chart-section-title">Histórico de giro</div>
+    <div id="chart-wrap" class="chart-wrap">
+      <div class="ui-loading">Carregando gráfico…</div>
+    </div>
+    <div id="chart-nota" class="chart-nota"></div>
+
+    <div class="tv-nota-indicador">
+      <strong>Giro = (compras + vendas) / PL no mês.</strong>
+      Valores acima de 100% são normais para fundos de alta rotatividade — indicam que o fundo negociou mais do que seu próprio patrimônio no período.
+    </div>
+
+    <!-- ── Tabela do mês selecionado ── -->
+    <div id="tabela-turnover">
+      <div class="ui-loading">Carregando tabela…</div>
+    </div>
+
+  </div>
+
+</div>
+</div>
+
+<!-- Vega-Lite via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/vega@5/build/vega.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5/build/vega-lite.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6/build/vega-embed.min.js"></script>
+
+<script src="js/util.js"></script>
+<script src="js/turnover.js"></script>
+</body>
+</html>

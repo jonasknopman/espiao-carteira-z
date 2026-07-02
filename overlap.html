@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Overlap — Espião CZ</title>
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    .ol-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .ol-title {
+      font-size: 1.3em;
+      font-weight: 700;
+      color: var(--navy);
+      flex: 1;
+      min-width: 140px;
+    }
+
+    /* Nota de cobertura parcial do mês */
+    .ol-nota {
+      font-size: 0.78em;
+      color: var(--text2);
+      background: #f0f4ff;
+      border-left: 3px solid var(--accent);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      padding: 8px 12px;
+      margin-bottom: 12px;
+      display: none;
+    }
+
+    /* Contêiner externo do heatmap */
+    #heatmap-outer {
+      width: 100%;
+      box-sizing: border-box;
+      overflow-x: auto;
+      margin-bottom: 4px;
+      background: var(--bg2);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    /* Área interna onde o Vega renderiza o SVG */
+    #heatmap-wrap {
+      min-height: 120px;
+    }
+
+    /* Na tabela de ativos em comum do painel de detalhe, alinha tudo à esquerda */
+    #detalhe-wrap .num { text-align: left; }
+
+    @media (max-width: 600px) {
+      .ol-header { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="nav"></div>
+
+<div class="page-wrap">
+<div class="container">
+
+  <!-- ── Cabeçalho ── -->
+  <div class="ol-header">
+    <div class="ol-title">Overlap entre Gestores</div>
+    <div id="mes-container">
+      <select class="mes-select" disabled><option>Carregando…</option></select>
+    </div>
+  </div>
+
+  <!-- ── Nota de cobertura parcial ── -->
+  <div id="heatmap-nota" class="ol-nota"></div>
+
+  <!-- ── Heatmap ── -->
+  <div id="heatmap-outer">
+    <div id="heatmap-wrap">
+      <div class="ui-loading">Carregando…</div>
+    </div>
+  </div>
+
+  <!-- ── Painel de detalhe (aparece ao clicar num par) ── -->
+  <div id="detalhe-wrap"></div>
+
+</div>
+</div>
+
+<!-- Vega via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/vega@5/build/vega.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5/build/vega-lite.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6/build/vega-embed.min.js"></script>
+
+<script src="js/util.js"></script>
+<script src="js/overlap.js"></script>
+</body>
+</html>
