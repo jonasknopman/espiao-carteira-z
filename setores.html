@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Setores — Espião CZ</title>
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    /* ── Cabeçalho ── */
+    .st-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .st-title {
+      font-size: 1.3em;
+      font-weight: 700;
+      color: var(--navy);
+      flex: 1;
+      min-width: 140px;
+    }
+
+    /* ── Nota de cobertura parcial ── */
+    .st-nota {
+      font-size: 0.78em;
+      color: var(--text2);
+      background: #f0f4ff;
+      border-left: 3px solid var(--accent);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      padding: 8px 12px;
+      margin-bottom: 12px;
+      display: none;
+    }
+
+    /* ── Contêiner do heatmap ── */
+    #heatmap-outer {
+      width: 100%;
+      box-sizing: border-box;
+      overflow-x: auto;
+      background: var(--bg2);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      margin-bottom: 4px;
+    }
+    #heatmap-wrap {
+      min-height: 120px;
+    }
+
+    /* ── Nota de domínio fixo ── */
+    .st-dominio-nota {
+      font-size: 0.76em;
+      color: var(--text2);
+      margin-bottom: 24px;
+      padding-left: 2px;
+    }
+
+    /* ── Controle de setor ── */
+    .st-setor-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+      flex-wrap: wrap;
+    }
+    .st-setor-label {
+      font-size: 0.85em;
+      font-weight: 600;
+      color: var(--text2);
+      white-space: nowrap;
+    }
+    .st-setor-select {
+      flex: 1;
+      min-width: 200px;
+      max-width: 480px;
+    }
+
+    /* ── Contêiner do gráfico de barras ── */
+    #bars-outer {
+      width: 100%;
+      box-sizing: border-box;
+      background: var(--bg2);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 12px;
+      overflow-x: auto;
+    }
+    #bars-wrap {
+      min-height: 80px;
+    }
+
+    @media (max-width: 600px) {
+      .st-header { flex-direction: column; align-items: flex-start; }
+      .st-setor-select { max-width: 100%; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="nav"></div>
+
+<div class="page-wrap">
+<div class="container">
+
+  <!-- ── Cabeçalho ── -->
+  <div class="st-header">
+    <div class="st-title">Distribuição Setorial</div>
+    <div id="mes-container">
+      <select class="mes-select" disabled><option>Carregando…</option></select>
+    </div>
+  </div>
+
+  <!-- ── Seção A: heatmap fundo × setor ── -->
+  <div class="section-title">Fundo × Setor (% do PL)</div>
+
+  <div id="heatmap-nota" class="st-nota"></div>
+
+  <div id="heatmap-outer">
+    <div id="heatmap-wrap">
+      <div class="ui-loading">Carregando…</div>
+    </div>
+  </div>
+
+  <div class="st-dominio-nota">
+    Escala de cor: 0% (branco-azulado) → 50% (azul). Fundos com exposição acima de 50% aparecem na cor máxima.
+  </div>
+
+  <!-- ── Seção B: barras por setor ── -->
+  <div class="section-title">Exposição por Setor</div>
+
+  <div class="st-setor-controls">
+    <span class="st-setor-label">Setor:</span>
+    <select id="setor-select" class="mes-select st-setor-select" aria-label="Selecionar setor">
+      <option>Carregando…</option>
+    </select>
+  </div>
+
+  <div id="bars-outer">
+    <div id="bars-wrap">
+      <div class="ui-loading">Carregando…</div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- Vega via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/vega@5/build/vega.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5/build/vega-lite.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6/build/vega-embed.min.js"></script>
+
+<script src="js/util.js"></script>
+<script src="js/setores.js"></script>
+</body>
+</html>

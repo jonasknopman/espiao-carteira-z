@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-01",
+  "atualizado_em": "2026-07-02",
   "ativos": [
     {
       "codigo": "12301398 - Investimento no Exterior",
@@ -241,7 +241,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.005528,
           "peso_total": 0.215602,
           "n_aumentaram": 3,
@@ -756,7 +756,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 2,
+          "n_fundos": 1,
           "peso_medio": 0.001816,
           "peso_total": 0.070833,
           "n_aumentaram": 0,
@@ -1011,7 +1011,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 8,
           "peso_medio": 0.01372,
           "peso_total": 0.535092,
           "n_aumentaram": 4,
@@ -1211,7 +1211,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 5,
           "peso_medio": 0.003793,
           "peso_total": 0.14791,
           "n_aumentaram": 0,
@@ -1306,7 +1306,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 2,
+          "n_fundos": 1,
           "peso_medio": 0.000265,
           "peso_total": 0.010321,
           "n_aumentaram": 0,
@@ -1706,7 +1706,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 2,
+          "n_fundos": 1,
           "peso_medio": 0.000789,
           "peso_total": 0.03077,
           "n_aumentaram": 1,
@@ -1831,7 +1831,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.000631,
           "peso_total": 0.024624,
           "n_aumentaram": 1,
@@ -2051,7 +2051,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 5,
           "peso_medio": 0.004773,
           "peso_total": 0.186148,
           "n_aumentaram": 3,
@@ -2331,7 +2331,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 12,
+          "n_fundos": 8,
           "peso_medio": 0.008705,
           "peso_total": 0.339486,
           "n_aumentaram": 5,
@@ -2531,7 +2531,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 4,
           "peso_medio": 0.002947,
           "peso_total": 0.114951,
           "n_aumentaram": 0,
@@ -2626,7 +2626,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 4,
           "peso_medio": 0.001516,
           "peso_total": 0.059125,
           "n_aumentaram": 2,
@@ -2781,7 +2781,7 @@
       "historico": [
         {
           "mes_id": "2025-11",
-          "n_fundos": 13,
+          "n_fundos": 10,
           "peso_medio": 0.012498,
           "peso_total": 0.487428,
           "n_aumentaram": 0,
@@ -2826,7 +2826,7 @@
       "historico": [
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 4,
           "peso_medio": 0.002791,
           "peso_total": 0.108852,
           "n_aumentaram": 0,
@@ -3006,7 +3006,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 7,
           "peso_medio": 0.00528,
           "peso_total": 0.205917,
           "n_aumentaram": 1,
@@ -3256,7 +3256,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 7,
           "peso_medio": 0.00678,
           "peso_total": 0.264401,
           "n_aumentaram": 4,
@@ -3656,7 +3656,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 8,
           "peso_medio": 0.00746,
           "peso_total": 0.290944,
           "n_aumentaram": 4,
@@ -3781,7 +3781,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 4,
           "peso_medio": 0.010847,
           "peso_total": 0.423034,
           "n_aumentaram": 3,
@@ -3906,7 +3906,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 8,
           "peso_medio": 0.009654,
           "peso_total": 0.376487,
           "n_aumentaram": 4,
@@ -4031,7 +4031,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 4,
           "peso_medio": 0.001706,
           "peso_total": 0.066529,
           "n_aumentaram": 2,
@@ -4626,7 +4626,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 3,
           "peso_medio": 0.002741,
           "peso_total": 0.106914,
           "n_aumentaram": 0,
@@ -4816,7 +4816,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.00276,
           "peso_total": 0.107636,
           "n_aumentaram": 5,
@@ -5286,7 +5286,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 20,
+          "n_fundos": 14,
           "peso_medio": 0.019224,
           "peso_total": 0.749727,
           "n_aumentaram": 10,
@@ -5411,7 +5411,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.002387,
           "peso_total": 0.093083,
           "n_aumentaram": 2,
@@ -5656,7 +5656,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 7,
           "peso_medio": 0.005078,
           "peso_total": 0.198046,
           "n_aumentaram": 1,
@@ -5751,7 +5751,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 6,
           "peso_medio": 0.001447,
           "peso_total": 0.056447,
           "n_aumentaram": 3,
@@ -6056,7 +6056,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.002273,
           "peso_total": 0.088629,
           "n_aumentaram": 1,
@@ -6181,7 +6181,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.003452,
           "peso_total": 0.13462,
           "n_aumentaram": 5,
@@ -6611,7 +6611,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 2,
+          "n_fundos": 1,
           "peso_medio": 0.000937,
           "peso_total": 0.036536,
           "n_aumentaram": 1,
@@ -6821,7 +6821,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 6,
           "peso_medio": 0.006368,
           "peso_total": 0.248363,
           "n_aumentaram": 1,
@@ -6961,7 +6961,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.002652,
           "peso_total": 0.103432,
           "n_aumentaram": 3,
@@ -7501,7 +7501,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.0008,
           "peso_total": 0.031213,
           "n_aumentaram": 0,
@@ -7921,7 +7921,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 7,
           "peso_medio": 0.007974,
           "peso_total": 0.310994,
           "n_aumentaram": 2,
@@ -8036,7 +8036,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 5,
           "peso_medio": 0.002888,
           "peso_total": 0.112618,
           "n_aumentaram": 2,
@@ -8131,7 +8131,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 7,
           "peso_medio": 0.005175,
           "peso_total": 0.201816,
           "n_aumentaram": 2,
@@ -8176,7 +8176,7 @@
       "historico": [
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 7,
           "peso_medio": 0.005715,
           "peso_total": 0.222889,
           "n_aumentaram": 0,
@@ -8636,7 +8636,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 16,
+          "n_fundos": 12,
           "peso_medio": 0.013519,
           "peso_total": 0.527234,
           "n_aumentaram": 9,
@@ -8871,7 +8871,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.002673,
           "peso_total": 0.104237,
           "n_aumentaram": 4,
@@ -9101,7 +9101,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.000652,
           "peso_total": 0.025438,
           "n_aumentaram": 2,
@@ -9196,7 +9196,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 6,
           "peso_medio": 0.005516,
           "peso_total": 0.215106,
           "n_aumentaram": 4,
@@ -9416,7 +9416,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 2,
           "peso_medio": 0.001487,
           "peso_total": 0.057984,
           "n_aumentaram": 1,
@@ -9511,7 +9511,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.000078,
           "peso_total": 0.003059,
           "n_aumentaram": 0,
@@ -9626,7 +9626,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 9,
           "peso_medio": 0.008626,
           "peso_total": 0.336413,
           "n_aumentaram": 6,
@@ -10001,7 +10001,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 3,
           "peso_medio": 0.001594,
           "peso_total": 0.062163,
           "n_aumentaram": 3,
@@ -10401,7 +10401,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.003256,
           "peso_total": 0.126978,
           "n_aumentaram": 3,
@@ -10726,7 +10726,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 3,
           "peso_medio": 0.003504,
           "peso_total": 0.136675,
           "n_aumentaram": 1,
@@ -10971,7 +10971,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 7,
           "peso_medio": 0.006675,
           "peso_total": 0.260311,
           "n_aumentaram": 5,
@@ -11381,7 +11381,7 @@
       "historico": [
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 4,
           "peso_medio": 0.000872,
           "peso_total": 0.034004,
           "n_aumentaram": 0,
@@ -11591,7 +11591,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 14,
+          "n_fundos": 10,
           "peso_medio": 0.022604,
           "peso_total": 0.881568,
           "n_aumentaram": 6,
@@ -11716,7 +11716,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 12,
+          "n_fundos": 9,
           "peso_medio": 0.009938,
           "peso_total": 0.387601,
           "n_aumentaram": 4,
@@ -12001,7 +12001,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 15,
+          "n_fundos": 11,
           "peso_medio": 0.022443,
           "peso_total": 0.875283,
           "n_aumentaram": 8,
@@ -12126,7 +12126,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.005083,
           "peso_total": 0.198232,
           "n_aumentaram": 2,
@@ -12251,7 +12251,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.000787,
           "peso_total": 0.030698,
           "n_aumentaram": 1,
@@ -13206,7 +13206,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 4,
           "peso_medio": 0.003846,
           "peso_total": 0.149986,
           "n_aumentaram": 3,
@@ -13331,7 +13331,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 6,
           "peso_medio": 0.006998,
           "peso_total": 0.272929,
           "n_aumentaram": 3,
@@ -13981,7 +13981,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 13,
+          "n_fundos": 10,
           "peso_medio": 0.004636,
           "peso_total": 0.180803,
           "n_aumentaram": 2,
@@ -14106,7 +14106,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 12,
+          "n_fundos": 7,
           "peso_medio": 0.007038,
           "peso_total": 0.274475,
           "n_aumentaram": 3,
@@ -14226,7 +14226,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 8,
           "peso_medio": 0.005551,
           "peso_total": 0.216493,
           "n_aumentaram": 1,
@@ -14331,7 +14331,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.002496,
           "peso_total": 0.097345,
           "n_aumentaram": 1,
@@ -14881,7 +14881,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.000912,
           "peso_total": 0.035566,
           "n_aumentaram": 1,
@@ -14991,7 +14991,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 7,
           "peso_medio": 0.006132,
           "peso_total": 0.23913,
           "n_aumentaram": 5,
@@ -15106,7 +15106,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 19,
+          "n_fundos": 14,
           "peso_medio": 0.007077,
           "peso_total": 0.276016,
           "n_aumentaram": 1,
@@ -15296,7 +15296,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 3,
           "peso_medio": 0.001419,
           "peso_total": 0.055331,
           "n_aumentaram": 1,
@@ -15406,7 +15406,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 2,
           "peso_medio": 0.00006,
           "peso_total": 0.002345,
           "n_aumentaram": 1,
@@ -15591,7 +15591,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 14,
+          "n_fundos": 8,
           "peso_medio": 0.011739,
           "peso_total": 0.45784,
           "n_aumentaram": 2,
@@ -15731,7 +15731,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 7,
           "peso_medio": 0.009965,
           "peso_total": 0.388647,
           "n_aumentaram": 5,
@@ -15956,7 +15956,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 13,
+          "n_fundos": 7,
           "peso_medio": 0.007497,
           "peso_total": 0.292402,
           "n_aumentaram": 4,
@@ -16286,7 +16286,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 5,
           "peso_medio": 0.004828,
           "peso_total": 0.188278,
           "n_aumentaram": 2,
@@ -16401,7 +16401,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.000288,
           "peso_total": 0.011216,
           "n_aumentaram": 1,
@@ -16706,7 +16706,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 16,
+          "n_fundos": 13,
           "peso_medio": 0.019924,
           "peso_total": 0.777054,
           "n_aumentaram": 7,
@@ -16846,7 +16846,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 2,
           "peso_medio": 0.000643,
           "peso_total": 0.025096,
           "n_aumentaram": 2,
@@ -16941,7 +16941,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 12,
+          "n_fundos": 11,
           "peso_medio": 0.008583,
           "peso_total": 0.334725,
           "n_aumentaram": 5,
@@ -17166,7 +17166,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.003785,
           "peso_total": 0.147633,
           "n_aumentaram": 1,
@@ -17291,7 +17291,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 4,
           "peso_medio": 0.004156,
           "peso_total": 0.162088,
           "n_aumentaram": 2,
@@ -17626,7 +17626,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 6,
           "peso_medio": 0.008061,
           "peso_total": 0.31439,
           "n_aumentaram": 1,
@@ -17866,7 +17866,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 4,
           "peso_medio": 0.013978,
           "peso_total": 0.545147,
           "n_aumentaram": 4,
@@ -18116,7 +18116,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.001681,
           "peso_total": 0.065549,
           "n_aumentaram": 2,
@@ -18211,7 +18211,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 5,
           "peso_medio": 0.004077,
           "peso_total": 0.159001,
           "n_aumentaram": 1,
@@ -18591,7 +18591,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 7,
           "peso_medio": 0.01267,
           "peso_total": 0.494142,
           "n_aumentaram": 3,
@@ -18811,7 +18811,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.003744,
           "peso_total": 0.146009,
           "n_aumentaram": 1,
@@ -19111,7 +19111,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 5,
           "peso_medio": 0.003711,
           "peso_total": 0.14471,
           "n_aumentaram": 5,
@@ -19181,7 +19181,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 3,
           "peso_medio": 0.000455,
           "peso_total": 0.017761,
           "n_aumentaram": 1,
@@ -19286,7 +19286,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.001639,
           "peso_total": 0.06392,
           "n_aumentaram": 1,
@@ -19391,7 +19391,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 8,
           "peso_medio": 0.01451,
           "peso_total": 0.5659,
           "n_aumentaram": 1,
@@ -19846,7 +19846,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 2,
+          "n_fundos": 1,
           "peso_medio": 0.00059,
           "peso_total": 0.02301,
           "n_aumentaram": 0,
@@ -20431,7 +20431,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.001652,
           "peso_total": 0.064442,
           "n_aumentaram": 2,
@@ -20601,7 +20601,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 5,
           "peso_medio": 0.003125,
           "peso_total": 0.121875,
           "n_aumentaram": 2,
@@ -20696,7 +20696,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 6,
           "peso_medio": 0.004176,
           "peso_total": 0.16285,
           "n_aumentaram": 5,
@@ -20961,7 +20961,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.004907,
           "peso_total": 0.19137,
           "n_aumentaram": 3,
@@ -21566,7 +21566,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 7,
           "peso_medio": 0.004373,
           "peso_total": 0.170549,
           "n_aumentaram": 4,
@@ -21786,7 +21786,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 8,
           "peso_medio": 0.007344,
           "peso_total": 0.286421,
           "n_aumentaram": 5,
@@ -21956,7 +21956,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 6,
           "peso_medio": 0.005741,
           "peso_total": 0.2239,
           "n_aumentaram": 3,
@@ -22081,7 +22081,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.004575,
           "peso_total": 0.178414,
           "n_aumentaram": 5,
@@ -22671,7 +22671,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 3,
           "peso_medio": 0.002833,
           "peso_total": 0.110481,
           "n_aumentaram": 1,
@@ -22961,7 +22961,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 5,
           "peso_medio": 0.007541,
           "peso_total": 0.294088,
           "n_aumentaram": 1,
@@ -23201,7 +23201,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 5,
           "peso_medio": 0.010558,
           "peso_total": 0.411781,
           "n_aumentaram": 4,
@@ -23886,7 +23886,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.001921,
           "peso_total": 0.0749,
           "n_aumentaram": 1,
@@ -23991,7 +23991,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.004687,
           "peso_total": 0.182804,
           "n_aumentaram": 3,
@@ -24241,7 +24241,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.008464,
           "peso_total": 0.330092,
           "n_aumentaram": 0,
@@ -24361,7 +24361,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 7,
           "peso_medio": 0.007172,
           "peso_total": 0.279693,
           "n_aumentaram": 3,
@@ -24486,7 +24486,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.007572,
           "peso_total": 0.295322,
           "n_aumentaram": 5,
@@ -24831,7 +24831,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.003947,
           "peso_total": 0.153936,
           "n_aumentaram": 2,
@@ -25046,7 +25046,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 16,
+          "n_fundos": 11,
           "peso_medio": 0.013612,
           "peso_total": 0.530871,
           "n_aumentaram": 5,
@@ -25186,7 +25186,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 4,
           "peso_medio": 0.008108,
           "peso_total": 0.316216,
           "n_aumentaram": 2,
@@ -25306,7 +25306,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.003061,
           "peso_total": 0.119377,
           "n_aumentaram": 1,
@@ -25776,7 +25776,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.001583,
           "peso_total": 0.061752,
           "n_aumentaram": 1,
@@ -25926,7 +25926,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.002015,
           "peso_total": 0.078593,
           "n_aumentaram": 3,
@@ -26041,7 +26041,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 15,
+          "n_fundos": 10,
           "peso_medio": 0.012072,
           "peso_total": 0.470794,
           "n_aumentaram": 5,
@@ -26476,7 +26476,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 7,
           "peso_medio": 0.004913,
           "peso_total": 0.191593,
           "n_aumentaram": 3,
@@ -26701,7 +26701,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 16,
+          "n_fundos": 11,
           "peso_medio": 0.016911,
           "peso_total": 0.659518,
           "n_aumentaram": 7,
@@ -26826,7 +26826,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.002579,
           "peso_total": 0.100592,
           "n_aumentaram": 0,
@@ -26941,7 +26941,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 20,
+          "n_fundos": 16,
           "peso_medio": 0.026638,
           "peso_total": 1.038888,
           "n_aumentaram": 10,
@@ -27130,7 +27130,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.002061,
           "peso_total": 0.080398,
           "n_aumentaram": 2,
@@ -27540,7 +27540,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 3,
           "peso_medio": 0.000661,
           "peso_total": 0.025794,
           "n_aumentaram": 1,
@@ -27700,7 +27700,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 8,
           "peso_medio": 0.005825,
           "peso_total": 0.227171,
           "n_aumentaram": 4,
@@ -27825,7 +27825,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 4,
           "peso_medio": 0.002574,
           "peso_total": 0.100369,
           "n_aumentaram": 1,
@@ -27950,7 +27950,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 12,
+          "n_fundos": 8,
           "peso_medio": 0.0101,
           "peso_total": 0.393887,
           "n_aumentaram": 5,
@@ -28330,7 +28330,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.006943,
           "peso_total": 0.270775,
           "n_aumentaram": 2,
@@ -28425,7 +28425,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 5,
           "peso_medio": 0.007615,
           "peso_total": 0.296979,
           "n_aumentaram": 4,
@@ -28550,7 +28550,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 7,
           "peso_medio": 0.007586,
           "peso_total": 0.295861,
           "n_aumentaram": 2,
@@ -28785,7 +28785,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 13,
+          "n_fundos": 10,
           "peso_medio": 0.008413,
           "peso_total": 0.328116,
           "n_aumentaram": 4,
@@ -28925,7 +28925,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.001876,
           "peso_total": 0.073176,
           "n_aumentaram": 1,
@@ -29154,7 +29154,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 6,
+          "n_fundos": 4,
           "peso_medio": 0.003809,
           "peso_total": 0.148567,
           "n_aumentaram": 0,
@@ -29694,7 +29694,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 23,
+          "n_fundos": 15,
           "peso_medio": 0.021587,
           "peso_total": 0.84191,
           "n_aumentaram": 5,
@@ -30479,7 +30479,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 9,
           "peso_medio": 0.009938,
           "peso_total": 0.387587,
           "n_aumentaram": 6,
@@ -30604,7 +30604,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 6,
           "peso_medio": 0.004278,
           "peso_total": 0.166847,
           "n_aumentaram": 1,
@@ -30729,7 +30729,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 5,
+          "n_fundos": 4,
           "peso_medio": 0.004501,
           "peso_total": 0.175535,
           "n_aumentaram": 1,
@@ -30839,7 +30839,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.001614,
           "peso_total": 0.062961,
           "n_aumentaram": 3,
@@ -31009,7 +31009,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.001141,
           "peso_total": 0.044485,
           "n_aumentaram": 1,
@@ -31104,7 +31104,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 6,
           "peso_medio": 0.003798,
           "peso_total": 0.148105,
           "n_aumentaram": 2,
@@ -31529,7 +31529,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 7,
           "peso_medio": 0.011291,
           "peso_total": 0.440337,
           "n_aumentaram": 1,
@@ -31864,7 +31864,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 9,
           "peso_medio": 0.011231,
           "peso_total": 0.438024,
           "n_aumentaram": 0,
@@ -32384,7 +32384,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 8,
           "peso_medio": 0.002894,
           "peso_total": 0.11285,
           "n_aumentaram": 1,
@@ -32744,7 +32744,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 10,
           "peso_medio": 0.010629,
           "peso_total": 0.414512,
           "n_aumentaram": 4,
@@ -32869,7 +32869,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 7,
+          "n_fundos": 6,
           "peso_medio": 0.003883,
           "peso_total": 0.151443,
           "n_aumentaram": 4,
@@ -33019,7 +33019,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 11,
+          "n_fundos": 7,
           "peso_medio": 0.008485,
           "peso_total": 0.330927,
           "n_aumentaram": 2,
@@ -33324,7 +33324,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 16,
+          "n_fundos": 11,
           "peso_medio": 0.010727,
           "peso_total": 0.418341,
           "n_aumentaram": 7,
@@ -34109,7 +34109,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 10,
+          "n_fundos": 8,
           "peso_medio": 0.009061,
           "peso_total": 0.353387,
           "n_aumentaram": 1,
@@ -34234,7 +34234,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 3,
+          "n_fundos": 2,
           "peso_medio": 0.000087,
           "peso_total": 0.003384,
           "n_aumentaram": 2,
@@ -34354,7 +34354,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 9,
+          "n_fundos": 5,
           "peso_medio": 0.002656,
           "peso_total": 0.103597,
           "n_aumentaram": 2,
@@ -34464,7 +34464,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 4,
+          "n_fundos": 3,
           "peso_medio": 0.000755,
           "peso_total": 0.029436,
           "n_aumentaram": 1,
@@ -35114,7 +35114,7 @@
         },
         {
           "mes_id": "2025-11",
-          "n_fundos": 8,
+          "n_fundos": 5,
           "peso_medio": 0.00691,
           "peso_total": 0.26948,
           "n_aumentaram": 0,

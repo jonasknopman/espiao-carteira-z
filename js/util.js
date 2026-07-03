@@ -41,6 +41,14 @@ async function czLoadTurnover() {
   return czFetch(`${CZ_DATA}/turnover.json`);
 }
 
+async function czLoadNaics() {
+  return czFetch(`${CZ_DATA}/naics.json`);
+}
+
+async function czLoadSetores(mesId) {
+  return czFetch(`${CZ_DATA}/${mesId}/setores.json`);
+}
+
 async function czLoadFundo(nomeSafe) {
   return czFetch(`${CZ_DATA}/fundos/${nomeSafe}.json`);
 }
@@ -106,6 +114,7 @@ const CZ_NAV_LINKS = [
   { id: 'ranking',  label: 'Ranking',   href: 'ranking.html' },
   { id: 'overlap',  label: 'Overlap',   href: 'overlap.html' },
   { id: 'turnover', label: 'Turnover',  href: 'turnover.html' },
+  { id: 'setores',  label: 'Setores',   href: 'setores.html' },
 ];
 
 function czRenderNav(active) {

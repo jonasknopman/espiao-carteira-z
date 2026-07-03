@@ -3514,7 +3514,7 @@
           "codigo": "M1TA34",
           "tamanho": 0.00415,
           "tamanho_anterior": 0.00415,
-          "variacao": 0,
+          "variacao": -0,
           "novo": false,
           "saiu": false
         },
@@ -3825,7 +3825,7 @@
           "codigo": "M1TA34",
           "tamanho": 0.00415,
           "tamanho_anterior": 0.00415,
-          "variacao": -0,
+          "variacao": 0,
           "novo": false,
           "saiu": false
         },

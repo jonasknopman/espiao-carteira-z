@@ -1,0 +1,111 @@
+{
+  "mes_id": "2026-02",
+  "gerado_em": "2026-07-02",
+  "setores": ["Administração de empresas e empreendimentos", "Agricultura, pecuária, silvicultura, pesca e caça", "Artes, entretenimento e recreação", "Assistência médica e social", "Comércio atacadista", "Comércio varejista", "Construção", "Educacão", "Empresa de eletricidade, gás e água", "Hotel e restaurante", "Imobiliária e locadora de outros bens", "Indústria manufatureira", "Informação", "Mineração, exploração de pedreiras e extração de petróleo e gás", "Serviços de apoio a empresas e gerenciamento de resíduos e remediação", "Serviços financeiros e seguros", "Serviços profissionais, científicos e técnicos", "Transporte e armazenamento", "Exterior/Não classificado"],
+  "fundos": [
+    {
+      "cnpj": "07.195.440/0001-90",
+      "nome_curto": "E2M INT",
+      "data_ref": "2026-02-28",
+      "pesos": {
+        "Administração de empresas e empreendimentos": 0.256037,
+        "Agricultura, pecuária, silvicultura, pesca e caça": 0,
+        "Artes, entretenimento e recreação": 0.001438,
+        "Assistência médica e social": 0.004141,
+        "Comércio atacadista": 0.024898,
+        "Comércio varejista": 0.037606,
+        "Construção": 0.000106,
+        "Educacão": 0,
+        "Empresa de eletricidade, gás e água": 0.047971,
+        "Hotel e restaurante": 0,
+        "Imobiliária e locadora de outros bens": 0,
+        "Indústria manufatureira": 0.082012,
+        "Informação": 0,
+        "Mineração, exploração de pedreiras e extração de petróleo e gás": 0.001204,
+        "Serviços de apoio a empresas e gerenciamento de resíduos e remediação": 0,
+        "Serviços financeiros e seguros": 0.301569,
+        "Serviços profissionais, científicos e técnicos": 0,
+        "Transporte e armazenamento": 0.002384,
+        "Exterior/Não classificado": 0
+      }
+    },
+    {
+      "cnpj": "15.559.384/0001-54",
+      "nome_curto": "LOGOS TR",
+      "data_ref": "2026-02-28",
+      "pesos": {
+        "Administração de empresas e empreendimentos": 0,
+        "Agricultura, pecuária, silvicultura, pesca e caça": 0.054505,
+        "Artes, entretenimento e recreação": 0.102893,
+        "Assistência médica e social": 0.141619,
+        "Comércio atacadista": 0.168785,
+        "Comércio varejista": 0.340297,
+        "Construção": 0.130113,
+        "Educacão": 0.129579,
+        "Empresa de eletricidade, gás e água": 0.294041,
+        "Hotel e restaurante": 0,
+        "Imobiliária e locadora de outros bens": 0.006105,
+        "Indústria manufatureira": 0.083502,
+        "Informação": 0.386329,
+        "Mineração, exploração de pedreiras e extração de petróleo e gás": 0,
+        "Serviços de apoio a empresas e gerenciamento de resíduos e remediação": 0,
+        "Serviços financeiros e seguros": 0.12791,
+        "Serviços profissionais, científicos e técnicos": 0,
+        "Transporte e armazenamento": 0,
+        "Exterior/Não classificado": 0.203272
+      }
+    },
+    {
+      "cnpj": "29.574.952/0001-09",
+      "nome_curto": "VERSA FIT",
+      "data_ref": "2026-02-28",
+      "pesos": {
+        "Administração de empresas e empreendimentos": 0.087007,
+        "Agricultura, pecuária, silvicultura, pesca e caça": 0,
+        "Artes, entretenimento e recreação": 0,
+        "Assistência médica e social": 0.108781,
+        "Comércio atacadista": 0,
+        "Comércio varejista": 0.33717,
+        "Construção": 0.264727,
+        "Educacão": 0.184568,
+        "Empresa de eletricidade, gás e água": 0,
+        "Hotel e restaurante": 0,
+        "Imobiliária e locadora de outros bens": 0,
+        "Indústria manufatureira": 0.756549,
+        "Informação": 0,
+        "Mineração, exploração de pedreiras e extração de petróleo e gás": 0,
+        "Serviços de apoio a empresas e gerenciamento de resíduos e remediação": 0,
+        "Serviços financeiros e seguros": 0.417749,
+        "Serviços profissionais, científicos e técnicos": 0,
+        "Transporte e armazenamento": 0,
+        "Exterior/Não classificado": 0
+      }
+    },
+    {
+      "cnpj": "18.961.491/0001-00",
+      "nome_curto": "XP LB",
+      "data_ref": "2026-02-28",
+      "pesos": {
+        "Administração de empresas e empreendimentos": 0.048058,
+        "Agricultura, pecuária, silvicultura, pesca e caça": 0.006412,
+        "Artes, entretenimento e recreação": 0,
+        "Assistência médica e social": 0.042447,
+        "Comércio atacadista": 0.039766,
+        "Comércio varejista": 0.116919,
+        "Construção": 0.14316,
+        "Educacão": 0.04343,
+        "Empresa de eletricidade, gás e água": 0.361286,
+        "Hotel e restaurante": 0,
+        "Imobiliária e locadora de outros bens": 0.027159,
+        "Indústria manufatureira": 0.115275,
+        "Informação": 0.02534,
+        "Mineração, exploração de pedreiras e extração de petróleo e gás": 0.003654,
+        "Serviços de apoio a empresas e gerenciamento de resíduos e remediação": 0,
+        "Serviços financeiros e seguros": 0.190166,
+        "Serviços profissionais, científicos e técnicos": 0,
+        "Transporte e armazenamento": 0.001569,
+        "Exterior/Não classificado": 0.157741
+      }
+    }
+  ]
+}

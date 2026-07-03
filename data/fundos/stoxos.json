@@ -3650,7 +3650,7 @@
           "codigo": "PTSL4",
           "tamanho": 1e-06,
           "tamanho_anterior": 1e-06,
-          "variacao": 0,
+          "variacao": -0,
           "novo": false,
           "saiu": false
         },
@@ -3977,7 +3977,7 @@
           "codigo": "PTSL4",
           "tamanho": 1e-06,
           "tamanho_anterior": 1e-06,
-          "variacao": -0,
+          "variacao": 0,
           "novo": false,
           "saiu": false
         },

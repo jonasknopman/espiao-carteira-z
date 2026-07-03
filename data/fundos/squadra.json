@@ -1698,7 +1698,7 @@
           "codigo": "ENGI4",
           "tamanho": 0,
           "tamanho_anterior": 0,
-          "variacao": 0,
+          "variacao": -0,
           "novo": false,
           "saiu": false
         }
@@ -1865,7 +1865,7 @@
           "codigo": "ENGI4",
           "tamanho": 0,
           "tamanho_anterior": 0,
-          "variacao": -0,
+          "variacao": 0,
           "novo": false,
           "saiu": false
         }
