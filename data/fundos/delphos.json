@@ -1116,110 +1116,110 @@
     },
     {
       "mes_id": "2025-12",
-      "data_ref": "2025-11-30",
-      "data_ref_anterior": "2025-10-31",
+      "data_ref": "2025-12-31",
+      "data_ref_anterior": "2025-11-30",
       "posicoes": [
         {
           "codigo": "KEPL3",
-          "tamanho": 0.250295,
-          "tamanho_anterior": 0.241425,
-          "variacao": 0.008871,
+          "tamanho": 0.256327,
+          "tamanho_anterior": 0.250295,
+          "variacao": 0.006031,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "LEVE3",
-          "tamanho": 0.212023,
-          "tamanho_anterior": 0.199403,
-          "variacao": 0.01262,
+          "tamanho": 0.21579,
+          "tamanho_anterior": 0.212023,
+          "variacao": 0.003767,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "TUPY3",
-          "tamanho": 0.135688,
-          "tamanho_anterior": 0.143626,
-          "variacao": -0.007938,
-          "novo": false,
-          "saiu": false
-        },
-        {
-          "codigo": "FESA4",
-          "tamanho": 0.093827,
-          "tamanho_anterior": 0.112755,
-          "variacao": -0.018928,
+          "tamanho": 0.127551,
+          "tamanho_anterior": 0.135688,
+          "variacao": -0.008137,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "RSUL4",
-          "tamanho": 0.081668,
-          "tamanho_anterior": 0.085781,
-          "variacao": -0.004112,
+          "tamanho": 0.084905,
+          "tamanho_anterior": 0.081668,
+          "variacao": 0.003237,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FESA4",
+          "tamanho": 0.084053,
+          "tamanho_anterior": 0.093827,
+          "variacao": -0.009774,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "BAZA3",
-          "tamanho": 0.056116,
-          "tamanho_anterior": 0.062579,
-          "variacao": -0.006463,
+          "tamanho": 0.054337,
+          "tamanho_anterior": 0.056116,
+          "variacao": -0.001779,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "POMO4",
-          "tamanho": 0.047559,
-          "tamanho_anterior": 0.053396,
-          "variacao": -0.005837,
-          "novo": false,
-          "saiu": false
-        },
-        {
-          "codigo": "CEBR5",
-          "tamanho": 0.02503,
-          "tamanho_anterior": 0.021595,
-          "variacao": 0.003435,
+          "tamanho": 0.050686,
+          "tamanho_anterior": 0.047559,
+          "variacao": 0.003128,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "SMTO3",
-          "tamanho": 0.024686,
-          "tamanho_anterior": 0.032577,
-          "variacao": -0.007891,
+          "tamanho": 0.033343,
+          "tamanho_anterior": 0.024686,
+          "variacao": 0.008657,
           "novo": false,
           "saiu": false
         },
         {
-          "codigo": "CRPG6",
-          "tamanho": 0.00924,
-          "tamanho_anterior": 0.012154,
-          "variacao": -0.002914,
+          "codigo": "CEBR5",
+          "tamanho": 0.024693,
+          "tamanho_anterior": 0.02503,
+          "variacao": -0.000337,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "RECV3",
-          "tamanho": 0.008739,
-          "tamanho_anterior": 0.021957,
-          "variacao": -0.013217,
+          "tamanho": 0.012482,
+          "tamanho_anterior": 0.008739,
+          "variacao": 0.003743,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRPG6",
+          "tamanho": 0.010469,
+          "tamanho_anterior": 0.00924,
+          "variacao": 0.001229,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "CEBR6",
-          "tamanho": 0.003498,
-          "tamanho_anterior": 0.003059,
-          "variacao": 0.000439,
+          "tamanho": 0.003557,
+          "tamanho_anterior": 0.003498,
+          "variacao": 0.000059,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "CRPG5",
-          "tamanho": 0.002388,
-          "tamanho_anterior": 0.00221,
-          "variacao": 0.000179,
+          "tamanho": 0.002742,
+          "tamanho_anterior": 0.002388,
+          "variacao": 0.000354,
           "novo": false,
           "saiu": false
         }

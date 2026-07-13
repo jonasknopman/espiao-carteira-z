@@ -1652,182 +1652,206 @@
     },
     {
       "mes_id": "2025-12",
-      "data_ref": "2025-11-30",
-      "data_ref_anterior": "2025-10-31",
+      "data_ref": "2025-12-31",
+      "data_ref_anterior": "2025-11-30",
       "posicoes": [
         {
           "codigo": "ENEV3",
-          "tamanho": 0.1966,
-          "tamanho_anterior": 0.199146,
-          "variacao": -0.002546,
+          "tamanho": 0.175239,
+          "tamanho_anterior": 0.1966,
+          "variacao": -0.021361,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "ORVR3",
-          "tamanho": 0.094622,
-          "tamanho_anterior": 0.082335,
-          "variacao": 0.012287,
+          "tamanho": 0.099108,
+          "tamanho_anterior": 0.094622,
+          "variacao": 0.004486,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "OPCT3",
-          "tamanho": 0.078673,
-          "tamanho_anterior": 0.08021,
-          "variacao": -0.001537,
-          "novo": false,
-          "saiu": false
-        },
-        {
-          "codigo": "PLPL3",
-          "tamanho": 0.074671,
-          "tamanho_anterior": 0.062255,
-          "variacao": 0.012416,
+          "tamanho": 0.086811,
+          "tamanho_anterior": 0.078673,
+          "variacao": 0.008137,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "ITSA4",
-          "tamanho": 0.073983,
-          "tamanho_anterior": 0.070315,
-          "variacao": 0.003668,
+          "tamanho": 0.069852,
+          "tamanho_anterior": 0.073983,
+          "variacao": -0.00413,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PLPL3",
+          "tamanho": 0.062554,
+          "tamanho_anterior": 0.074671,
+          "variacao": -0.012117,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "INTB3",
-          "tamanho": 0.070798,
-          "tamanho_anterior": 0.056269,
-          "variacao": 0.014528,
-          "novo": false,
-          "saiu": false
-        },
-        {
-          "codigo": "GGPS3",
-          "tamanho": 0.052895,
-          "tamanho_anterior": 0.055486,
-          "variacao": -0.002591,
-          "novo": false,
-          "saiu": false
-        },
-        {
-          "codigo": "XPBR31",
-          "tamanho": 0.051773,
-          "tamanho_anterior": 0.052238,
-          "variacao": -0.000465,
+          "tamanho": 0.061668,
+          "tamanho_anterior": 0.070798,
+          "variacao": -0.00913,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "TTEN3",
-          "tamanho": 0.047747,
-          "tamanho_anterior": 0.030795,
-          "variacao": 0.016952,
+          "tamanho": 0.05063,
+          "tamanho_anterior": 0.047747,
+          "variacao": 0.002883,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.049508,
+          "tamanho_anterior": 0.051773,
+          "variacao": -0.002265,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.046472,
+          "tamanho_anterior": 0.052895,
+          "variacao": -0.006423,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "ABCB4",
-          "tamanho": 0.04239,
-          "tamanho_anterior": 0.04013,
-          "variacao": 0.002259,
+          "tamanho": 0.040173,
+          "tamanho_anterior": 0.04239,
+          "variacao": -0.002217,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "HAPV3",
-          "tamanho": 0.036915,
-          "tamanho_anterior": 0.069302,
-          "variacao": -0.032386,
+          "tamanho": 0.037607,
+          "tamanho_anterior": 0.036915,
+          "variacao": 0.000692,
           "novo": false,
           "saiu": false
         },
         {
-          "codigo": "IGTI11",
-          "tamanho": 0.031557,
-          "tamanho_anterior": 0.040329,
-          "variacao": -0.008772,
+          "codigo": "PRIO3",
+          "tamanho": 0.031589,
+          "tamanho_anterior": 0.029074,
+          "variacao": 0.002515,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "SUZB3",
-          "tamanho": 0.029691,
-          "tamanho_anterior": 0.030685,
-          "variacao": -0.000995,
+          "tamanho": 0.031368,
+          "tamanho_anterior": 0.029691,
+          "variacao": 0.001677,
           "novo": false,
           "saiu": false
         },
         {
-          "codigo": "ORAAF US - Investimento no Exterior",
-          "tamanho": 0.029509,
-          "tamanho_anterior": 0,
-          "variacao": 0.029509,
-          "novo": true,
-          "saiu": false
-        },
-        {
-          "codigo": "PRIO3",
-          "tamanho": 0.029074,
-          "tamanho_anterior": 0.028308,
-          "variacao": 0.000766,
+          "codigo": "IGTI11",
+          "tamanho": 0.029866,
+          "tamanho_anterior": 0.031557,
+          "variacao": -0.001691,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "BLAU3",
-          "tamanho": 0.027008,
-          "tamanho_anterior": 0.027651,
-          "variacao": -0.000643,
+          "tamanho": 0.028195,
+          "tamanho_anterior": 0.027008,
+          "variacao": 0.001187,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORAAF US - Investimento no Exterior",
+          "tamanho": 0.021938,
+          "tamanho_anterior": 0.029509,
+          "variacao": -0.007571,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "RAIL3",
-          "tamanho": 0.025178,
-          "tamanho_anterior": 0.041054,
-          "variacao": -0.015876,
+          "tamanho": 0.021535,
+          "tamanho_anterior": 0.025178,
+          "variacao": -0.003643,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "SOJA3",
-          "tamanho": 0.015979,
-          "tamanho_anterior": 0.019104,
-          "variacao": -0.003125,
+          "tamanho": 0.017541,
+          "tamanho_anterior": 0.015979,
+          "variacao": 0.001562,
           "novo": false,
           "saiu": false
         },
         {
-          "codigo": "ORVR11",
-          "tamanho": 0.007017,
-          "tamanho_anterior": 0.004865,
-          "variacao": 0.002152,
-          "novo": false,
-          "saiu": false
-        },
-        {
-          "codigo": "RAIZ4",
-          "tamanho": 0.000455,
+          "codigo": "TEND3",
+          "tamanho": 0.015055,
           "tamanho_anterior": 0,
-          "variacao": 0.000455,
+          "variacao": 0.015055,
           "novo": true,
           "saiu": false
         },
         {
-          "codigo": "FUNDO OFF - Investimento no Exterior",
-          "tamanho": 0.000189,
-          "tamanho_anterior": 0.000249,
-          "variacao": -0.00006,
+          "codigo": "ORVR11",
+          "tamanho": 0.00845,
+          "tamanho_anterior": 0.007017,
+          "variacao": 0.001433,
           "novo": false,
           "saiu": false
         },
         {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.000547,
+          "tamanho_anterior": 0.000189,
+          "variacao": 0.000359,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB2",
+          "tamanho": 0.000449,
+          "tamanho_anterior": 0,
+          "variacao": 0.000449,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.000141,
+          "tamanho_anterior": 0,
+          "variacao": 0.000141,
+          "novo": true,
+          "saiu": false
+        },
+        {
           "codigo": "AURA33",
+          "tamanho": 0.000083,
+          "tamanho_anterior": 0,
+          "variacao": 0.000083,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIZ4",
           "tamanho": 0,
-          "tamanho_anterior": 0.024153,
-          "variacao": -0.024153,
+          "tamanho_anterior": 0.000455,
+          "variacao": -0.000455,
           "novo": false,
           "saiu": true
         }

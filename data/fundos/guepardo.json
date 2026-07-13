@@ -900,104 +900,112 @@
     },
     {
       "mes_id": "2025-12",
-      "data_ref": "2025-11-30",
-      "data_ref_anterior": "2025-10-31",
+      "data_ref": "2025-12-31",
+      "data_ref_anterior": "2025-11-30",
       "posicoes": [
         {
           "codigo": "UGPA3",
-          "tamanho": 0.243211,
-          "tamanho_anterior": 0.245121,
-          "variacao": -0.001909,
+          "tamanho": 0.234652,
+          "tamanho_anterior": 0.243211,
+          "variacao": -0.008559,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "ALOS3",
-          "tamanho": 0.205552,
-          "tamanho_anterior": 0.182757,
-          "variacao": 0.022795,
+          "tamanho": 0.204368,
+          "tamanho_anterior": 0.205552,
+          "variacao": -0.001183,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "KLBN11",
-          "tamanho": 0.172073,
-          "tamanho_anterior": 0.179831,
-          "variacao": -0.007758,
+          "tamanho": 0.184433,
+          "tamanho_anterior": 0.172073,
+          "variacao": 0.01236,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "RAIL3",
-          "tamanho": 0.116132,
-          "tamanho_anterior": 0.107983,
-          "variacao": 0.008149,
+          "tamanho": 0.103087,
+          "tamanho_anterior": 0.116132,
+          "variacao": -0.013044,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "FLRY3",
-          "tamanho": 0.085371,
-          "tamanho_anterior": 0.084229,
-          "variacao": 0.001143,
-          "novo": false,
-          "saiu": false
-        },
-        {
-          "codigo": "VULC3",
-          "tamanho": 0.055785,
-          "tamanho_anterior": 0.08168,
-          "variacao": -0.025895,
+          "tamanho": 0.076209,
+          "tamanho_anterior": 0.085371,
+          "variacao": -0.009162,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "GMAT3",
-          "tamanho": 0.053231,
-          "tamanho_anterior": 0.055693,
-          "variacao": -0.002462,
+          "tamanho": 0.074542,
+          "tamanho_anterior": 0.053231,
+          "variacao": 0.021311,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.05517,
+          "tamanho_anterior": 0.055785,
+          "variacao": -0.000615,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "GGBR4",
-          "tamanho": 0.043908,
-          "tamanho_anterior": 0.046066,
-          "variacao": -0.002158,
+          "tamanho": 0.043199,
+          "tamanho_anterior": 0.043908,
+          "variacao": -0.000708,
           "novo": false,
           "saiu": false
         },
         {
           "codigo": "GOAU4",
-          "tamanho": 0.008702,
-          "tamanho_anterior": 0.009093,
-          "variacao": -0.00039,
+          "tamanho": 0.009146,
+          "tamanho_anterior": 0.008702,
+          "variacao": 0.000444,
           "novo": false,
-          "saiu": false
-        },
-        {
-          "codigo": "VULC1",
-          "tamanho": 0.002844,
-          "tamanho_anterior": 0,
-          "variacao": 0.002844,
-          "novo": true,
           "saiu": false
         },
         {
           "codigo": "MYPK3",
-          "tamanho": 0.000958,
-          "tamanho_anterior": 0.000511,
-          "variacao": 0.000447,
+          "tamanho": 0.000953,
+          "tamanho_anterior": 0.000958,
+          "variacao": -5e-06,
           "novo": false,
           "saiu": false
         },
         {
-          "codigo": "GMAT1",
-          "tamanho": 3e-06,
+          "codigo": "KLBN4",
+          "tamanho": 0,
           "tamanho_anterior": 0,
-          "variacao": 3e-06,
+          "variacao": 0,
           "novo": true,
           "saiu": false
+        },
+        {
+          "codigo": "GMAT1",
+          "tamanho": 0,
+          "tamanho_anterior": 3e-06,
+          "variacao": -3e-06,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "VULC1",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002844,
+          "variacao": -0.002844,
+          "novo": false,
+          "saiu": true
         }
       ]
     },
