@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Ajuda — Espião CZ</title>
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    .ajuda-section { background:var(--bg2); border:1.5px solid var(--border); border-radius:var(--radius); padding:22px 26px 24px; margin-bottom:20px; box-shadow:var(--shadow); }
+    .ajuda-section-title { font-size:1.05em; font-weight:700; color:var(--navy); margin-bottom:6px; }
+    .ajuda-section p { font-size:0.88em; color:var(--text2); line-height:1.7; margin-top:8px; }
+    .ajuda-section p + p { margin-top:6px; }
+    .ajuda-section ul { margin-top:8px; padding-left:18px; }
+    .ajuda-section li { font-size:0.88em; color:var(--text2); line-height:1.7; margin-bottom:4px; }
+    .ajuda-section li strong { color:var(--navy); font-weight:600; }
+    .glossario { display:flex; flex-direction:column; gap:16px; }
+    .gloss-item { border-left:3px solid var(--accent); padding:10px 14px; background:#f0f4ff; border-radius:0 var(--radius-sm) var(--radius-sm) 0; }
+    .gloss-term { font-weight:700; font-size:0.9em; color:var(--navy); margin-bottom:4px; }
+    .gloss-def  { font-size:0.85em; color:var(--text2); line-height:1.65; }
+    .gloss-def code { font-family:var(--mono); font-size:0.95em; background:#e0e7ff; padding:1px 5px; border-radius:3px; color:var(--navy2); }
+    .ex-novo { display:inline-block; background:#dcfce7; color:#166534; font-size:.72em; font-weight:700; padding:2px 7px; border-radius:10px; vertical-align:middle; }
+    .ex-saiu { display:inline-block; background:#fee2e2; color:#991b1b; font-size:.72em; font-weight:700; padding:2px 7px; border-radius:10px; vertical-align:middle; }
+    .ex-pos { color:var(--green); font-weight:600; }
+    .ex-neg { color:var(--red); font-weight:600; }
+    .cor-amostra { display:inline-block; width:14px; height:14px; border-radius:3px; vertical-align:middle; border:1px solid rgba(0,0,0,.12); }
+    .page-header-ajuda { margin-bottom:28px; }
+    @media (max-width:640px) { .ajuda-section { padding:16px 16px 18px; } }
+  </style>
+</head>
+<body>
+
+<div id="nav"></div>
+
+<div class="page-wrap">
+<div class="container">
+
+  <div class="page-header-ajuda">
+    <div class="page-title">Ajuda &amp; Glossário</div>
+    <div class="page-subtitle">Como ler cada visão do dashboard e o que os termos significam</div>
+  </div>
+
+  <!-- Raio-X -->
+  <div class="ajuda-section">
+    <div class="ajuda-section-title">📊 Raio-X por Fundo</div>
+    <p>Mostra as posições de cada fundo no mês selecionado — ou seja, quanto do patrimônio do fundo está alocado em cada ativo — e compara com o mês imediatamente anterior.</p>
+    <p>Selecione o fundo pelo menu no topo. O gráfico exibe as <strong>20 maiores posições</strong> do mês (barras escuras) ao lado das posições do mês anterior (barras claras). A tabela completa abaixo lista todos os ativos com suas variações.</p>
+    <p><strong>O que prestar atenção:</strong></p>
+    <ul>
+      <li><span class="ex-novo">NOVO</span> — ativo que não estava na carteira no mês anterior e entrou agora.</li>
+      <li><span class="ex-saiu">SAIU</span> — ativo que estava na carteira e foi zerado neste mês.</li>
+      <li><strong>Seção "Destaques"</strong> — ativos ainda na carteira cuja posição variou mais de <strong>4 pontos percentuais (p.p.)</strong> entre os dois meses. Variações <span class="ex-pos">positivas</span> indicam aumento de posição; <span class="ex-neg">negativas</span> indicam redução.</li>
+      <li>Se o fundo mostrar <em>"sem dados para este mês"</em>, ele está em período de sigilo — veja "Fundo defasado" no glossário abaixo.</li>
+    </ul>
+  </div>
+
+  <!-- Ranking -->
+  <div class="ajuda-section">
+    <div class="ajuda-section-title">🏆 Ranking de Convicção</div>
+    <p>Visão agregada de todos os fundos: quais ativos aparecem em mais carteiras e com maior peso combinado. Responde à pergunta "o que os gestores estão comprando agora?"</p>
+    <p>O <strong>treemap</strong> no topo exibe os 6 ativos mais representativos do mês, com o tamanho de cada bloco proporcional ao peso total. Fundos ainda em período de sigilo <strong>não são incluídos</strong> — somente os fundos com carteira já divulgada para o mês selecionado entram.</p>
+    <p><strong>Colunas da tabela:</strong></p>
+    <ul>
+      <li><strong>Fundos</strong> — em quantos fundos o ativo aparece com posição positiva.</li>
+      <li><strong>Peso médio</strong> — peso total dividido pelo número total de fundos do universo, incluindo os que não têm o ativo. Penaliza ativos presentes em poucos fundos.</li>
+      <li><strong>Peso total</strong> — soma dos pesos de todos os fundos que detêm o ativo.</li>
+      <li><strong>▲ Aumentaram / ▼ Reduziram</strong> — número de fundos que aumentaram ou reduziram a posição em relação ao mês anterior.</li>
+      <li><strong>Entrou / Saiu</strong> — número de fundos que iniciaram ou zeraram a posição.</li>
+    </ul>
+    <p>Clique em qualquer cabeçalho de coluna para reordenar. Use o campo de busca para filtrar por código de ativo.</p>
+  </div>
+
+  <!-- Overlap -->
+  <div class="ajuda-section">
+    <div class="ajuda-section-title">🔀 Mapa de Overlap</div>
+    <p>Mostra o quanto dois fundos investem nos <em>mesmos</em> ativos ao mesmo tempo. Quanto maior o overlap, mais os dois fundos "apostam" nas mesmas empresas — o que reduz a diversificação real entre eles.</p>
+    <p>O <strong>heatmap</strong> é uma grade de fundos × fundos. Cada célula representa um par: a intensidade da cor indica o percentual de sobreposição. <span class="cor-amostra" style="background:#f0f4ff;"></span> branco = overlap próximo de zero; <span class="cor-amostra" style="background:#1d4ed8;"></span> azul escuro = overlap alto. A escala de cor é a mesma em todos os meses, permitindo comparação direta.</p>
+    <ul>
+      <li><strong>Célula cinza escura</strong> — diagonal: comparação de um fundo com ele mesmo. Sem significado.</li>
+      <li><strong>Célula cinza clara</strong> — um dos dois fundos ainda não divulgou a carteira para este mês (em sigilo). Sem dado disponível.</li>
+    </ul>
+    <p><strong>Clique em qualquer célula colorida</strong> para ver a lista dos ativos em comum, com o peso de cada um nos dois fundos e o valor mínimo — que determina a contribuição daquele ativo para o overlap do par.</p>
+  </div>
+
+  <!-- Turnover -->
+  <div class="ajuda-section">
+    <div class="ajuda-section-title">🔄 Turnover (Giro de Carteira)</div>
+    <p>Mede o quanto cada fundo movimentou a carteira em cada mês: a soma de tudo que foi comprado mais tudo que foi vendido, dividida pelo patrimônio líquido. Um giro de 20% significa que o fundo comprou e vendeu, no total, o equivalente a 20% do seu patrimônio naquele mês.</p>
+    <p>O <strong>gráfico de linhas</strong> mostra o histórico de cada fundo ao longo do tempo. Use os chips abaixo do gráfico para escolher quais fundos exibir. A <strong>tabela</strong> apresenta o giro do mês selecionado; valores <span class="ex-neg">em vermelho</span> indicam giro acima de 100% — o fundo negociou mais do equivalente ao seu patrimônio inteiro naquele mês.</p>
+    <ul>
+      <li><strong>Escala logarítmica (padrão)</strong> — comprime os fundos de giro muito alto e expande os de giro baixo, facilitando comparar fundos com perfis muito diferentes. Meses com giro zero aparecem como lacunas na linha.</li>
+      <li><strong>Escala linear</strong> — valores em proporção direta. O botão "Escala: Log / Linear" no topo do gráfico alterna entre os dois modos. A escala log fica desabilitada automaticamente se algum fundo selecionado tiver giro zero em <em>todos</em> os meses do histórico.</li>
+    </ul>
+  </div>
+
+  <!-- Setores -->
+  <div class="ajuda-section">
+    <div class="ajuda-section-title">🏭 Distribuição Setorial</div>
+    <p>Mostra quanto do patrimônio de cada fundo está alocado em cada setor da economia, usando a classificação <strong>NAICS</strong> (padrão norte-americano de classificação de indústrias, que cobre bem tanto ações brasileiras quanto estrangeiras nas carteiras dos fundos).</p>
+    <p>O <strong>heatmap</strong> é uma grade de fundos × setores. <span class="cor-amostra" style="background:#f0f4ff;"></span> branco = exposição próxima de zero; <span class="cor-amostra" style="background:#1d4ed8;"></span> azul escuro = exposição alta. A escala vai até 50% do PL — posições acima disso aparecem com a mesma cor máxima.</p>
+    <p><strong>Clique em um setor</strong> no seletor para ver o gráfico de barras com todos os fundos que têm exposição a ele, ordenados por peso. Passe o mouse sobre qualquer célula do heatmap para ver o percentual exato.</p>
+    <ul>
+      <li><strong>Exterior / Não classificado</strong> — agrupa ativos sem classificação setorial definida. Veja o glossário abaixo.</li>
+    </ul>
+  </div>
+
+  <div class="section-title">Glossário</div>
+
+  <div class="glossario">
+
+    <div class="gloss-item">
+      <div class="gloss-term">Peso (de um ativo num fundo)</div>
+      <div class="gloss-def">Quanto do patrimônio líquido do fundo está investido naquele ativo, expresso em porcentagem. Calculado como valor de mercado da posição dividido pelo patrimônio líquido do fundo na mesma data. Um peso de 8% significa que 8% do fundo está naquele ativo.</div>
+    </div>
+
+    <div class="gloss-item">
+      <div class="gloss-term">Peso total (Ranking)</div>
+      <div class="gloss-def">Soma dos pesos de todos os fundos que detêm o ativo no mês selecionado. Se três fundos têm PETR4 com pesos de 5%, 3% e 2%, o peso total é 10%. É uma soma, não uma média. Quanto maior, mais o conjunto de fundos está alocado naquele ativo.</div>
+    </div>
+
+    <div class="gloss-item">
+      <div class="gloss-term">Peso médio (Ranking)</div>
+      <div class="gloss-def">Peso total dividido pelo número <em>total</em> de fundos do universo — inclusive os que não têm o ativo. Isso penaliza ativos presentes em poucos fundos: um ativo com 10% em apenas 1 fundo de um universo de 20 terá peso médio de 0,5%, enquanto um ativo com 2% em 10 fundos terá peso médio de 1%. Use esse número para comparar a convicção "de mercado" entre ativos com perfis de concentração diferentes.</div>
+    </div>
+
+    <div class="gloss-item">
+      <div class="gloss-term">Overlap entre dois fundos</div>
+      <div class="gloss-def">Para cada ativo em comum, o overlap considera o <em>mínimo</em> do peso nos dois fundos — a parte que ambos efetivamente compartilham. O overlap total é a soma desses mínimos em todos os ativos em comum. Resultado entre 0% (nenhum ativo em comum) e 100% (carteiras idênticas). Um overlap de 30% entre dois fundos significa que, na pior hipótese, 30% da carteira de ambos se moveria na mesma direção por causa dos mesmos ativos.</div>
+    </div>
+
+    <div class="gloss-item">
+      <div class="gloss-term">Giro de carteira (Turnover)</div>
+      <div class="gloss-def">Mede a atividade de negociação do fundo no mês: <code>(total comprado + total vendido) ÷ patrimônio líquido</code>. Um giro de 50% significa que o fundo movimentou o equivalente a metade do seu patrimônio em compras e vendas. Giro acima de 100% indica que o fundo negociou mais do que o equivalente ao PL inteiro no mês — comum em fundos de estratégia mais ativa.</div>
+    </div>
+
+    <div class="gloss-item">
+      <div class="gloss-term">Fundo defasado / em período de sigilo</div>
+      <div class="gloss-def">A CVM permite que os fundos mantenham a composição da carteira em sigilo por até 6 meses após a data de referência. Alguns gestores usam esse prazo completo; outros divulgam antes. Por isso, no mês mais recente, alguns fundos já têm carteira disponível e outros ainda não.<br><br>No dashboard:<br>• <strong>Raio-X</strong>: aviso "sem dados para este mês" com indicação do último mês disponível.<br>• <strong>Overlap</strong>: células cinza clara na linha e coluna do fundo.<br>• <strong>Ranking</strong> e <strong>Turnover</strong>: o fundo não é contabilizado no mês em que ainda não divulgou a carteira.</div>
+    </div>
+
+    <div class="gloss-item">
+      <div class="gloss-term">Exterior / Não classificado (setor)</div>
+      <div class="gloss-def">Bucket setorial que agrupa ativos sem classificação NAICS definida na base de dados. Inclui ações estrangeiras, BDRs (recibos de ações estrangeiras negociados na B3), fundos offshore e outros instrumentos que representam exposição a empresas fora do Brasil ou que ainda não foram mapeados para um setor específico. Um peso alto nesse bucket indica que o fundo tem exposição relevante ao exterior ou a ativos ainda não classificados.</div>
+    </div>
+
+    <div class="gloss-item">
+      <div class="gloss-term">p.p. (pontos percentuais)</div>
+      <div class="gloss-def">Diferença aritmética entre dois percentuais. Se um fundo tinha 8% em VALE3 e passou para 5%, a variação é −3 p.p. (não −37,5%). O Raio-X usa p.p. para medir variações de posição; a seção "Destaques" exibe ativos com variação acima de 4 p.p. entre dois meses consecutivos.</div>
+    </div>
+
+    <div class="gloss-item">
+      <div class="gloss-term">Escala logarítmica (gráfico de Turnover)</div>
+      <div class="gloss-def">Na escala log, cada intervalo no eixo vertical representa uma multiplicação (por exemplo: 0,1% → 1% → 10% → 100%), em vez de uma adição. Isso permite visualizar simultaneamente fundos com giro de 5% e fundos com giro de 500% sem que os de menor giro fiquem achatados no fundo do gráfico. Meses com giro = 0% aparecem como lacunas na linha (o logaritmo de zero é indefinido). Alterne para escala linear quando quiser comparar magnitudes absolutas.</div>
+    </div>
+
+  </div>
+
+</div>
+</div>
+
+<script src="js/util.js"></script>
+<script>
+"use strict";
+document.getElementById("nav").innerHTML = czRenderNav("ajuda");
+</script>
+</body>
+</html>

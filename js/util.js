@@ -115,6 +115,7 @@ const CZ_NAV_LINKS = [
   { id: 'overlap',  label: 'Overlap',   href: 'overlap.html' },
   { id: 'turnover', label: 'Turnover',  href: 'turnover.html' },
   { id: 'setores',  label: 'Setores',   href: 'setores.html' },
+  { id: 'ajuda',    label: 'Ajuda',     href: 'ajuda.html' },
 ];
 
 function czRenderNav(active) {
