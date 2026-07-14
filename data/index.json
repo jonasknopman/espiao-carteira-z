@@ -70,20 +70,6 @@
       "gerado_em": "2026-07-13",
       "n_fundos": 16,
       "n_ativos": 241
-    },
-    {
-      "id": "2026-01",
-      "label": "Janeiro 2026",
-      "gerado_em": "2026-07-02",
-      "n_fundos": 39,
-      "n_ativos": 328
-    },
-    {
-      "id": "2026-02",
-      "label": "Fevereiro 2026",
-      "gerado_em": "2026-07-02",
-      "n_fundos": 39,
-      "n_ativos": 331
     }
   ]
 }
