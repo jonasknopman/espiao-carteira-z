@@ -12,7 +12,7 @@ const PAD_RIGHT  = 10;
 
 let _mesId;
 let _idx;
-let _allFundos = null;  // lista canônica de 39 nomes, ordem alfabética
+let _raioXAtual = null;
 let _vegaView  = null;
 let _selectedPair = null;  // [fundoA, fundoB] normalizados (ordem alf.) ou null
 
@@ -187,13 +187,16 @@ async function renderHeatmap(mesId) {
   const wrap = document.getElementById('heatmap-wrap');
   wrap.innerHTML = '<div class="ui-loading">Carregando heatmap…</div>';
 
-  let overlapData;
+  let overlapData, raioX;
   try {
-    overlapData = await czLoadOverlap(mesId);
+    [overlapData, raioX] = await Promise.all([czLoadOverlap(mesId), czLoadRaioX(mesId)]);
   } catch (err) {
-    wrap.innerHTML = `<div class="ui-error">Erro ao carregar overlap.<br><small>${err.message}</small></div>`;
+    wrap.innerHTML = `<div class="ui-error">Erro ao carregar dados do heatmap.<br><small>${err.message}</small></div>`;
     return;
   }
+
+  _raioXAtual = raioX;
+  const allFundos = raioX.fundos.map(f => f.nome_curto).sort();
 
   const { grid, fundosComDado } = buildGrid(overlapData);
   const nComDado = fundosComDado.size;
@@ -201,9 +204,9 @@ async function renderHeatmap(mesId) {
   // Nota quando há menos de 39 fundos com dado no mês
   const notaEl = document.getElementById('heatmap-nota');
   if (notaEl) {
-    if (nComDado < _allFundos.length) {
+    if (nComDado < allFundos.length) {
       const mes = _idx.meses.find(m => m.id === mesId);
-      notaEl.textContent = `Em ${mes ? mes.label : mesId}, ${nComDado} de ${_allFundos.length} fundos já divulgaram carteira — células cinzas indicam fundos ainda em período de sigilo.`;
+      notaEl.textContent = `Em ${mes ? mes.label : mesId}, ${nComDado} de ${allFundos.length} fundos já divulgaram carteira — células cinzas indicam fundos ainda em período de sigilo.`;
       notaEl.style.display = 'block';
     } else {
       notaEl.textContent = '';
@@ -211,16 +214,16 @@ async function renderHeatmap(mesId) {
     }
   }
 
-  const flatGrid = buildFlatGrid(_allFundos, grid, fundosComDado);
+  const flatGrid = buildFlatGrid(allFundos, grid, fundosComDado);
 
   wrap.innerHTML = '';
 
   // Mede a largura disponível e calcula cellSize (mín. 12px)
   const outer = document.getElementById('heatmap-outer');
   const containerW = (outer ? outer.clientWidth : 0) || 800;
-  const cellSize = Math.max(Math.floor((containerW - PAD_LEFT - PAD_RIGHT) / _allFundos.length), 12);
+  const cellSize = Math.max(Math.floor((containerW - PAD_LEFT - PAD_RIGHT) / allFundos.length), 12);
 
-  const spec = buildHeatmapSpec(flatGrid, _allFundos, cellSize);
+  const spec = buildHeatmapSpec(flatGrid, allFundos, cellSize);
 
   try {
     const result = await vegaEmbed('#heatmap-wrap', spec, { actions: false, renderer: 'svg' });
@@ -262,17 +265,7 @@ async function mostrarDetalhe(fundoA, fundoB, overlap, mesId) {
       <div class="ui-loading" style="padding:20px 0;font-size:.85em">Carregando ativos em comum…</div>
     </div>`;
 
-  let raioX;
-  try {
-    raioX = await czLoadRaioX(mesId);
-  } catch (err) {
-    wrap.innerHTML = `
-      <div style="background:var(--bg2);border:1.5px solid var(--border);border-radius:var(--radius);padding:16px 18px;box-shadow:var(--shadow);margin-top:16px">
-        <div style="font-size:1.0em;font-weight:700;color:var(--navy);margin-bottom:12px">${titulo}</div>
-        <div class="ui-error" style="margin-top:8px">Erro ao carregar posições.<br><small>${err.message}</small></div>
-      </div>`;
-    return;
-  }
+  const raioX = _raioXAtual;
 
   const comuns = buildCommonAssets(fundoA, fundoB, raioX);
 
@@ -344,17 +337,6 @@ async function init() {
   document.getElementById('mes-select').addEventListener('change', async e => {
     await carregarMes(e.target.value);
   });
-
-  // Deriva lista canônica de fundos do mês mais recente com 39 fundos
-  const mesRef = [...meses].reverse().find(m => m.n_fundos === Math.max(...meses.map(m => m.n_fundos)));
-  try {
-    const raioX = await czLoadRaioX((mesRef || meses[meses.length - 1]).id);
-    _allFundos = raioX.fundos.map(f => f.nome_curto).sort();
-  } catch (err) {
-    document.getElementById('heatmap-wrap').innerHTML =
-      `<div class="ui-error">Erro ao carregar lista de fundos.<br><small>${err.message}</small></div>`;
-    return;
-  }
 
   await carregarMes(_mesId);
 }

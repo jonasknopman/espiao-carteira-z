@@ -209,7 +209,7 @@ function _debounce(fn, ms) {
   return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), ms); };
 }
 
-async function renderHeatmap(setoresData) {
+async function renderHeatmap(setoresData, nExpected) {
   if (_vegaHeatmap) {
     try { _vegaHeatmap.finalize(); } catch (e) { /* ignora */ }
     _vegaHeatmap = null;
@@ -225,7 +225,7 @@ async function renderHeatmap(setoresData) {
   const notaEl = document.getElementById('heatmap-nota');
   if (notaEl) {
     const mesRef = _idx.meses.find(m => m.id === _mesId);
-    const nMax   = Math.max(..._idx.meses.map(m => m.n_fundos));
+    const nMax   = nExpected;
     if (notaEl) {
       if (fundos.length < nMax) {
         notaEl.textContent = `Em ${mesRef ? mesRef.label : _mesId}, apenas ${fundos.length} de ${nMax} fundos já divulgaram carteira.`;
@@ -321,11 +321,11 @@ async function carregarMes(mesId) {
   if (wrapH) wrapH.innerHTML = '<div class="ui-loading">Carregando…</div>';
   if (wrapB) wrapB.innerHTML = '<div class="ui-loading">Carregando…</div>';
 
-  let setoresData;
+  let setoresData, raioX;
   try {
-    setoresData = await czLoadSetores(mesId);
+    [setoresData, raioX] = await Promise.all([czLoadSetores(mesId), czLoadRaioX(mesId)]);
   } catch (err) {
-    if (wrapH) wrapH.innerHTML = `<div class="ui-error">Erro ao carregar setores.<br><small>${err.message}</small></div>`;
+    if (wrapH) wrapH.innerHTML = `<div class="ui-error">Erro ao carregar dados de setores.<br><small>${err.message}</small></div>`;
     return;
   }
   _setoresData = setoresData;
@@ -337,7 +337,7 @@ async function carregarMes(mesId) {
   _setorSel = setorAtual;
   renderSetorSelect(setoresData.setores, setorAtual);
 
-  await renderHeatmap(setoresData);
+  await renderHeatmap(setoresData, raioX.fundos.length);
   await renderBars(setorAtual);
 }
 
