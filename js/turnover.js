@@ -50,7 +50,7 @@ async function init() {
   });
 
   document.getElementById('chips-todos').addEventListener('click', () => {
-    _selectedFundos = new Set(_turnoverData.fundos.map(f => f.nome_curto));
+    _selectedFundos = new Set(fundosDoMes(_mesId));
     document.querySelectorAll('#chips-wrap .tv-chip').forEach(c => c.classList.add('selected'));
     onSelectionChange();
   });
@@ -69,7 +69,7 @@ async function init() {
   }
 
   _chartRows = buildChartRows(_turnoverData);
-  _selectedFundos = new Set(_turnoverData.fundos.map(f => f.nome_curto));
+  _selectedFundos = new Set(fundosDoMes(_mesId));
 
   renderChips();
   updateScaleToggle();
@@ -92,6 +92,11 @@ function buildTableData(dados, mesId) {
 }
 
 // ── buildChartRows ─────────────────────────────────────────────────────────────
+
+// Retorna lista ordenada de fundos com dado no mês selecionado.
+function fundosDoMes(mesId) {
+  return buildTableData(_turnoverData, mesId).map(r => r.nome_curto).sort((a, b) => a.localeCompare(b, 'pt-BR'));
+}
 
 // Exportada para testes
 function buildChartRows(dados) {
@@ -186,9 +191,7 @@ function renderChips() {
   const wrap = document.getElementById('chips-wrap');
   if (!wrap || !_turnoverData) return;
 
-  const nomes = _turnoverData.fundos
-    .map(f => f.nome_curto)
-    .sort((a, b) => a.localeCompare(b, 'pt-BR'));
+  const nomes = fundosDoMes(_mesId);
 
   wrap.innerHTML = nomes.map(nome =>
     `<button class="tv-chip${_selectedFundos.has(nome) ? ' selected' : ''}" data-fundo="${nome}">${nome}</button>`
@@ -367,7 +370,10 @@ function renderTabela() {
   document.getElementById('mes-select').addEventListener('change', e => {
     _mesId = e.target.value;
     czPushParams({ mes: _mesId });
+    _selectedFundos = new Set(fundosDoMes(_mesId));
+    renderChips();
     renderTabela();
+    renderChart();
   });
 
   document.getElementById('tv-thead').addEventListener('click', e => {
