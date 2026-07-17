@@ -514,13 +514,23 @@ function _renderEvolucaoShell(loading) {
 
   // O navegador filtra as <option> do datalist pelo texto atual do input — com o
   // código já selecionado preenchido, só a própria opção passa no filtro. Limpamos
-  // o texto ao focar para o datalist voltar a oferecer a lista completa; se o
-  // usuário desistir sem escolher nada novo, repomos o valor anterior no blur.
+  // o texto pra o datalist voltar a oferecer a lista completa; se o usuário
+  // desistir sem escolher nada novo, repomos o valor anterior no blur.
+  //
+  // Ordem real dos eventos do navegador: mousedown → focus → mouseup → click.
+  // O popup do datalist é montado no mousedown/focus, ANTES do click — limpar só
+  // no 'click' (tentativa anterior) deixava o popup já desenhado com o valor
+  // antigo. Limpamos no 'mousedown' (mantendo 'focus' para navegação via
+  // Tab/teclado, que não passa por mousedown). Combinado com o blur() forçado no
+  // 'change' abaixo, todo clique subsequente do usuário é sempre um ciclo
+  // mousedown→focus genuíno (nunca um clique num campo que já estava focado).
   let mudouDesdeFoco = false;
-  input.addEventListener('focus', () => {
+  const limparParaSugestoes = () => {
     mudouDesdeFoco = false;
     input.value = '';
-  });
+  };
+  input.addEventListener('mousedown', limparParaSugestoes);
+  input.addEventListener('focus', limparParaSugestoes);
   input.addEventListener('blur', () => {
     if (!mudouDesdeFoco && input.value.trim() === '' && _ativoSelecionado) {
       input.value = _ativoSelecionado;
@@ -530,6 +540,7 @@ function _renderEvolucaoShell(loading) {
     mudouDesdeFoco = true;
     const codigo = e.target.value.trim().toUpperCase();
     if (codigo && codigos.includes(codigo)) selecionarAtivoEvolucao(codigo);
+    e.target.blur();
   });
 }
 
@@ -538,7 +549,13 @@ function selecionarAtivoEvolucao(codigo) {
   _ativoSelecionado = codigo;
 
   const input = document.getElementById('evol-ativo-input');
-  if (input) input.value = codigo;
+  if (input) {
+    input.value = codigo;
+    // Garante que toda seleção termina com o campo sem foco: chamado pelo clique
+    // na tabela (nunca focado, é um no-op) ou pelo 'change' do próprio input
+    // (já dá blur lá, mas reforçamos aqui por ser o ponto único de seleção).
+    input.blur();
+  }
 
   // Histórico do fundo atual ainda carregando: aplicado quando o fetch terminar
   // (ver carregarEvolucaoAtivo).
