@@ -91,6 +91,40 @@
     #destaques   { margin-bottom: 20px; }
     #tabela-posicoes { margin-bottom: 8px; }
 
+    /* ── Evolução do ativo ── */
+    #evolucao-ativo { margin-bottom: 20px; }
+    .evol-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+    #evol-ativo-input {
+      font-family: var(--font);
+      font-size: 0.88em;
+      font-weight: 600;
+      color: var(--navy);
+      background: var(--bg2);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 7px 12px;
+      outline: none;
+      min-width: 160px;
+    }
+    #evol-ativo-input:focus { border-color: var(--accent); }
+    #evol-chart-wrap {
+      background: var(--bg2);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 12px 12px;
+      box-shadow: var(--shadow);
+      overflow-x: auto;
+    }
+
+    /* Linhas da tabela completa são clicáveis: selecionam o ativo na evolução */
+    #rx-tabela-tbody tr { cursor: pointer; }
+
     @media (max-width: 600px) {
       .es-grid { grid-template-columns: 1fr; }
       #fundo-select { max-width: 100%; }

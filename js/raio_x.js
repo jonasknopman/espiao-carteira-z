@@ -9,6 +9,12 @@ let _tabelaSortDir = 'desc';
 let _destSortCol   = 'variacao';
 let _destSortDir   = 'desc';
 
+// Histórico completo do fundo atualmente selecionado (para a evolução do ativo).
+// Cacheado por fundo para não re-buscar ao trocar só o ativo selecionado.
+let _fundoHistorico     = null;
+let _fundoHistoricoNome = null;
+let _ativoSelecionado   = null;
+
 // ── Bootstrap ─────────────────────────────────────────────────────────────────
 
 async function init() {
@@ -74,6 +80,7 @@ async function carregarMes(mesId, fundoParam) {
 
 function renderFundo(nomeCurto) {
   _fundoNome = nomeCurto;
+  _ativoSelecionado = null;
   czPushParams({ mes: _mesId, fundo: nomeCurto });
 
   const fundo = _raioXData.fundos.find(f => f.nome_curto === nomeCurto);
@@ -100,6 +107,7 @@ function renderFundo(nomeCurto) {
     <div class="section-title" id="chart-title"></div>
     <div id="chart-legend" class="chart-legend"></div>
     <div id="chart-wrap" class="chart-wrap"></div>
+    <div id="evolucao-ativo"></div>
     <div id="entradas-saidas"></div>
     <div id="destaques"></div>
     <div id="tabela-posicoes"></div>
@@ -115,6 +123,9 @@ function renderFundo(nomeCurto) {
   renderEntradasSaidas(posicoes);
   renderDestaques(posicoes);
   renderTabelaCompleta(posicoes);
+
+  // Carregado à parte, sem bloquear o resto do render (que já funciona com o mês atual).
+  carregarEvolucaoAtivo(nomeCurto);
 }
 
 // ── Stats ─────────────────────────────────────────────────────────────────────
@@ -381,7 +392,7 @@ function _renderTabelaBody(lista) {
                    : p.variacao < 0 ? 'neg'
                    : '';
     return `
-      <tr>
+      <tr data-codigo="${p.codigo}">
         <td class="mono">${badge}${p.codigo}</td>
         <td class="num">${czFmtPct(p.tamanho)}</td>
         <td class="num">${p.tamanho_anterior != null ? czFmtPct(p.tamanho_anterior) : '—'}</td>
@@ -421,6 +432,170 @@ function renderTabelaCompleta(posicoes) {
     });
     document.getElementById('rx-tabela-tbody').innerHTML = _renderTabelaBody(lista);
   });
+
+  document.getElementById('rx-tabela-tbody').addEventListener('click', e => {
+    const tr = e.target.closest('tr[data-codigo]');
+    if (!tr) return;
+    selecionarAtivoEvolucao(tr.dataset.codigo);
+  });
+}
+
+// ── Evolução do ativo ────────────────────────────────────────────────────────
+
+// Carrega o histórico completo do fundo (todo o `historico`, não só o mês
+// selecionado) para popular o seletor de ativo e desenhar a série temporal.
+// Disparado à parte de renderFundo, sem bloquear o resto do render.
+async function carregarEvolucaoAtivo(nomeCurto) {
+  _renderEvolucaoShell(true);
+
+  let fundoData;
+  try {
+    fundoData = await czLoadFundo(czNomeSafe(nomeCurto));
+  } catch (err) {
+    const el = document.getElementById('evolucao-ativo');
+    if (el) el.innerHTML = `<div class="ui-error">Erro ao carregar histórico do ativo.<br><small>${err.message}</small></div>`;
+    return;
+  }
+
+  // Corrida: usuário pode ter trocado de fundo antes do fetch terminar.
+  if (nomeCurto !== _fundoNome) return;
+
+  _fundoHistorico     = fundoData.historico || [];
+  _fundoHistoricoNome = nomeCurto;
+
+  _renderEvolucaoShell(false);
+
+  if (_ativoSelecionado) {
+    const input = document.getElementById('evol-ativo-input');
+    if (input) input.value = _ativoSelecionado;
+    renderEvolucaoChart(_ativoSelecionado);
+  }
+}
+
+function _renderEvolucaoShell(loading) {
+  const el = document.getElementById('evolucao-ativo');
+  if (!el) return;
+
+  if (loading) {
+    el.innerHTML = `
+      <div class="section-title">Evolução do ativo</div>
+      <div class="ui-loading" style="padding:8px 0;font-size:.83em">Carregando histórico…</div>
+    `;
+    return;
+  }
+
+  // União de todos os códigos que já apareceram no fundo (inclui os que já saíram).
+  const codigos = [...new Set(
+    _fundoHistorico.flatMap(h => (h.posicoes || []).map(p => p.codigo))
+  )].sort((a, b) => a.localeCompare(b, 'pt-BR'));
+
+  el.innerHTML = `
+    <div class="section-title">Evolução do ativo</div>
+    <div class="evol-header">
+      <input id="evol-ativo-input" list="evol-ativo-list" placeholder="Buscar ativo…" autocomplete="off">
+      <datalist id="evol-ativo-list">${codigos.map(c => `<option value="${c}">`).join('')}</datalist>
+    </div>
+    <div id="evol-chart-wrap" class="chart-wrap">
+      <div class="ui-empty">Selecione um ativo para ver a evolução.</div>
+    </div>
+  `;
+
+  document.getElementById('evol-ativo-input').addEventListener('change', e => {
+    const codigo = e.target.value.trim().toUpperCase();
+    if (codigo && codigos.includes(codigo)) selecionarAtivoEvolucao(codigo);
+  });
+}
+
+// Chamado tanto pelo seletor quanto pelo clique numa linha da tabela completa.
+function selecionarAtivoEvolucao(codigo) {
+  _ativoSelecionado = codigo;
+
+  const input = document.getElementById('evol-ativo-input');
+  if (input) input.value = codigo;
+
+  // Histórico do fundo atual ainda carregando: aplicado quando o fetch terminar
+  // (ver carregarEvolucaoAtivo).
+  if (_fundoHistoricoNome !== _fundoNome) return;
+
+  renderEvolucaoChart(codigo);
+
+  const container = document.getElementById('evolucao-ativo');
+  if (container) container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function renderEvolucaoChart(codigo) {
+  const wrap = document.getElementById('evol-chart-wrap');
+  if (!wrap) return;
+
+  const historico = [...(_fundoHistorico || [])].sort((a, b) => a.mes_id.localeCompare(b.mes_id));
+
+  // Filtra (não interpola) os meses em que o ativo está ausente/zerado — evita
+  // sugerir visualmente uma posição residual que não existe.
+  const longData = [];
+  for (const h of historico) {
+    const pos = (h.posicoes || []).find(p => p.codigo === codigo);
+    if (!pos || !(pos.tamanho > 0)) continue;
+    longData.push({
+      mes_id:    h.mes_id,
+      mes_label: czMesLabel(h.mes_id),
+      data_ref:  h.data_ref,
+      tamanho:   pos.tamanho
+    });
+  }
+
+  if (longData.length === 0) {
+    wrap.innerHTML = `<div class="ui-empty">Sem histórico de posição para ${codigo}.</div>`;
+    return;
+  }
+
+  wrap.innerHTML = '';
+  const chartWidth = (wrap.clientWidth || wrap.offsetWidth || 620) - 32;
+
+  const spec = {
+    $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+    width: chartWidth,
+    height: 240,
+    data: { values: longData },
+    mark: { type: 'line', point: true, color: '#3b82f6' },
+    encoding: {
+      x: {
+        field: 'mes_label', type: 'ordinal',
+        sort: longData.map(d => d.mes_label),
+        axis: { title: null, labelAngle: -40, labelFontSize: 11 }
+      },
+      y: {
+        field: 'tamanho', type: 'quantitative',
+        scale: { domainMin: 0 },
+        axis: { format: '.0%', title: null, gridColor: '#e2e4ea', tickCount: 5 }
+      },
+      tooltip: [
+        { field: 'mes_label', title: 'Mês' },
+        { field: 'data_ref',  title: 'Data ref.' },
+        { field: 'tamanho',   title: 'Peso', format: '.2%' }
+      ]
+    },
+    config: {
+      view: { stroke: null },
+      axis: { domainColor: '#e2e4ea' }
+    }
+  };
+
+  if (window._czRxEvolResizeHandler) {
+    window.removeEventListener('resize', window._czRxEvolResizeHandler);
+    window._czRxEvolResizeHandler = null;
+  }
+
+  vegaEmbed('#evol-chart-wrap', spec, { actions: false, renderer: 'svg' })
+    .then(({ view }) => {
+      window._czRxEvolResizeHandler = _debounce(() => {
+        const w = (wrap.clientWidth || wrap.offsetWidth || 620) - 32;
+        view.signal('width', w).run();
+      }, 200);
+      window.addEventListener('resize', window._czRxEvolResizeHandler);
+    })
+    .catch(err => {
+      wrap.innerHTML = `<div class="ui-error">Erro ao renderizar gráfico.<br><small>${err}</small></div>`;
+    });
 }
 
 // ── Start ─────────────────────────────────────────────────────────────────────
