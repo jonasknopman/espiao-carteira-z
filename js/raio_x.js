@@ -15,6 +15,11 @@ let _fundoHistorico     = null;
 let _fundoHistoricoNome = null;
 let _ativoSelecionado   = null;
 
+// Instância Vega ativa do gráfico de evolução — precisa de finalize() explícito
+// antes de descartar/recriar (innerHTML sozinho deixa o runtime antigo órfão,
+// causando corrupção visual no gráfico seguinte sobre o mesmo container).
+let _evolChartView = null;
+
 // ── Bootstrap ─────────────────────────────────────────────────────────────────
 
 async function init() {
@@ -81,6 +86,10 @@ async function carregarMes(mesId, fundoParam) {
 function renderFundo(nomeCurto) {
   _fundoNome = nomeCurto;
   _ativoSelecionado = null;
+  if (_evolChartView) {
+    _evolChartView.finalize();
+    _evolChartView = null;
+  }
   czPushParams({ mes: _mesId, fundo: nomeCurto });
 
   const fundo = _raioXData.fundos.find(f => f.nome_curto === nomeCurto);
@@ -500,7 +509,25 @@ function _renderEvolucaoShell(loading) {
     </div>
   `;
 
-  document.getElementById('evol-ativo-input').addEventListener('change', e => {
+  const input = document.getElementById('evol-ativo-input');
+  if (_ativoSelecionado) input.value = _ativoSelecionado;
+
+  // O navegador filtra as <option> do datalist pelo texto atual do input — com o
+  // código já selecionado preenchido, só a própria opção passa no filtro. Limpamos
+  // o texto ao focar para o datalist voltar a oferecer a lista completa; se o
+  // usuário desistir sem escolher nada novo, repomos o valor anterior no blur.
+  let mudouDesdeFoco = false;
+  input.addEventListener('focus', () => {
+    mudouDesdeFoco = false;
+    input.value = '';
+  });
+  input.addEventListener('blur', () => {
+    if (!mudouDesdeFoco && input.value.trim() === '' && _ativoSelecionado) {
+      input.value = _ativoSelecionado;
+    }
+  });
+  input.addEventListener('change', e => {
+    mudouDesdeFoco = true;
     const codigo = e.target.value.trim().toUpperCase();
     if (codigo && codigos.includes(codigo)) selecionarAtivoEvolucao(codigo);
   });
@@ -527,6 +554,14 @@ function renderEvolucaoChart(codigo) {
   const wrap = document.getElementById('evol-chart-wrap');
   if (!wrap) return;
 
+  // A instância anterior precisa ser finalizada explicitamente antes de descartar
+  // o DOM: innerHTML remove os elementos, mas o runtime do Vega (listeners,
+  // signals) continua vivo se não for finalizado.
+  if (_evolChartView) {
+    _evolChartView.finalize();
+    _evolChartView = null;
+  }
+
   const historico = [...(_fundoHistorico || [])].sort((a, b) => a.mes_id.localeCompare(b.mes_id));
 
   // Filtra (não interpola) os meses em que o ativo está ausente/zerado — evita
@@ -542,6 +577,18 @@ function renderEvolucaoChart(codigo) {
       tamanho:   pos.tamanho
     });
   }
+
+  // vegaEmbed acrescenta a classe "vega-embed" (display: inline-block, ver seu
+  // próprio stylesheet) diretamente no elemento alvo — não num wrapper interno.
+  // Como #evol-chart-wrap é reaproveitado entre trocas de ativo (só o innerHTML
+  // é limpo, o nó nunca é recriado), essa classe fica órfã de uma renderização
+  // pra outra: com o conteúdo vazio e display:inline-block, o container encolhe
+  // para caber no conteúdo (largura ~0) antes do próximo embed, fazendo o
+  // próximo gráfico calcular uma largura inválida (negativa) e colapsar todos
+  // os pontos no eixo X. Resetar classe/estilo devolve o comportamento de bloco
+  // normal (100% do container pai) antes de medir a largura de novo.
+  wrap.className = 'chart-wrap';
+  wrap.removeAttribute('style');
 
   if (longData.length === 0) {
     wrap.innerHTML = `<div class="ui-empty">Sem histórico de posição para ${codigo}.</div>`;
@@ -587,6 +634,7 @@ function renderEvolucaoChart(codigo) {
 
   vegaEmbed('#evol-chart-wrap', spec, { actions: false, renderer: 'svg' })
     .then(({ view }) => {
+      _evolChartView = view;
       window._czRxEvolResizeHandler = _debounce(() => {
         const w = (wrap.clientWidth || wrap.offsetWidth || 620) - 32;
         view.signal('width', w).run();
