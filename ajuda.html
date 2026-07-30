@@ -78,11 +78,16 @@
     <div class="ajuda-section-title">🔀 Mapa de Overlap</div>
     <p>Mostra o quanto dois fundos investem nos <em>mesmos</em> ativos ao mesmo tempo. Quanto maior o overlap, mais os dois fundos "apostam" nas mesmas empresas — o que reduz a diversificação real entre eles.</p>
     <p>O <strong>heatmap</strong> é uma grade de fundos × fundos. Cada célula representa um par: a intensidade da cor indica o percentual de sobreposição. <span class="cor-amostra" style="background:#f0f4ff;"></span> branco = overlap próximo de zero; <span class="cor-amostra" style="background:#1d4ed8;"></span> azul escuro = overlap alto. A escala de cor é a mesma em todos os meses, permitindo comparação direta.</p>
+    <p>Os botões <strong>"Por Ativo" / "Por Setor"</strong> no topo alternam entre duas visões:</p>
+    <ul>
+      <li><strong>Por Ativo</strong> — overlap calculado ativo a ativo (ex.: os dois fundos têm PETR4 em comum). É a visão mais "literal" de sobreposição.</li>
+      <li><strong>Por Setor</strong> — overlap agregado por setor da economia (classificação NAICS, a mesma da Distribuição Setorial). Captura um risco que o overlap por ativo pode esconder: dois fundos podem não ter nenhum ativo em comum (um concentrado em Bradesco, outro em Itaú, por exemplo) e ainda assim ter overlap setorial altíssimo, porque os dois estão apostando no mesmo setor — se o setor financeiro sofrer, as duas carteiras sofrem juntas. Por isso o overlap por setor costuma ser <em>maior</em> que o overlap por ativo entre o mesmo par de fundos.</li>
+    </ul>
     <ul>
       <li><strong>Célula cinza escura</strong> — diagonal: comparação de um fundo com ele mesmo. Sem significado.</li>
       <li><strong>Célula cinza clara</strong> — um dos dois fundos ainda não divulgou a carteira para este mês (em sigilo). Sem dado disponível.</li>
     </ul>
-    <p><strong>Clique em qualquer célula colorida</strong> para ver a lista dos ativos em comum, com o peso de cada um nos dois fundos e o valor mínimo — que determina a contribuição daquele ativo para o overlap do par.</p>
+    <p><strong>Clique em qualquer célula colorida</strong> para ver a lista dos ativos (ou setores, no modo "Por Setor") em comum, com o peso de cada um nos dois fundos e o valor mínimo — que determina a contribuição daquele item para o overlap do par.</p>
   </div>
 
   <!-- Turnover -->
@@ -128,7 +133,7 @@
 
     <div class="gloss-item">
       <div class="gloss-term">Overlap entre dois fundos</div>
-      <div class="gloss-def">Para cada ativo em comum, o overlap considera o <em>mínimo</em> do peso nos dois fundos — a parte que ambos efetivamente compartilham. O overlap total é a soma desses mínimos em todos os ativos em comum. Resultado entre 0% (nenhum ativo em comum) e 100% (carteiras idênticas). Um overlap de 30% entre dois fundos significa que, na pior hipótese, 30% da carteira de ambos se moveria na mesma direção por causa dos mesmos ativos.</div>
+      <div class="gloss-def">Para cada ativo (ou setor, no modo "Por Setor") em comum, o overlap considera o <em>mínimo</em> do peso nos dois fundos — a parte que ambos efetivamente compartilham. O overlap total é a soma desses mínimos em todos os itens em comum. Resultado entre 0% (nada em comum) e 100% (carteiras idênticas, ou mesma alocação setorial). Um overlap de 30% entre dois fundos significa que, na pior hipótese, 30% da carteira de ambos se moveria na mesma direção por causa dos mesmos ativos (ou do mesmo setor).</div>
     </div>
 
     <div class="gloss-item">

@@ -33,6 +33,10 @@ async function czLoadOverlap(mesId) {
   return czFetch(`${CZ_DATA}/${mesId}/overlap.json`);
 }
 
+async function czLoadOverlapSetor(mesId) {
+  return czFetch(`${CZ_DATA}/${mesId}/overlap_setor.json`);
+}
+
 async function czLoadRanking() {
   return czFetch(`${CZ_DATA}/ranking.json`);
 }

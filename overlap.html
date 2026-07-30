@@ -54,6 +54,33 @@
     /* Na tabela de ativos em comum do painel de detalhe, alinha tudo à esquerda */
     #detalhe-wrap .num { text-align: left; }
 
+    /* Toggle Ativo/Setor — segmentado, dois botões lado a lado */
+    .modo-seg {
+      display: inline-flex;
+      border: 1.5px solid var(--border);
+      border-radius: 20px;
+      overflow: hidden;
+      background: var(--bg2);
+    }
+    .modo-seg button {
+      font-family: var(--font);
+      font-size: 0.82em;
+      font-weight: 600;
+      color: var(--text2);
+      background: transparent;
+      border: none;
+      padding: 6px 16px;
+      cursor: pointer;
+      transition: background .15s, color .15s;
+    }
+    .modo-seg button.ativo {
+      background: var(--navy);
+      color: #fff;
+    }
+    .modo-seg button:not(.ativo):hover {
+      color: var(--accent);
+    }
+
     @media (max-width: 600px) {
       .ol-header { flex-direction: column; align-items: flex-start; }
     }
@@ -68,7 +95,11 @@
 
   <!-- ── Cabeçalho ── -->
   <div class="ol-header">
-    <div class="ol-title">Overlap entre Gestores</div>
+    <div class="ol-title" id="ol-titulo">Overlap entre Ativos</div>
+    <div class="modo-seg" role="group" aria-label="Alternar visão do overlap">
+      <button id="modo-ativo" class="ativo" type="button">Por Ativo</button>
+      <button id="modo-setor" type="button">Por Setor</button>
+    </div>
     <div id="mes-container">
       <select class="mes-select" disabled><option>Carregando…</option></select>
     </div>

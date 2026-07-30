@@ -12,7 +12,9 @@ const PAD_RIGHT  = 10;
 
 let _mesId;
 let _idx;
+let _modo = 'ativo';       // 'ativo' ou 'setor'
 let _raioXAtual = null;
+let _setoresAtual = null;
 let _vegaView  = null;
 let _selectedPair = null;  // [fundoA, fundoB] normalizados (ordem alf.) ou null
 
@@ -72,6 +74,29 @@ function buildCommonAssets(fundoA, fundoB, raioXData) {
         peso_a:   mapA[p.codigo],
         peso_b:   p.tamanho,
         min_peso: Math.min(p.tamanho, mapA[p.codigo]),
+      });
+    }
+  }
+  return result.sort((a, b) => b.min_peso - a.min_peso);
+}
+
+// Retorna setores em comum entre dois fundos, ordenados por min(peso_A, peso_B) desc.
+// Mesma lógica de buildCommonAssets, mas sobre setores.json (pesos por setor).
+// Exportada para testes.
+function buildCommonSectors(fundoA, fundoB, setoresData) {
+  const fa = setoresData.fundos.find(f => f.nome_curto === fundoA);
+  const fb = setoresData.fundos.find(f => f.nome_curto === fundoB);
+  if (!fa || !fb) return [];
+  const result = [];
+  for (const setor of setoresData.setores) {
+    const pesoA = fa.pesos[setor] || 0;
+    const pesoB = fb.pesos[setor] || 0;
+    if (pesoA > 0 && pesoB > 0) {
+      result.push({
+        codigo:   setor,
+        peso_a:   pesoA,
+        peso_b:   pesoB,
+        min_peso: Math.min(pesoA, pesoB),
       });
     }
   }
@@ -187,15 +212,20 @@ async function renderHeatmap(mesId) {
   const wrap = document.getElementById('heatmap-wrap');
   wrap.innerHTML = '<div class="ui-loading">Carregando heatmap…</div>';
 
-  let overlapData, raioX;
+  const loadOverlap = _modo === 'setor' ? czLoadOverlapSetor(mesId) : czLoadOverlap(mesId);
+
+  let overlapData, raioX, setores;
   try {
-    [overlapData, raioX] = await Promise.all([czLoadOverlap(mesId), czLoadRaioX(mesId)]);
+    [overlapData, raioX, setores] = await Promise.all([
+      loadOverlap, czLoadRaioX(mesId), czLoadSetores(mesId),
+    ]);
   } catch (err) {
     wrap.innerHTML = `<div class="ui-error">Erro ao carregar dados do heatmap.<br><small>${err.message}</small></div>`;
     return;
   }
 
-  _raioXAtual = raioX;
+  _raioXAtual   = raioX;
+  _setoresAtual = setores;
   const allFundos = raioX.fundos.map(f => f.nome_curto).sort();
 
   const { grid, fundosComDado } = buildGrid(overlapData);
@@ -258,22 +288,25 @@ async function mostrarDetalhe(fundoA, fundoB, overlap, mesId) {
   if (!wrap) return;
 
   const titulo = `${fundoA} × ${fundoB} — Overlap: ${czFmtPct(overlap, 1)}`;
+  const colunaLabel = _modo === 'setor' ? 'Setor' : 'Ativo';
+  const textoVazio  = _modo === 'setor' ? 'Nenhum setor em comum encontrado.'
+                                         : 'Nenhum ativo em comum encontrado.';
 
   wrap.innerHTML = `
     <div style="background:var(--bg2);border:1.5px solid var(--border);border-radius:var(--radius);padding:16px 18px;box-shadow:var(--shadow);margin-top:16px">
       <div style="font-size:1.0em;font-weight:700;color:var(--navy);margin-bottom:12px">${titulo}</div>
-      <div class="ui-loading" style="padding:20px 0;font-size:.85em">Carregando ativos em comum…</div>
+      <div class="ui-loading" style="padding:20px 0;font-size:.85em">Carregando ${_modo === 'setor' ? 'setores' : 'ativos'} em comum…</div>
     </div>`;
 
-  const raioX = _raioXAtual;
-
-  const comuns = buildCommonAssets(fundoA, fundoB, raioX);
+  const comuns = _modo === 'setor'
+    ? buildCommonSectors(fundoA, fundoB, _setoresAtual)
+    : buildCommonAssets(fundoA, fundoB, _raioXAtual);
 
   if (comuns.length === 0) {
     wrap.innerHTML = `
       <div style="background:var(--bg2);border:1.5px solid var(--border);border-radius:var(--radius);padding:16px 18px;box-shadow:var(--shadow);margin-top:16px">
         <div style="font-size:1.0em;font-weight:700;color:var(--navy);margin-bottom:12px">${titulo}</div>
-        <div class="ui-empty" style="padding:20px 0">Nenhum ativo em comum encontrado.</div>
+        <div class="ui-empty" style="padding:20px 0">${textoVazio}</div>
       </div>`;
     return;
   }
@@ -293,7 +326,7 @@ async function mostrarDetalhe(fundoA, fundoB, overlap, mesId) {
         <table class="cz-table">
           <thead>
             <tr>
-              <th>Ativo</th>
+              <th>${colunaLabel}</th>
               <th>${fundoA}</th>
               <th>${fundoB}</th>
               <th>Mínimo</th>
@@ -315,10 +348,36 @@ async function carregarMes(mesId) {
   await renderHeatmap(mesId);
 }
 
+// ── Toggle ativo / setor ─────────────────────────────────────────────────────
+
+function atualizarBotaoModo() {
+  const btnAtivo = document.getElementById('modo-ativo');
+  const btnSetor = document.getElementById('modo-setor');
+  const titulo   = document.getElementById('ol-titulo');
+  if (btnAtivo) btnAtivo.classList.toggle('ativo', _modo === 'ativo');
+  if (btnSetor) btnSetor.classList.toggle('ativo', _modo === 'setor');
+  if (titulo)   titulo.textContent = _modo === 'setor' ? 'Overlap entre Setores' : 'Overlap entre Ativos';
+}
+
+async function selecionarModo(modo) {
+  if (_modo === modo) return;
+  _modo = modo;
+  atualizarBotaoModo();
+  _selectedPair = null;
+  document.getElementById('detalhe-wrap').innerHTML = '';
+  await renderHeatmap(_mesId);
+}
+
 // ── Bootstrap ──────────────────────────────────────────────────────────────────
 
 async function init() {
   document.getElementById('nav').innerHTML = czRenderNav('overlap');
+
+  atualizarBotaoModo();
+  const btnAtivo = document.getElementById('modo-ativo');
+  const btnSetor = document.getElementById('modo-setor');
+  if (btnAtivo) btnAtivo.addEventListener('click', () => selecionarModo('ativo'));
+  if (btnSetor) btnSetor.addEventListener('click', () => selecionarModo('setor'));
 
   let idx;
   try {
