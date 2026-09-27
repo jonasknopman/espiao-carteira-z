@@ -1103,6 +1103,93 @@
           "saiu": true
         }
       ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2026-02-28",
+      "data_ref_anterior": "2026-01-31",
+      "posicoes": [
+        {
+          "codigo": "UGPA3",
+          "tamanho": 0.24636,
+          "tamanho_anterior": 0.260756,
+          "variacao": -0.014395,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.18239,
+          "tamanho_anterior": 0.191783,
+          "variacao": -0.009394,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KLBN11",
+          "tamanho": 0.177283,
+          "tamanho_anterior": 0.174707,
+          "variacao": 0.002576,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.133556,
+          "tamanho_anterior": 0.106434,
+          "variacao": 0.027123,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.097293,
+          "tamanho_anterior": 0.095192,
+          "variacao": 0.002101,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FLRY3",
+          "tamanho": 0.062313,
+          "tamanho_anterior": 0.067036,
+          "variacao": -0.004723,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.042502,
+          "tamanho_anterior": 0.042813,
+          "variacao": -0.000311,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.028448,
+          "tamanho_anterior": 0.031971,
+          "variacao": -0.003524,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GOAU4",
+          "tamanho": 0.010779,
+          "tamanho_anterior": 0.007612,
+          "variacao": 0.003168,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.001001,
+          "tamanho_anterior": 0.000965,
+          "variacao": 0.000036,
+          "novo": false,
+          "saiu": false
+        }
+      ]
     }
   ]
 }

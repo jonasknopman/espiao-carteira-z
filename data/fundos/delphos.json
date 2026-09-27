@@ -1343,6 +1343,125 @@
           "saiu": false
         }
       ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2026-02-28",
+      "data_ref_anterior": "2026-01-31",
+      "posicoes": [
+        {
+          "codigo": "KEPL3",
+          "tamanho": 0.2955,
+          "tamanho_anterior": 0.263856,
+          "variacao": 0.031644,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LEVE3",
+          "tamanho": 0.185801,
+          "tamanho_anterior": 0.163956,
+          "variacao": 0.021845,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.11374,
+          "tamanho_anterior": 0.211653,
+          "variacao": -0.097914,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RSUL4",
+          "tamanho": 0.097938,
+          "tamanho_anterior": 0.075754,
+          "variacao": 0.022184,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "POMO4",
+          "tamanho": 0.06782,
+          "tamanho_anterior": 0.056279,
+          "variacao": 0.011541,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FESA4",
+          "tamanho": 0.061445,
+          "tamanho_anterior": 0.061694,
+          "variacao": -0.000249,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BAZA3",
+          "tamanho": 0.055728,
+          "tamanho_anterior": 0.047264,
+          "variacao": 0.008463,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEBR5",
+          "tamanho": 0.033025,
+          "tamanho_anterior": 0.026312,
+          "variacao": 0.006712,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMTO3",
+          "tamanho": 0.02745,
+          "tamanho_anterior": 0.019153,
+          "variacao": 0.008297,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RECV3",
+          "tamanho": 0.01706,
+          "tamanho_anterior": 0.016638,
+          "variacao": 0.000422,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRPG6",
+          "tamanho": 0.012875,
+          "tamanho_anterior": 0.010094,
+          "variacao": 0.002781,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEBR6",
+          "tamanho": 0.004208,
+          "tamanho_anterior": 0.00369,
+          "variacao": 0.000517,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRPG5",
+          "tamanho": 0.003318,
+          "tamanho_anterior": 0.002979,
+          "variacao": 0.000339,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TUPY3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.027242,
+          "variacao": -0.027242,
+          "novo": false,
+          "saiu": true
+        }
+      ]
     }
   ]
 }

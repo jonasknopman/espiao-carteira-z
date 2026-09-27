@@ -1183,6 +1183,101 @@
           "saiu": false
         }
       ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2026-02-28",
+      "data_ref_anterior": "2026-01-31",
+      "posicoes": [
+        {
+          "codigo": "EUCA4",
+          "tamanho": 0.194134,
+          "tamanho_anterior": 0.199146,
+          "variacao": -0.005012,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "KEPL3",
+          "tamanho": 0.191381,
+          "tamanho_anterior": 0.205794,
+          "variacao": -0.014412,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LEVE3",
+          "tamanho": 0.175179,
+          "tamanho_anterior": 0.172062,
+          "variacao": 0.003117,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SHUL4",
+          "tamanho": 0.109983,
+          "tamanho_anterior": 0.108587,
+          "variacao": 0.001396,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PTNT4",
+          "tamanho": 0.0858,
+          "tamanho_anterior": 0.086859,
+          "variacao": -0.001059,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "POMO3",
+          "tamanho": 0.072912,
+          "tamanho_anterior": 0.068415,
+          "variacao": 0.004496,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "UNIP6",
+          "tamanho": 0.063728,
+          "tamanho_anterior": 0.05974,
+          "variacao": 0.003988,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "WLMM4",
+          "tamanho": 0.041197,
+          "tamanho_anterior": 0.035908,
+          "variacao": 0.005289,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TUPY3",
+          "tamanho": 0.025217,
+          "tamanho_anterior": 0.023736,
+          "variacao": 0.001481,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRPG6",
+          "tamanho": 0.008439,
+          "tamanho_anterior": 0.007932,
+          "variacao": 0.000506,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FESA3",
+          "tamanho": 0.001362,
+          "tamanho_anterior": 0.001368,
+          "variacao": -6e-06,
+          "novo": false,
+          "saiu": false
+        }
+      ]
     }
   ]
 }

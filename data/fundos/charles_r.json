@@ -1439,6 +1439,125 @@
           "saiu": true
         }
       ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2026-02-28",
+      "data_ref_anterior": "2026-01-31",
+      "posicoes": [
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.143011,
+          "tamanho_anterior": 0.148578,
+          "variacao": -0.005566,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "DXCO3",
+          "tamanho": 0.130483,
+          "tamanho_anterior": 0.137203,
+          "variacao": -0.00672,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TUPY3",
+          "tamanho": 0.119737,
+          "tamanho_anterior": 0.107899,
+          "variacao": 0.011838,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SLCE3",
+          "tamanho": 0.100289,
+          "tamanho_anterior": 0.101321,
+          "variacao": -0.001032,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.08051,
+          "tamanho_anterior": 0.076653,
+          "variacao": 0.003857,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TX US - Investimento no Exterior",
+          "tamanho": 0.078588,
+          "tamanho_anterior": 0.077219,
+          "variacao": 0.001369,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.070408,
+          "tamanho_anterior": 0.0799,
+          "variacao": -0.009492,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AGRO3",
+          "tamanho": 0.067326,
+          "tamanho_anterior": 0.066807,
+          "variacao": 0.000519,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EUCA4",
+          "tamanho": 0.052033,
+          "tamanho_anterior": 0.051,
+          "variacao": 0.001033,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.050214,
+          "tamanho_anterior": 0.048603,
+          "variacao": 0.001611,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "USIM5",
+          "tamanho": 0.034252,
+          "tamanho_anterior": 0.030357,
+          "variacao": 0.003895,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VAPORES CI - Investimento no Exterior",
+          "tamanho": 0.019468,
+          "tamanho_anterior": 0.02006,
+          "variacao": -0.000593,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB10",
+          "tamanho": 0.007427,
+          "tamanho_anterior": 0,
+          "variacao": 0.007427,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB2",
+          "tamanho": 0,
+          "tamanho_anterior": 0.00183,
+          "variacao": -0.00183,
+          "novo": false,
+          "saiu": true
+        }
+      ]
     }
   ]
 }

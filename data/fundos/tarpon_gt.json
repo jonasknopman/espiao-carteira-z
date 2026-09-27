@@ -1215,6 +1215,85 @@
           "saiu": false
         }
       ]
+    },
+    {
+      "mes_id": "2026-02",
+      "data_ref": "2026-02-28",
+      "data_ref_anterior": "2026-01-31",
+      "posicoes": [
+        {
+          "codigo": "FRAS3",
+          "tamanho": 0.321872,
+          "tamanho_anterior": 0.319533,
+          "variacao": 0.002338,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MILS3",
+          "tamanho": 0.141097,
+          "tamanho_anterior": 0.146807,
+          "variacao": -0.00571,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.136293,
+          "tamanho_anterior": 0.13763,
+          "variacao": -0.001338,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.101572,
+          "tamanho_anterior": 0.103727,
+          "variacao": -0.002155,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.095681,
+          "tamanho_anterior": 0.098448,
+          "variacao": -0.002767,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TRIS3",
+          "tamanho": 0.074468,
+          "tamanho_anterior": 0.071052,
+          "variacao": 0.003416,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT4",
+          "tamanho": 0.040531,
+          "tamanho_anterior": 0.045975,
+          "variacao": -0.005443,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGN3",
+          "tamanho": 0.014742,
+          "tamanho_anterior": 0.014323,
+          "variacao": 0.000419,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAPT3",
+          "tamanho": 0.00113,
+          "tamanho_anterior": 0.001024,
+          "variacao": 0.000106,
+          "novo": false,
+          "saiu": false
+        }
+      ]
     }
   ]
 }
