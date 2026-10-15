@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-08-13",
-  "total_tickers": 937,
+  "gerado_em": "2026-09-28",
+  "total_tickers": 939,
   "setores": [
     "Administração de empresas e empreendimentos",
     "Agricultura, pecuária, silvicultura, pesca e caça",
@@ -102,6 +102,7 @@
     "AZEV4": "Construção",
     "AZUL11": "Exterior/Não classificado",
     "AZUL4": "Transporte e armazenamento",
+    "AZUL53": "Transporte e armazenamento",
     "AZUL54": "Transporte e armazenamento",
     "AZZA3": "Indústria manufatureira",
     "B1AX34": "Indústria manufatureira",
@@ -919,6 +920,7 @@
     "VAMO33": "Imobiliária e locadora de outros bens",
     "VAPORES CI - Investimento no Exterior": "Exterior/Não classificado",
     "VBBR3": "Comércio atacadista",
+    "VGIA12": "Indústria manufatureira",
     "VIIA3": "Comércio varejista",
     "VISA34": "Serviços de apoio a empresas e gerenciamento de resíduos e remediação",
     "VITT3": "Agricultura, pecuária, silvicultura, pesca e caça",

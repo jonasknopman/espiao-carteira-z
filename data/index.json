@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-27",
+  "atualizado_em": "2026-10-15",
   "meses": [
     {
       "id": "2025-03",
@@ -84,6 +84,13 @@
       "gerado_em": "2026-09-27",
       "n_fundos": 15,
       "n_ativos": 221
+    },
+    {
+      "id": "2026-03",
+      "label": "Março 2026",
+      "gerado_em": "2026-10-15",
+      "n_fundos": 15,
+      "n_ativos": 223
     }
   ]
 }

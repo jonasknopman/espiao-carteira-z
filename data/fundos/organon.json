@@ -1849,7 +1849,7 @@
           "codigo": "FBMC4",
           "tamanho": 0,
           "tamanho_anterior": 0,
-          "variacao": -0,
+          "variacao": 0,
           "novo": false,
           "saiu": false
         },
@@ -1868,6 +1868,157 @@
           "variacao": -0.000648,
           "novo": false,
           "saiu": true
+        }
+      ]
+    },
+    {
+      "mes_id": "2026-03",
+      "data_ref": "2026-03-31",
+      "data_ref_anterior": "2026-02-28",
+      "posicoes": [
+        {
+          "codigo": "OPCT3",
+          "tamanho": 0.113107,
+          "tamanho_anterior": 0.111126,
+          "variacao": 0.001981,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CAML3",
+          "tamanho": 0.104918,
+          "tamanho_anterior": 0.10702,
+          "variacao": -0.002102,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ANIM3",
+          "tamanho": 0.10467,
+          "tamanho_anterior": 0.098516,
+          "variacao": 0.006154,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.098686,
+          "tamanho_anterior": 0.095223,
+          "variacao": 0.003463,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.094273,
+          "tamanho_anterior": 0.092423,
+          "variacao": 0.00185,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VLID3",
+          "tamanho": 0.070941,
+          "tamanho_anterior": 0.069017,
+          "variacao": 0.001924,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.068796,
+          "tamanho_anterior": 0.072071,
+          "variacao": -0.003275,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MATD3",
+          "tamanho": 0.065734,
+          "tamanho_anterior": 0.061604,
+          "variacao": 0.004131,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "OFSA3",
+          "tamanho": 0.05514,
+          "tamanho_anterior": 0.046391,
+          "variacao": 0.008749,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MLAS3",
+          "tamanho": 0.052231,
+          "tamanho_anterior": 0.050631,
+          "variacao": 0.001601,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CVCB3",
+          "tamanho": 0.045811,
+          "tamanho_anterior": 0.045728,
+          "variacao": 0.000083,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.034281,
+          "tamanho_anterior": 0.036777,
+          "variacao": -0.002496,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TUPY3",
+          "tamanho": 0.032788,
+          "tamanho_anterior": 0.030874,
+          "variacao": 0.001915,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGBR4",
+          "tamanho": 0.027475,
+          "tamanho_anterior": 0.023711,
+          "variacao": 0.003764,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PNVL3",
+          "tamanho": 0.016138,
+          "tamanho_anterior": 0.01647,
+          "variacao": -0.000332,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MGEL4",
+          "tamanho": 0.003621,
+          "tamanho_anterior": 0.003553,
+          "variacao": 0.000068,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB10",
+          "tamanho": 0.002567,
+          "tamanho_anterior": 0.002553,
+          "variacao": 0.000014,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FBMC4",
+          "tamanho": 0,
+          "tamanho_anterior": 0,
+          "variacao": 0,
+          "novo": false,
+          "saiu": false
         }
       ]
     }

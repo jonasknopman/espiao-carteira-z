@@ -1486,6 +1486,133 @@
           "saiu": false
         }
       ]
+    },
+    {
+      "mes_id": "2026-03",
+      "data_ref": "2026-03-31",
+      "data_ref_anterior": "2026-02-28",
+      "posicoes": [
+        {
+          "codigo": "KEPL3",
+          "tamanho": 0.186896,
+          "tamanho_anterior": 0.19754,
+          "variacao": -0.010644,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SHUL4",
+          "tamanho": 0.176339,
+          "tamanho_anterior": 0.170445,
+          "variacao": 0.005894,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LEVE3",
+          "tamanho": 0.15078,
+          "tamanho_anterior": 0.146982,
+          "variacao": 0.003798,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TTEN3",
+          "tamanho": 0.116212,
+          "tamanho_anterior": 0.11003,
+          "variacao": 0.006182,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TUPY3",
+          "tamanho": 0.060952,
+          "tamanho_anterior": 0.061748,
+          "variacao": -0.000795,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LAVV3",
+          "tamanho": 0.051291,
+          "tamanho_anterior": 0.061868,
+          "variacao": -0.010578,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "WLMM4",
+          "tamanho": 0.040056,
+          "tamanho_anterior": 0.041341,
+          "variacao": -0.001284,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SMTO3",
+          "tamanho": 0.032961,
+          "tamanho_anterior": 0.018628,
+          "variacao": 0.014332,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FESA4",
+          "tamanho": 0.032388,
+          "tamanho_anterior": 0.026035,
+          "variacao": 0.006353,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EMAE4",
+          "tamanho": 0.031711,
+          "tamanho_anterior": 0.032922,
+          "variacao": -0.001211,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEBR3",
+          "tamanho": 0.029588,
+          "tamanho_anterior": 0.025639,
+          "variacao": 0.003949,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CEBR5",
+          "tamanho": 0.01744,
+          "tamanho_anterior": 0.015595,
+          "variacao": 0.001846,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRPG6",
+          "tamanho": 0.016164,
+          "tamanho_anterior": 0.016981,
+          "variacao": -0.000817,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CRPG5",
+          "tamanho": 0.015759,
+          "tamanho_anterior": 0.014329,
+          "variacao": 0.00143,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TGMA3",
+          "tamanho": 0.014517,
+          "tamanho_anterior": 0.038054,
+          "variacao": -0.023537,
+          "novo": false,
+          "saiu": false
+        }
+      ]
     }
   ]
 }
