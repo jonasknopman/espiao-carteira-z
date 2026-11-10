@@ -2485,6 +2485,213 @@
           "saiu": true
         }
       ]
+    },
+    {
+      "mes_id": "2026-04",
+      "data_ref": "2026-04-30",
+      "data_ref_anterior": "2026-03-31",
+      "posicoes": [
+        {
+          "codigo": "ENEV3",
+          "tamanho": 0.21936,
+          "tamanho_anterior": 0.201201,
+          "variacao": 0.018159,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR3",
+          "tamanho": 0.167161,
+          "tamanho_anterior": 0.092589,
+          "variacao": 0.074572,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "OPCT3",
+          "tamanho": 0.091276,
+          "tamanho_anterior": 0.081007,
+          "variacao": 0.010269,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTB3",
+          "tamanho": 0.058762,
+          "tamanho_anterior": 0.070284,
+          "variacao": -0.011523,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TTEN3",
+          "tamanho": 0.048386,
+          "tamanho_anterior": 0.046625,
+          "variacao": 0.001761,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0.047279,
+          "tamanho_anterior": 0.070084,
+          "variacao": -0.022806,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GGPS3",
+          "tamanho": 0.044848,
+          "tamanho_anterior": 0.045851,
+          "variacao": -0.001003,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "RAIL3",
+          "tamanho": 0.040309,
+          "tamanho_anterior": 0.030525,
+          "variacao": 0.009784,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "XPBR31",
+          "tamanho": 0.04015,
+          "tamanho_anterior": 0.049837,
+          "variacao": -0.009686,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "FUNDO OFF - Investimento no Exterior",
+          "tamanho": 0.038989,
+          "tamanho_anterior": 0.036135,
+          "variacao": 0.002854,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PLPL3",
+          "tamanho": 0.03874,
+          "tamanho_anterior": 0.054653,
+          "variacao": -0.015913,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.0381,
+          "tamanho_anterior": 0.045634,
+          "variacao": -0.007534,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PRIO3",
+          "tamanho": 0.031568,
+          "tamanho_anterior": 0.025752,
+          "variacao": 0.005816,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "TEND3",
+          "tamanho": 0.029245,
+          "tamanho_anterior": 0.032859,
+          "variacao": -0.003614,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ABCB4",
+          "tamanho": 0.024806,
+          "tamanho_anterior": 0.03517,
+          "variacao": -0.010363,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INBR32",
+          "tamanho": 0.019359,
+          "tamanho_anterior": 0,
+          "variacao": 0.019359,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.015653,
+          "tamanho_anterior": 0,
+          "variacao": 0.015653,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "IGTI11",
+          "tamanho": 0.013955,
+          "tamanho_anterior": 0.01434,
+          "variacao": -0.000386,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "APVA0",
+          "tamanho": 0.012788,
+          "tamanho_anterior": 0.014539,
+          "variacao": -0.001751,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ORVR11",
+          "tamanho": 0.01027,
+          "tamanho_anterior": 0.007784,
+          "variacao": 0.002486,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "WEST3",
+          "tamanho": 0.00764,
+          "tamanho_anterior": 0.008325,
+          "variacao": -0.000684,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.000075,
+          "tamanho_anterior": 0,
+          "variacao": 0.000075,
+          "novo": true,
+          "saiu": false
+        },
+        {
+          "codigo": "HAPV3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.010266,
+          "variacao": -0.010266,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "SOJA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.003238,
+          "variacao": -0.003238,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ABCB10",
+          "tamanho": 0,
+          "tamanho_anterior": 0.002743,
+          "variacao": -0.002743,
+          "novo": false,
+          "saiu": true
+        }
+      ]
     }
   ]
 }

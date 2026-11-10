@@ -3621,6 +3621,261 @@
           "saiu": true
         }
       ]
+    },
+    {
+      "mes_id": "2026-04",
+      "data_ref": "2026-04-30",
+      "data_ref_anterior": "2026-03-31",
+      "posicoes": [
+        {
+          "codigo": "ALOS3",
+          "tamanho": 0.069452,
+          "tamanho_anterior": 0.06867,
+          "variacao": 0.000782,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MRVE3",
+          "tamanho": 0.066151,
+          "tamanho_anterior": 0.069457,
+          "variacao": -0.003306,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BBDC3",
+          "tamanho": 0.061679,
+          "tamanho_anterior": 0.059054,
+          "variacao": 0.002625,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BBAS3",
+          "tamanho": 0.048589,
+          "tamanho_anterior": 0.047808,
+          "variacao": 0.000781,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SUZB3",
+          "tamanho": 0.047306,
+          "tamanho_anterior": 0.044103,
+          "variacao": 0.003203,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VALE3",
+          "tamanho": 0.047103,
+          "tamanho_anterior": 0.049635,
+          "variacao": -0.002533,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "GMAT3",
+          "tamanho": 0.046827,
+          "tamanho_anterior": 0.044036,
+          "variacao": 0.002791,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PETR4",
+          "tamanho": 0.046215,
+          "tamanho_anterior": 0.044992,
+          "variacao": 0.001223,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CMIG4",
+          "tamanho": 0.045433,
+          "tamanho_anterior": 0.040387,
+          "variacao": 0.005047,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "PSSA3",
+          "tamanho": 0.044168,
+          "tamanho_anterior": 0.042935,
+          "variacao": 0.001234,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LOGG3",
+          "tamanho": 0.044165,
+          "tamanho_anterior": 0.044016,
+          "variacao": 0.00015,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "HYPE3",
+          "tamanho": 0.042232,
+          "tamanho_anterior": 0.036757,
+          "variacao": 0.005475,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "LEVE3",
+          "tamanho": 0.033013,
+          "tamanho_anterior": 0.031262,
+          "variacao": 0.001751,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "BBSE3",
+          "tamanho": 0.031117,
+          "tamanho_anterior": 0.032339,
+          "variacao": -0.001222,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "STOC34",
+          "tamanho": 0.029939,
+          "tamanho_anterior": 0.024479,
+          "variacao": 0.00546,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "VULC3",
+          "tamanho": 0.029913,
+          "tamanho_anterior": 0.031705,
+          "variacao": -0.001792,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "IRBR3",
+          "tamanho": 0.029154,
+          "tamanho_anterior": 0.02774,
+          "variacao": 0.001413,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ALUP11",
+          "tamanho": 0.027579,
+          "tamanho_anterior": 0.027013,
+          "variacao": 0.000566,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "YDUQ3",
+          "tamanho": 0.025945,
+          "tamanho_anterior": 0.032246,
+          "variacao": -0.006302,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AZZA3",
+          "tamanho": 0.025042,
+          "tamanho_anterior": 0.027678,
+          "variacao": -0.002636,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "EVEN3",
+          "tamanho": 0.021803,
+          "tamanho_anterior": 0.024467,
+          "variacao": -0.002665,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "SHUL4",
+          "tamanho": 0.019608,
+          "tamanho_anterior": 0.018725,
+          "variacao": 0.000882,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MELK3",
+          "tamanho": 0.018368,
+          "tamanho_anterior": 0.01801,
+          "variacao": 0.000358,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "INTB3",
+          "tamanho": 0.015308,
+          "tamanho_anterior": 0.022637,
+          "variacao": -0.007329,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MDIA3",
+          "tamanho": 0.014417,
+          "tamanho_anterior": 0.013571,
+          "variacao": 0.000846,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "MYPK3",
+          "tamanho": 0.011546,
+          "tamanho_anterior": 0.012697,
+          "variacao": -0.00115,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "CSUD3",
+          "tamanho": 0.010329,
+          "tamanho_anterior": 0.011463,
+          "variacao": -0.001134,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "ITUB4",
+          "tamanho": 0.004348,
+          "tamanho_anterior": 0.008101,
+          "variacao": -0.003753,
+          "novo": false,
+          "saiu": false
+        },
+        {
+          "codigo": "AXIA3",
+          "tamanho": 0,
+          "tamanho_anterior": 0.004076,
+          "variacao": -0.004076,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "ITSA4",
+          "tamanho": 0,
+          "tamanho_anterior": 0.032873,
+          "variacao": -0.032873,
+          "novo": false,
+          "saiu": true
+        },
+        {
+          "codigo": "AXIA7",
+          "tamanho": 0,
+          "tamanho_anterior": 0.000927,
+          "variacao": -0.000927,
+          "novo": false,
+          "saiu": true
+        }
+      ]
     }
   ]
 }

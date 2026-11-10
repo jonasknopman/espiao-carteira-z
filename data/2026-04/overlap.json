@@ -1,0 +1,741 @@
+{
+  "mes_id": "2026-04",
+  "gerado_em": "2026-11-10",
+  "pares": [
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.530432
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.340244
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.323925
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.312701
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.300386
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "09.143.435/0001-60",
+      "nome_b": "GTI DIMONA",
+      "overlap": 0.224615
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.22211
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.217638
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.217592
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.213747
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.20358
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.181876
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.177562
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.177198
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.168137
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.147274
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.133839
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.132479
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.130711
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.128037
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.123644
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.122499
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.108003
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.103368
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.101116
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.094495
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.087762
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.086601
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.081563
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.080611
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.07216
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.069372
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.069136
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.067056
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.065045
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.06309
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.061572
+    },
+    {
+      "cnpj_a": "36.352.539/0001-57",
+      "nome_a": "REAL INV",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.058853
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.057534
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.056537
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.05262
+    },
+    {
+      "cnpj_a": "36.352.539/0001-57",
+      "nome_a": "REAL INV",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.05262
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.052405
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.05213
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.051191
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.051086
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.048428
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0.048386
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.047068
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "22.041.216/0001-38",
+      "nome_b": "VOKIN",
+      "overlap": 0.04613
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.041528
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.041062
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "28.767.201/0001-38",
+      "nome_b": "HIX",
+      "overlap": 0.040309
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.039251
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.038193
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.037984
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.037741
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.037741
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.037438
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.03736
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0.034965
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0.031656
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "14.213.077/0001-54",
+      "nome_b": "GUEPARDO",
+      "overlap": 0.031374
+    },
+    {
+      "cnpj_a": "38.251.507/0001-90",
+      "nome_a": "ORGANON",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.028524
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.027606
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.023954
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.021282
+    },
+    {
+      "cnpj_a": "09.143.435/0001-60",
+      "nome_a": "GTI DIMONA",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.020745
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.017753
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.014856
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.014668
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0.01452
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0.012814
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.011168
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.007693
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.005997
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0.004348
+    },
+    {
+      "cnpj_a": "29.088.425/0001-86",
+      "nome_a": "FLAGSHIP",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0.00349
+    },
+    {
+      "cnpj_a": "32.071.783/0001-90",
+      "nome_a": "ABS PACE LB",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0.00349
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "14.438.229/0001-17",
+      "nome_b": "CHARLES R",
+      "overlap": 0.001082
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0.000075
+    },
+    {
+      "cnpj_a": "05.964.067/0001-60",
+      "nome_a": "FINACAP",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "19.727.078/0001-30",
+      "nome_b": "STOXOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.213.077/0001-54",
+      "nome_a": "GUEPARDO",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "14.438.229/0001-17",
+      "nome_a": "CHARLES R",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "19.727.078/0001-30",
+      "nome_a": "STOXOS",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "27.389.566/0001-03",
+      "nome_b": "TARPON GT",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "22.041.216/0001-38",
+      "nome_a": "VOKIN",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "28.246.609/0001-64",
+      "nome_b": "IP IPG",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "29.088.410/0001-18",
+      "nome_b": "DELPHOS",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "32.071.783/0001-90",
+      "nome_b": "ABS PACE LB",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "36.352.539/0001-57",
+      "nome_b": "REAL INV",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "27.389.566/0001-03",
+      "nome_a": "TARPON GT",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "29.088.425/0001-86",
+      "nome_b": "FLAGSHIP",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.246.609/0001-64",
+      "nome_a": "IP IPG",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "28.767.201/0001-38",
+      "nome_a": "HIX",
+      "cnpj_b": "42.190.558/0001-27",
+      "nome_b": "VERBIER",
+      "overlap": 0
+    },
+    {
+      "cnpj_a": "29.088.410/0001-18",
+      "nome_a": "DELPHOS",
+      "cnpj_b": "38.251.507/0001-90",
+      "nome_b": "ORGANON",
+      "overlap": 0
+    }
+  ]
+}
